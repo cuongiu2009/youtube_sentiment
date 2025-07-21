@@ -1,0 +1,7 @@
+google-api-python-client
+underthesea
+vaderSentiment
+transformers
+wordcloud
+matplotlib
+pandas

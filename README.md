@@ -23,9 +23,9 @@ Phân tích cảm xúc bình luận Youtube bằng các mô hình tự động (
 - Trực quan hóa giúp kiểm tra nhanh độ hợp lý của nhãn.
 
 ## 5. Hướng dẫn sử dụng
-1. Cài đặt các thư viện cần thiết:
+1. Cài đặt các thư viện cần thiết bằng lệnh:
    ```bash
-   pip install google-api-python-client underthesea vaderSentiment transformers wordcloud matplotlib pandas
+   pip install -r requirements.txt
    ```
 2. Chạy từng file Python theo thứ tự:
    - get_youtube_comments.py
