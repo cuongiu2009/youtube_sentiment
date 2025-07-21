@@ -1,907 +1,762 @@
-1: 1: コロナ禍のmake you happy は名曲でした。 | Sentiment: None
-2: 2: i am so confused why there is no reol song or vocaloid stuff? | Sentiment: None
-3: 3: なんでnarutoのsignあるんですかね？というか…yoasobiと米須玄師（ハチ）ばっかじゃん | Sentiment: negative
-4: 4: bro you gotta hear flamingo | Sentiment: None
-5: 5: 12:19 i want to let it be known i am probably 50% of the veiws | Sentiment: negative
-6: 6: no yui&#39;s song 😢 | Sentiment: None
-7: 7: 日本の曲を楽しんでくれてありがとう！アニメソングは、アニメのシナリオを題材に歌詞が書かれていたり、主人公の心情を歌ってることも多いから、気になったら翻訳してみてほしい☺また旅行に来た時には、思いきり日本を楽しんでね🥰 | Sentiment: negative
-8: 8: i can&#39;t believe orange 7 isn&#39;t on the list | Sentiment: None
-9: 9: 29:48 his face help lolll 😂 | Sentiment: None
-10: 10: i’m so glad we’re back, i’ve been keeping a special eye on your discord for a year since the last update 🩵 | Sentiment: positive
-11: 11: one ok rock the best band in japan for me | Sentiment: None
-12: 12: keep those lips sealed or im bout to blow | Sentiment: None
-13: 13: stop glazing | Sentiment: negative
-14: 14: where link? | Sentiment: positive
-15: 15: the fuck where is suzume. | Sentiment: None
-16: 16: ニック大好きです ❤(ӧｖӧ｡)是非アメリカの曲トップ100のレビューもお願いします！見てみたーい！知りたい♪ | Sentiment: negative
-17: 17: so glad that peace sign and inferno made the top 20 | Sentiment: None
-18: 18: their best songs come from some of the most complex emotions, and tempered by cultural norms and expectations. it was truly unleashed with vocaloids, where anyone with a computer can express themselves through songs that cover everything from love and loss to madness and isolation, as well as mundane things like your pudding dying (爆砕プリン) or last-minute assignments, virtually anonymously, | Sentiment: positive
-19: 19: yoasobi supremacy | Sentiment: negative
-20: 20: 2:43 tracing that dream in 91 is diabolical, this deserves better😭🙏 | Sentiment: None
-21: 21: i can&#39;t believe there&#39;s no one ok rock, nano, my first story 😭😭 | Sentiment: positive
-22: 22: 4:41 he knows peak | Sentiment: None
-23: 23: utada hikaru and mayumi itsuwa is a legend | Sentiment: negative
-24: 24: 急なppapおもろすぎ | Sentiment: None
-25: 25: i&#39;m heartbroken that &quot;chicken attack&quot; did not made into the list. | Sentiment: negative
-26: 26: 黄猿ってコメントした人、面白すぎるw | Sentiment: None
-27: 27: why there is no spyair and burnout syndrome?? | Sentiment: None
-28: 28: was bro complaining about tokyo drift like that song isnt amazing | Sentiment: positive
-29: 29: wheres the baby metal react lol | Sentiment: None
-30: 30: 15:08 definitely yeah 🤣🤣🤣 | Sentiment: None
-31: 31: someone in japan made a video of you reacting to this and added translations, everyone thinks your reaction to ppap is hilarious ahahah got like 400k views 😂 | Sentiment: None
-32: 32: ppapはジャスティンビーバーが生んだんだよ😂 | Sentiment: None
-33: 33: 米津玄師がストリーミングサービスを開始したのが2020年だからピースサインとかloserは後から配信されたって考えるとこの順位にいるのヤバいな | Sentiment: negative
-34: 34: where&#39;s myth&amp;roid man | Sentiment: positive
-35: 35: 26:14 just learn japanese man, it really isn&#39;t that hard | Sentiment: positive
-36: 36: more ado | Sentiment: None
-37: 37: とても良い動画です！ | Sentiment: negative
-38: yoasobi をトップに!!!! | Sentiment: negative
-39: 38: brother i think your reactions are so fake that i started to believe in santa again thx so much | Sentiment: None
-40: 39: for me, aimyon is the best japanese female singer and songwriter rn | Sentiment: None
-41: 40: bro american is scam bro a scam boring place and they will never let asian take over on their chart | Sentiment: None
-42: 41: then you see that he reacts the you are my specialz then he said he loved it who the hell is that reaction getting bias | Sentiment: None
-43: 42: nahh bros cant handle such bloody song like you are my specialz | Sentiment: positive
-44: 43: he might love wagakki band | Sentiment: positive
-45: 44: listening to all of these song about to make me have an eargasm | Sentiment: None
-46: 45: chat, i sang along with 80% of the songs in this list. am i cooked? | Sentiment: negative
-47: 46: japan loves lemon so much that they actually hold a party annually to celebrate it. go search lemon party if you are curious. | Sentiment: negative
-48: 47: 06:24 is just more killing it after you watch the live action.it makes my heart feels empty | Sentiment: negative
-49: 48: stay with me has to better ranking it has to be atleast 20 and where is the flyday chinatown, i cant stop loneliness ,duvet ,suki suki daisuki, remember summer day, fantasy ,bay city,4 am, and some others that i cant remember | Sentiment: None
-50: 49: where the fuck fireworks? | Sentiment: positive
-51: 50: asían kung fu generation??😢 | Sentiment: None
-52: 51: im japanese and i just wanna say we all love u men | Sentiment: positive
-53: 52: ppap黄猿って言われてて草 | Sentiment: negative
-54: 53: you just need to move to japan atp | Sentiment: negative
-55: 54: kick back was inspired by a song call souda! we&#39;re alive by morning musume. the doryoku mirai a beautiful star was literally taken from that song. | Sentiment: positive
-56: 55: im genuinely quite surprised that zutomayo didnt appear once in that list | Sentiment: positive
-57: 56: where is suzume bro? my favorite song just got hard disrespected. | Sentiment: positive
-58: 57: bro im now 19 and i didn&#39;t first love was a japanese song💀 | Sentiment: positive
-59: 58: really wierd that there is no flow song on the list | Sentiment: positive
-60: 59: не считая 4 и 5 места - всё остальное хорошо) | Sentiment: negative
-61: 60: liked the vid when you said you didn&#39;t like specialz | Sentiment: None
-62: 61: mass of the fermenting dregs world is yours album please react on this ❤❤❤❤❤❤ | Sentiment: None
-63: 62: 18:55 cute | Sentiment: negative
-64: 63: 修正版のトップ200が出ているので、そちらもよければ是非見てください‼︎ランキングめっちゃ変動してますよ！ | Sentiment: negative
-65: 64: at least its most played songs not most liked lol | Sentiment: None
-66: 65: fyi, &quot;back number&quot; was called &quot;the king of broken heart&quot; because their song was sooo heartbroken with a nice touch on the lyric that hits your heart. | Sentiment: None
-67: 66: 2:38 relate broo, i live in country where the 99.9% politicians is corrupt where our tax money didn&#39;t even used to atleast make road better right now every single roads have street holes | Sentiment: None
-68: 67: shinunaga iiwaa😭 | Sentiment: negative
-69: 68: bro i&#39;m waiting for your vlog video in japan, i think you will look like an embarrassing baaka on the streets of japan.wkwkwkw | Sentiment: positive
-70: 69: meh, you should read the lyric and meaning behind lemon. lemon is peak with the story behind, try it before it tooo latee!!!! | Sentiment: None
-71: 70: specialz?? where are jjk fans pls 19:48 | Sentiment: negative
-72: 71: 14:52 nic: can i get aoi ! aoi!chat: aoi! aoi!!singer: shiroi, shiroi !! | Sentiment: negative
-73: 72: kenshi gives me chills in a good way | Sentiment: positive
-74: 73: wht? i thought idol was the most streamed japanese song | Sentiment: positive
-75: 74: where can i find the actual video? | Sentiment: None
-76: 75: 30:22 this ppap song was a trend long time ago that many people and even artists do this, it&#39;s quite funny and also brainwashed | Sentiment: None
-77: 76: 23:30 for your information, niziu was a jpop group under korean entertainment company called jyp entertainmentyou should try listen some of their songs | Sentiment: None
-78: 77: i&#39;m surprised crying for rain is just at 43. i thought it would be at least at top 20 or so | Sentiment: None
-79: 78: hi | Sentiment: positive
-80: i&#39;d like you to take a look at “rydeen reboot” | Sentiment: None
-81: i don&#39;t know what you think of it, but it might interest some of you. | Sentiment: None
-82: 79: 9:36 can someone translate number 68, the title and band | Sentiment: None
-83: 80: yuika in 100.... not expecti g | Sentiment: None
-84: 81: sad that oddloop isn’t in it | Sentiment: negative
-85: 82: yo during the 32nd song bro looked like he went braindead or something haha | Sentiment: None
-86: 83: gua sih yah mutusin buat make x cuman buat dapet info aja soal hal yg gua sukain | Sentiment: None
-87: 84: number 91 my personal favorite yoasobi song | Sentiment: positive
-88: 85: ese final fue muy duro para todos jajajajaj | Sentiment: negative
-89: 86: bro not knowing masaki suda is crime... it&#39;s the ranking top 66 guy i&#39;m talking abt btw... he&#39;s one of the best artist and actor in japan | Sentiment: None
-90: 87: i&#39;m invincible is my favorite song by them | Sentiment: negative
-91: 88: well, not the 100 songs most played in japan, but the 100 japanese songs most played around the world hahaha | Sentiment: None
-92: 89: were are asian kung fuu ? | Sentiment: negative
-93: 90: his face while listening to unravel got me. | Sentiment: negative
-94: 91: the amount of anime songs here is kinda wild. imagine that over here. “among the 100 most listened songs is everything miley cyrus, michael jackson still, the most recent ed sheeran, gravity falls op, powerpuff girls op, samurai jack op, gravity falls wierdmaggedon op, owl house op”lol | Sentiment: None
-95: 92: ppapクソワロタwwwwwww | Sentiment: negative
-96: 93: unravel のリアクション好きすぎる。この言わなくてもわかるだろ感 dude i love your reaction when unravel plays | Sentiment: positive
-97: 94: the fact that yui, kyary pamyu pamyu, tofu beats and chanmina aren’t on here is wild to me | Sentiment: None
-98: 95: 2:43 this song made me cry like a baby when i first listened to it. instantly became one of my all time. | Sentiment: positive
-99: 96: lessgo yoru ni kakeru and odo and lemon and many others ha | Sentiment: None
-100: 97: love ado💙 one of my favoriteslove the rest too❤ | Sentiment: positive
-101: 98: you should watch the music video of number 88. its titled niji (rainbow). its about life after marriage. and also its a doraemon movie theme song where nobita and shizuka got married. | Sentiment: None
-102: 99: ppap is the best song ever. btw, that troll song singer is actually a comedian. he had series of these and well know in asia for his non-sequitur humor. (it&#39;s not monty python... but more like a subdue benny hill) | Sentiment: None
-103: 100: should prob point out these songs are top due to anime (for the most part).it is not only japanese people listening to these, but just anime fans in general, so quite frankly it is probably a large amount of these streams being western. | Sentiment: None
-104: 101: 20:44 natori mentioned!?!!!🔥🔥🔥 natori for the president | Sentiment: None
-105: 102: 80% of this list is just uninspired jpop slop. y&#39;all know it | Sentiment: None
-106: 103: 29:47 🖋️🍍🍎🖋️ | Sentiment: None
-107: 104: i&#39;m shocked that there are no songs by miku or vocaloid, are they not included in the list?31:00 😭😭😭😂😂 | Sentiment: None
-108: 105: back number is my fav japanese band ever. | Sentiment: None
-109: 106: 18:50 glad to see kyouran hey kids this high even after like 9 years..❤ | Sentiment: positive
-110: 107: bro i wish mono no aware were in the list. tbf they are like very old in internet terms | Sentiment: None
-111: 108: you have micheal jackson dominating the list for sure | Sentiment: None
-112: 109: 海の幽霊聞いてみてほしいな | Sentiment: negative
-113: 110: no more &quot;(rapper) reacting to japanese song&quot; 🥀 nick is not officially retired of being rap | Sentiment: None
-114: 111: kizaru 💀💀💀 | Sentiment: negative
-115: 112: i am japanese. i use a translator to make comments. i&#39;m sorry if it&#39;s a strange sentence.🤖💦&quot;lemon&quot; is the theme song of the drama, a song that sings painfully about the sadness and loss of a loved one, and became popular because yonezu&#39;s own family&#39;s death had a significant impact on the production and many people sympathized with the lyrics.i&#39;m glad you seem to be having a good time! thank you for listening to japanese songs.🥳💖 | Sentiment: None
-116: 113: i actually suggest listening to best 100 vocaloids prob posted by same personit&#39;s so cool (by japanese i don&#39;t know about ya) | Sentiment: None
-117: 114: how does bro not know of ppap😭🙏 | Sentiment: positive
-118: 115: trust me, i used to work in japanese karaoke from 2018-2021. that lemon song just keeps on number 1 on chart for whole year. that shows how crazy japanese love that song | Sentiment: positive
-119: 116: no asain kung-fu gen and flow wtf japan 😢 | Sentiment: None
-120: 117: real on&#39;s know ppap (osu ninjas) | Sentiment: positive
-121: 118: 29:48 dann didn&#39;t know kizaru could spit bars | Sentiment: None
-122: 119: yesss , do babymetallll | Sentiment: None
-123: 120: this is so good ,that is why i listen now only japan song ... look 100 in usa , 80-90% its about money ,sex itp and in wideo they just show only ass . in 100 japan song you got 0 butt.. | Sentiment: None
-124: 121: number 4? i caught my japanese friend listening to tokyo drift at school and i asked him if that&#39;s a popular song. he said it was very popular. didn&#39;t realize how serious he was. | Sentiment: positive
-125: 122: night dancer on top | Sentiment: positive
-126: 123: some wild ones on here. not bad, but like just okay at absolute best. | Sentiment: positive
-127: 124: no mukanjyo, no avid, no spark again, its so sad | Sentiment: None
-128: 125: ok | Sentiment: positive
-129: 126: try to find out why kenshi wrote the &quot;lemon&quot; song in the first place and you wouldn&#39;t be surprised why that song is so popular among the japanese people. | Sentiment: None
-130: 127: where is suzumeeee | Sentiment: None
-131: 128: 唐突なppapで爆笑して死にそう | Sentiment: None
-132: 129: the ones by dism and yoasobi are always good ones in my opinion and king gnu | Sentiment: positive
-133: 130: not a single asian kungfu generation song? i don’t believe it’s a real top 100 💔 | Sentiment: positive
-134: 131: need more | Sentiment: None
-135: 132: ppap最高 | Sentiment: negative
-136: 133: kenshi was suffering from depression, but writing song is like his light, like life gives you lemons. | Sentiment: positive
-137: 134: tbh, i prefer kenshi yonezu&#39;s orion waaaaaaay more than lemon... | Sentiment: None
-138: 135: 14:40 nostalgia 🔥 | Sentiment: None
-139: 136: 91, reminds me of that one ratatatat doujin :( | Sentiment: None
-140: 137: japan&#39;s no. 1 glazer | Sentiment: None
-141: 138: 33:46 the song lemon actually has a much deeper meaning that i think everyone can relate to | Sentiment: negative
-142: 139: yeah nah that yuri song goes hard, bro has an amazing voice | Sentiment: positive
-143: 140: “the j-pop top 200 is out! | Sentiment: None
-144: 141: request：orangestar - surges soooooo gooood | Sentiment: negative
-145: 142: unnatural wouldn&#39;t slap nearly as hard without lemon. | Sentiment: None
-146: 143: ppapに困惑するニコラスニキ好き | Sentiment: negative
-147: 144: can guys help me translate n29 i love her voice hehe❤ | Sentiment: positive
-148: 145: damn i dont know that you’re a big fan of one ok rock 😭 hell yeah, my fellow one ok rockers👊 | Sentiment: positive
-149: 146: jaja all the top 100 are really good songs of course i will not hear all the song but a lot yes because are some style of music i dont like it, i really hope see unlucky morpheus in this top one day or hannabie | Sentiment: positive
-150: 147: as a person who’s japanese… やばい、懐かしすぎていつでも聴いても頭の中で響くぐらい好きw | Sentiment: negative
-151: 148: lemonは命の重みが伝わるから大好きなんだよな | Sentiment: negative
-152: 149: back number goat | Sentiment: negative
-153: 150: yoasobi supremacy | Sentiment: None
-154: 151: nick we all love you, our fave pre watcher | Sentiment: positive
-155: 152: i want that reaction to top 100 american songs you did at the end lmao | Sentiment: None
-156: 153: 7:29 he dropped an album recently. it&#39;s called &#39;under blue&#39; | Sentiment: None
-157: 154: bad songs | Sentiment: negative
-158: 155: nick should do a reaction to pen pineapple apple pen. it&#39;s a classic | Sentiment: negative
-159: 156: didn&#39;t oda confirm that he based kizaru on the ppap guy? | Sentiment: None
-160: 157: yes, u gotta hear baby metal x bmth | Sentiment: negative
-161: 158: nicholas, i have a favor to ask you. please watch the live video of sakanaction&#39;s song &quot;music.&quot; the pleasure will send you to heaven. | Sentiment: None
-162: 159: ohhh prx vs heretic early | Sentiment: None
-163: 160: nico-niki, you really seem to know almost every song!! impressive! appreciate you showing love for japanese music!! | Sentiment: positive
-164: 161: the fact that ado has gotten so popular so fast is insane ngl, i swear i didn&#39;t hear about ado until like two years ago and now looking at the list, its insane how popular she gotten, maybe i was just living under a rock but like, i felt like she gotten really popular really fast. | Sentiment: positive
-165: 162: i like when you say wtf in 9.47 without sound...you don&#39;t even wanna disturb the good song....always love your reaction thought..... | Sentiment: positive
-166: 163: ニコラスニキのリアクション動画マジで好きすぎて見てるとこっちまで楽しくなる！bump of chickenとかも聴いて欲しい！ | Sentiment: None
-167: 164: i watch from 100 to 34 and wonder why not any of lisa , yellow monkey or even larc en ciel in here ... | Sentiment: None
-168: 165: &quot;no wonder it&#39;s 69&quot; got me dude | Sentiment: None
-169: 166: nicholas, you should react tuki. 『騙シ愛』 | Sentiment: None
-170: 167: back number is fucking good | Sentiment: positive
-171: 168: bro 30:17 is literally at this point 😭😭💀💀💀 | Sentiment: None
-172: 169: ppap lol | Sentiment: None
-173: 170: it&#39;s the most forced reaction i&#39;ve ever seen ☠️ | Sentiment: negative
-174: 171: watching the stupid anime watchers weebs in the chat mad is my favorite part | Sentiment: negative
-175: 172: i cant belive tuki bansanka isnt here.... t-t | Sentiment: negative
-176: 173: pretender by official higedandism is one of my favorites, i&#39;m glad it&#39;s on #6 | Sentiment: None
-177: 174: taishō sugō aka masaki suda played the very smart yet confined phillip in kamen rider double/ w. he was the wizard in the shazam movie although he overdubbed lines translating into japanese. | Sentiment: None
-178: 175: if you’re heading back to japan, there’s a massive warning about foreigners. thanks to some not so great youtubers that are disrespecting and disrupting everyone, some places are banning people of non-japanese descent. the japanese people are very meek and don’t fight back leading to people taking advantage of them. it’s also lead to a massive drop in japanese learning english. i know new york city has a japanese language program because i saw signs for it last time i was there basically they teach you japanese language. | Sentiment: None
-179: 176: you do realize that no musical artist makes any money in japan at all. they get a portion of cd or e-sales but they barely actually earn anything. everyone does a standard 9 to 5 to make ends meet. artists only play for the love of music. it’s actually stated in the contracts they signed. it’s such a waste of labor. actors are also paid a certain amount which is why they have to do multiple acting jobs to earn a decent wage. they might do a live shot monday then go to a voice acting session tuesday then back again to live back to another voice gig or commercial shoot. it just keeps going through the week. most music artists in japan retire by age 35 because they can’t keep up with the wage issues. actors usually retire around age 45. it’s just a vicious cycle. | Sentiment: negative
-180: 177: i didn’t realise how big hige dandism is but ofc cos they only make bangers | Sentiment: None
-181: 178: 32:43 &quot;depression pop&quot; 😂 | Sentiment: None
-182: 179: i loved when da pump when they made the song called &quot;if&quot;.so much nostalgic song is in this list and im happi.its not like best its most watched so its not only japan, people from other countries watches them too dont forget that. | Sentiment: positive
-183: 180: 7:41 my dad gym song that i added (he&#39;s japanese) | Sentiment: positive
-184: 181: evangelion op was defeated by &quot;you are my special&quot;, how the hell did this happen? | Sentiment: None
-185: 182: japanese top 100 destroys all world top lists | Sentiment: None
-186: 183: lol htf is pineapple pen number 5?? how??!! well sad that none of the newer bleach songs were up there but at least there were a couple older ones lol. | Sentiment: None
-187: 184: 29:49 kizaru jumpscare | Sentiment: positive
-188: 185: me seeing rokudenashi in the list. i&#39;m happy | Sentiment: negative
-189: 186: how is ponponpon not on the top played list | Sentiment: None
-190: 187: so i kept track of all the yoasobi and ado songs. yoasobi had 9 songs (2 of them were #3 and #2). ado had 6 songs in this whole list. i kept track of these two cause i like them the most of all the jp artists | Sentiment: None
-191: 188: i think the songs that brother nicholas likes tend to have high-pitched parts, and it seems like high vocals are popular in japan too. but in this ranking, there were so many songs where it felt like, “ah, there’s a high note coming right after this part!” but then it didn’t quite get there—such a missed opportunity 😅i wish they’d show more love for japan. | Sentiment: positive
-192: 189: i expected the whole of twice&#39;s japanese discography to be here lol.. ig maybe because they&#39;re not a japanese group | Sentiment: None
-193: 190: your face at the number 5, i pied myself ^^ | Sentiment: None
-194: 191: ppap by kizaru 😂 | Sentiment: None
-195: 192: japan bros you have some great fucking taste.also, ppap was a crazy curveball 🤣 | Sentiment: None
-196: 193: i like that in japan musicians often use instrumentals and are not afraid to play with their voices. it also seems that japan has the kindest and most positive music. | Sentiment: positive
-197: 194: is it more biased? considering he didn’t like the others much unless it was mostly anime, or maybe he just likes mostly soft spoken songs? | Sentiment: None
-198: 195: wooo proud japanese/american moment for me. glad you enjoy our stuff (minus ppap lol) | Sentiment: None
-199: 196: nah.. you dont even know what we do to take over ppap from the top..you dont even know fruit wars | Sentiment: None
-200: 197: ニコラスよ。日本のネットミームも見る気は無いのか？日本の裏の顔「変態」を楽しめるよ | Sentiment: negative
-201: 198: just a tad happy here that yorushika had a couple on the list. you gotta check out their music! | Sentiment: positive
-202: 199: first loveが出た時にspotifyやyoutubeがあって今のレベルで見る人いたら数百億再生は余裕でいってる。日本だけでcd 860万枚だからね。 | Sentiment: None
-203: 200: lemon intro slaps ngl | Sentiment: None
-204: 201: 30:30 ピコ太郎無双 | Sentiment: None
-205: 202: wait, there is no bansanka by tuki on that list? | Sentiment: None
-206: 203: anybody knows the title song no 23? | Sentiment: negative
-207: 204: never heard the version of #19. only know ado&#39;s cover | Sentiment: None
-208: 205: ppap the best song ever 🔥 | Sentiment: negative
-209: 206: love your jpop reaction! | Sentiment: positive
-210: 207: synth vibing 2025 - just released (new electronica / edm album) ==righteous destruction (rock / metal album)castlevania: aura of holy might (soundtrack / remix album) | Sentiment: None
-211: 208: j-song are really unique, i&#39;ve now listened to like 5717 jsongs on list and probably 90% of them already on my listbelieve me..even the small artist have really good songs and voice too | Sentiment: positive
-212: 209: i&#39;m a japanese teacher and i seriously want to teach you japanese. you have a high level of comprehension, so i&#39;m sure your interpretation would be amazing if you learned japanese. | Sentiment: None
-213: 210: pen-pineapple-apple-pen xd | Sentiment: None
-214: 211: 18:52表情がサイコパス過ぎだろw | Sentiment: negative
-215: 212: | Sentiment: None
-216: 213: ubi | Sentiment: negative
-217: 214: looking forward to baby metal reaction. plese do it quickly | Sentiment: negative
-218: 215: the fact that you know 90% of the songs and to think this all started when you did that blind reaction to anime openings. lol | Sentiment: None
-219: 216: ppapで黄猿言われてんのバカ笑ったｗｗ確かにめっちゃ似てるｗｗ | Sentiment: None
-220: 217: ambatuakm | Sentiment: negative
-221: 218: you should check the top 230 anisong cd single sales from 1990 to 2024 | Sentiment: None
-222: 219: number 77 is the same people who did the mha vigilante op | Sentiment: negative
-223: 220: 73位のyoasobiの時の反応😂楽しいビデオをありがとう😊✨日本から見てます🇯🇵🗾私もたくさん良い音楽を聴くぞー😆⸜( * ॑˘ ॑* )⸝⋆*ʓ ꩢ ʓ ꩢ | Sentiment: negative
-224: 221: 33:38 “lemon” is a song produced in 2020 as the theme for a television drama. the lyrics beautifully reflect the drama’s themes, and together with the show’s popularity, the song attracted significant attention. it also served as the breakthrough that brought the artist kenshi yonezu into the public spotlight. | Sentiment: None
-225: 222: 30:17 “pen-pineapple-apple-pen” is a song written and performed by the japanese comedian pikotaro. its surreal humor made it a hit in 2016, and it later became a sensation in the united states as well. | Sentiment: None
-226: 223: 10:22 masaki suda（菅田将暉） is a famous actor in japan, and he’s also a talented singer. | Sentiment: None
-227: 224: ok, official hige dandism gotten huuuge since i first heard them. | Sentiment: positive
-228: 225: ppap came out when i was still in school. it&#39;s old. i think 2015 so why is it still relevant lmao. hated it so much because everyone would sing that shit | Sentiment: negative
-229: 226: i&#39;m sad that duvet isn&#39;t on this list. 😔 | Sentiment: positive
-230: 227: ppapほんま草 | Sentiment: negative
-231: 228: 3:30 reiner🗣️🔥 reiner🗣️🔥 reiner🗣️🔥 | Sentiment: None
-232: 229: when kenshi yonezu released lemon, i felt the need as a japanese to sing it in the middle of a pubg hotspot, and i did. i performed it in front of a downed enemy, no one came to interrupt me, and he bled to death right in front of me. | Sentiment: None
-233: 230: hi! i love your channel, especially about ado.by the way, could you react japanese song &#39;tentai kansoku’ by japanese band &#39;bump of chicken’.it was released 24 years ago and it became the 2000&#39;s national representative song.i have never seen the japanese dislike the song.i am very interested in your thoughts, since it is not complicated but purely touchs the hearts of japanese people. you in advance! | Sentiment: None
-234: 231: recent songs are getting more views from overseas since anime culture has become more popular last few years. | Sentiment: None
-235: 232: i was not expecting hai yorokonde to be on here. i&#39;ve been bumping that shit for months after spotify added it to my queue. i had no clue it was that big lol | Sentiment: None
-236: 233: 7:19 finally eve 😭 | Sentiment: negative
-237: 234: lemon&quot; is the name of the drama.it became very popular. | Sentiment: None
-238: 235: react dish. full video on firsttake dude | Sentiment: None
-239: 236: can&#39;t believe orb op is underrated even in japan | Sentiment: negative
-240: 237: plz listening to lemon after watching j-drama “unnatural”!! swear you will cry. | Sentiment: None
-241: 238: you should put japanese subtitles on this | Sentiment: None
-242: 239: anytime anywhere? 🥹😔💔 | Sentiment: None
-243: 240: 85、masaki suda was a voice actor in the movie &quot;the boy and the heron.&quot;he is an actor and singer and his brothers are also active in showbiz. | Sentiment: negative
-244: 241: 6:00 not true...in germany 2007 and 2008 and so we had a lot of japanese music on mtv like mucc, despairsray, direngrey, shanadoo and and.. many of them were top 10 weekly and monthly | Sentiment: None
-245: 242: no amazarashi?!?!?, am i the lone amazarashi fan | Sentiment: None
-246: 243: nicholas please react this one too, this is a good list of japan music | Sentiment: positive
-247: 244: 今日本で最も人気なミセス。海外だとインフェルノしか聴かれてなさそうよなぁ。 | Sentiment: negative
-248: 245: it&#39;s about time you started calling yourself japanese. i&#39;m japanese, so you should be proud. | Sentiment: None
-249: 246: i didn’t like specialz at first neither, but this year, for some reason, it’s been playing on repeat for days in my head and playlist 🤷🏾‍♀️ | Sentiment: positive
-250: 247: man with a mission is not on the list?! 😮 | Sentiment: positive
-251: 248: ピコ太郎5位はまぁ…仕方ないwwww | Sentiment: negative
-252: 249: lemon release for tv series called unnatural, that series so fckind good tho | Sentiment: None
-253: 250: everything except pinapple pear and the tokyo drift song was amazing! 😅 | Sentiment: negative
-254: 251: 私は日本の米津玄師さんのファンです。私が言うのもなんですが、このランキングに出てくる米津玄師さんの歌う曲は、全て米津玄師さん自身が作詞作曲をして歌い、ディスコグラフィのジャケット絵も描いています。さらに、菅田将暉さんの歌う「まちがいさがし」、daokoさんと共に歌う「打上花火」の作詞作曲も米津玄師さんが行っています。僕は米津玄師さんは努力と才能の神だと思ってます。 | Sentiment: negative
-255: 252: ヨルシカのリアクションお願いします！ | Sentiment: negative
-256: 253: ピコ太郎のspotify過疎ってて草 | Sentiment: negative
-257: 254: ただローマ字版の歌詞を見つけて歌う練習をしなさい。そのうち歌えるようになります。私もそれで日本語を習得しています。頑張ってね。 | Sentiment: negative
-258: 255: my favorite artist1.kenshi yonezu2.bump of chiken3.aimyon4.green apple | Sentiment: negative
-259: 256: kenshi yonezu lemons has a great melody,but i think it is lyrics that really make it popular! | Sentiment: negative
-260: 257: 黄猿コメでクソ笑ってんの好き | Sentiment: negative
-261: 258: i am hoping to be reborn in my next life as a japanese boy hahaha | Sentiment: negative
-262: 259: eve my goat | Sentiment: negative
-263: 260: this is unofficial no? there are tons of artists that wasn&#39;t on the list. | Sentiment: None
-264: 261: yosobi fucking carried | Sentiment: negative
-265: 262: 29:46 壊れたwww | Sentiment: None
-266: 263: so fun fact about ppap song, that song was the most viewed j-song for awhile 😂 i watch 1 channel breakdown month by month how much view every song get and the community in that channel so pump up surpassing that meme song lol😂😂 | Sentiment: positive
-267: 264: i&#39;ve watched and listened to anime/japanese music since i was a kid in the 90&#39;s and i don&#39;t think i recognized many of the songs on this list at all lol except for a few obvious ones on demon slayer, jjk, naruto. i think i must just have terrible taste in music lol the japanese band i&#39;ve probably listened to the most was introduced to me like 15-16 years ago called &quot;mass of fermenting dregs&quot; but besides that it&#39;s like 80% city pop music which i thought would be more popular than it actually is too. | Sentiment: None
-268: 265: i see you didnt know what number 69 was. its called &quot;yesterday&quot; and its from a very underrated anime movie called &quot;hello world&quot;. | Sentiment: None
-269: 266: most artists appearances: top 61st yoasobi - 9 songs2nd kenshi - 8 songs- 2nd hige dandism - 8 songs3rd ado - 6 songs4th mrs green apple - 4 songs - 4th back number - 4 songsthese 6 artists make up 39% of the entire top 100 list!edit: also, kenshi does appear as a feature on another song, so you could say he had 9 songs, but i felt like features don’t really count so i didn’t include it! | Sentiment: None
-270: 267: racing into the night by yoasobi is number 2 on this list despite being shadow banned on yt due to self harming themes. maybe that is why the copyrite on that song is very lax. | Sentiment: positive
-271: 268: my boy kizaru was spitting 🍎🖊🍍🖊😎 👔👉✨ 🍎🖊🍍🖊👖👞👞 | Sentiment: negative
-272: 269: im glad my fav of all time number 7. daoko x kenshi - uchiage hanabi | Sentiment: negative
-273: 270: funnyly waiting for him to watch banana fish or the ops | Sentiment: None
-274: 271: i love “the same as…” by one ok rock so much… ❤ | Sentiment: positive
-275: 272: please check xg - woke up | Sentiment: negative
-276: 273: 英語の勉強してないから、何を言ってるのかは分からないけど、最初から最後まで楽しそうでよかった。 | Sentiment: negative
-277: 274: 反応が面白すぎるw😂日本の音楽を愛してくれてありがとう！！❤ado最高〜〜〜！！ | Sentiment: negative
-278: 275: you shouldve been there during the jpop hype year | Sentiment: None
-279: 276: ワンオクもっと聴いて！！！！ | Sentiment: negative
-280: 277: i flippin love one ok rock, like i have been listening to them nonstop for 4 months straight. i would like to see a reaction to the other songs if he hasnt already reacted/listened to them. | Sentiment: positive
-281: 278: whoa, dude, seriously, you need to put in japanese subtitle. like, all i&#39;m seeing in the comments is japanese, lol. no joke, dude, you&#39;re a really big deal now! | Sentiment: None
-282: 279: 18:52 ここから連続で喰らってる笑笑 | Sentiment: negative
-283: 280: 相当偏ったランキング。もっといい歌たくさんあるからリアクションしてほしい。thanks , nicholas! | Sentiment: None
-284: 281: 進撃の巨人が少しでも出てくると狂喜するニコラス兄貴が大好きだよ | Sentiment: negative
-285: 282: 字幕日本語つけてくれないかなぁ | Sentiment: negative
-286: 283: request🙋j-pop❤90&#39;stop 50🎶live ostmedley🎶 | Sentiment: None
-287: 284: we are babymetal!!! ❤ | Sentiment: negative
-288: 285: hey, man&quot;kanade&quot; by sukima switch was released in 2004 | Sentiment: negative
-289: 286: ピコ太郎を黄猿は草 | Sentiment: negative
-290: 287: masaki suda is actor. | Sentiment: None
-291: 288: ニコラスニキ、xで検索したら分かるけどluxury diseaseとdetoxについてポストしてるから、普通にone ok rock好きなんだろうなでもthe same as...好きなのは意外、めちゃくちゃ嬉しい | Sentiment: positive
-292: 289: 29:49 peak culture | Sentiment: positive
-293: 290: back number 🔥🔥🔥 | Sentiment: negative
-294: 291: the ppap reaction is hilarious as hell 😂😂😂😂😂 | Sentiment: None
-295: 292: 31:35 huh | Sentiment: positive
-296: 293: ppapなんで流行ったんか本気でわからんけど本気で好き | Sentiment: negative
-297: 294: 最高。面白過ぎたピコ太郎のリアクションがハイライトだねヨルシカはまだ知らないのかな | Sentiment: negative
-298: 295: japón + music =perfection | Sentiment: negative
-299: 296: no kokoronashi? | Sentiment: None
-300: 297: yo nick, do one ok reactions | Sentiment: positive
-301: 298: ピコ太郎懐かしいな…幼稚園児の頃スマホいじってたら見つけてお父さんとめっちゃ見てた | Sentiment: negative
-302: 299: for u to understand why lemon is such a good song u hv to understand the lyrics and the reason why kenshi wrote tht song. also its a song for a japanese drama called unnatural and its really good you should give it a try. | Sentiment: positive
-303: 300: 這些歌曲大部分都非常好聽！該把它們放進音樂清單裡面了！ | Sentiment: negative
-304: 301: i&#39;m so sad there was no sheena ringo :( | Sentiment: None
-305: 302: something i like about japan&#39;s top 100 compared to the western world. their music and taste isn&#39;t formulaic. if you were going through a western top 100, you&#39;d already hear about 10 songs that sound the like they used the same footnotes, same melodies etc. here we have a list of ppl just listening to whatever tf they want and you&#39;re seeing the variety reflected on the list. every entry is a completely different vibe than the last. | Sentiment: None
-306: 303: overreact | Sentiment: negative
-307: 304: 06:06 yes! please do babymetal! they&#39;re crazy good, especially in live performances | Sentiment: positive
-308: 305: one of my favorite japanese songs is &quot; come my way&quot; it was the outro song for season 7 inuyasha | Sentiment: None
-309: 306: how is duvet from boa is not in this list ? this shit as like 700m streams on spotify wtf | Sentiment: positive
-310: 307: masaki suda and creepy nuts have released a collaborative song called &quot;soundtrack&quot; as part of a radio station project. similarly, creepy nuts and yoasobi have released a collaborative song called &quot;baka majime.&quot; please give it a listen. | Sentiment: positive
-311: 308: もはや日本人で作ったランキングではないけどな。海外人気を掴めた曲達ばかり。 | Sentiment: negative
-312: 309: yonezu kenshi is king of jpop | Sentiment: None
-313: 310: pineapple apple, lemon, what fruits next? lychee?😂 | Sentiment: negative
-314: 311: nicholas, we are waiting for you! from japan. | Sentiment: None
-315: 312: why spyair not in top 10... why????!!!! | Sentiment: negative
-316: 313: 29:48 ppap | Sentiment: None
-317: 314: back number mention! | Sentiment: negative
-318: 315: nah bro even if you didn&#39;t know japanese back in the day translator used to put subtitles and the jaoanese lyrics with our alphabet so you could sing along | Sentiment: None
-319: 316: brooo why aren&#39;t there any asian kung fu generation in this list | Sentiment: negative
-320: 317: one ok rock mentioned!!!!! 🔥 | Sentiment: positive
-321: 318: you should do top 100 vocaloid song ngl | Sentiment: None
-322: 319: everyone&#39;s sleeping on back number, i love all their songs | Sentiment: positive
-323: 320: 16:28 one ok rockをone o’clockって読んでる海外youtuberを初めてみた。nickの日本好きの本気度に感動する。 | Sentiment: positive
-324: 321: i recommend youfrom jpjapanese brand-new idol shit | Sentiment: negative
-325: 322: no shiawase - back number is crazy..that literally the best song 😂 | Sentiment: positive
-326: 323: lemonが人気なのは日本語の歌詞と、テーマソングになったドラマの完成度です。netflixにあるので、ぜひ「アンナチュラル」を観てほしいです。日本をよりリアルに苦い視点で知ることができます | Sentiment: negative
-327: 324: i don&#39;t know which one to put where, they were all in my playlist already this whole freaking time.am i japanese then? and thats just 100 out kf all 300 songs that i have saved..... | Sentiment: negative
-328: 325: ado six times!!! | Sentiment: positive
-329: 326: you are more otaku than i imagined xd you know a lot of that songs. | Sentiment: None
-330: 327: brooo i wonder what tf type of people are listening to ppap songmindblowing | Sentiment: None
-331: 328: back number 最高 | Sentiment: negative
-332: 329: i&#39;ve heared unravel, smiled, looked at nick, noticed he smiles too. i raised my brows, nick also raised his brows 2 seconds later. i feel weird | Sentiment: None
-333: 330: to be honest, the songs listed here are just the tip of the iceberg. there are so many more great songs in japan. | Sentiment: None
-334: if it&#39;s okay to recommend them, i&#39;d like you to check them all out... | Sentiment: negative
-335: 331: ppap is peak | Sentiment: None
-336: 332: babymetalのリアクション楽しみに待っています！❤ | Sentiment: negative
-337: 333: i acknowledge kenshi as a king of jpop, and ado as a princess of jpop. | Sentiment: None
-338: 334: top 100 most listened japanese songs:99 songs by japanese musicians1 by a japanese comedianppap is just a legend one hit wonder | Sentiment: None
-339: 335: damn yaosabi thou dominated this list | Sentiment: None
-340: 336: ??? he doesnt like lemon? wth, now thats where i go war bro | Sentiment: positive
-341: 337: nick&#39;s reaction to the pineapple pan is hilarious | Sentiment: None
-342: 338: please check out tuki | Sentiment: negative
-343: 339: ニキ、もしone pieceが好きなら、公式が出してるmr.childrenのheroの動画を見て欲しい。涙腺崩壊するから。あとサザンと宇多田ヒカルとb&#39;zは絶対に外せない | Sentiment: None
-344: 340: i&#39;m japanese. this includes some really popular songs. however, not all songs are truly popular, such as songs that have become popular on tiktok. | Sentiment: positive
-345: 341: こう聴くとjpopってすげえや | Sentiment: negative
-346: 342: bring some kdrama like squid game, weak hero class 1 and other reactions 🙏 | Sentiment: positive
-347: 343: 9:02 i thought his name was yuuri?? i got so confused | Sentiment: None
-348: 344: how would you not know ppap hahahaha | Sentiment: positive
-349: 345: where was we are 😭😭😭 | Sentiment: negative
-350: 346: shocked to see only a couple yorushika songs appear on this list, always praying for them to get more recognition in the west. as a completely biased opinion i think all their songs deserve a spot on the top 100 songs in japan (obviously this is based on views but either way i love yorushika and i wonder if you&#39;ve reacted to some of their music yet. i dont have nearly the time to be watching back your streams, though i&#39;ve tried, and i wish i knew better what songs you have and havent seen.because if there is a possibility you havent seen their music videos, then that needs to change. also i really hoped i might see a keina suda song but i guess he&#39;s not that big to get a spot on the top 100. | Sentiment: None
-351: 347: there&#39;s a song you gotta react man. rasen / jon-yakitory feat. ado | Sentiment: negative
-352: 348: how come orion by kenshi was not on the list? | Sentiment: positive
-353: 349: babymetal yeah | Sentiment: negative
-354: 350: babymetal yeah | Sentiment: None
-355: 351: babymetal yeah😂 | Sentiment: negative
-356: 352: brother, you should learn japanese right now. | Sentiment: None
-357: 353: 9:30 no way this song is in 69 i thought its forgotten lol this song is so majestic | Sentiment: None
-358: 354: 😮😊 | Sentiment: negative
-359: 355: 日本人からすると懐かしいなと感じる曲が多い | Sentiment: negative
-360: 356: you should definitely check out one ok rock (a japanese rock band)! i&#39;m sure you&#39;ll love them! | Sentiment: positive
-361: 357: ppapやばいwwww | Sentiment: negative
-362: 358: maybe kinda without context but if you want a peak (okay, liam [creator] not have enough episodes to tell story in way he wanted) but if you want to watch a cool show that you can watch free and (for now, because is coming to a amazon prime) only on youtube, and im talking about murder drones… maybe not as brutal or scary as other liam projects but still amazing and one of the most popular show’s on youtube. | Sentiment: None
-363: 359: japan is just superior | Sentiment: negative
-364: 360: the irony of number 17 &quot;usseewa&quot; by ado, because she was 17 years old when she released that song. just a fun little coincidence 😊 | Sentiment: positive
-365: 361: ニコラスさん、やっぱり大好き〜❤笑顔見てるとこっちも嬉しくなる😊 | Sentiment: negative
-366: 362: | Sentiment: negative
-367: 363: 𝐌𝐀𝐗𝐈𝐌𝐔𝐌 𝐓𝐇𝐄 𝐇𝐎𝐑𝐌𝐎𝐍𝐄を聞いて欲しい！刃渡り2億センチも好評だったし | Sentiment: negative
-368: 364: i love back number and sukima switch! oddly underrated in the westalso, i didn&#39;t realize just how popular kenshi yonezu and ado are | Sentiment: positive
-369: 365: 24:56people know this as the rengoku song | Sentiment: None
-370: 366: top 100 of other countries would be fire too | Sentiment: None
-371: 367: now let&#39;s see the top 100 america reaction | Sentiment: None
-372: 368: back numberの『水平線』聴いて欲しいです。mvでぜひ。あと、ミセスの『天国』のmvとテレビ番組でのパフォーマンスも合わせてぜひ | Sentiment: negative
-373: 369: 流石に米津玄師つよすぎる | Sentiment: negative
-374: 370: i wish i could discover ppap for the first time again. | Sentiment: None
-375: 371: 頼むから1回鈴木このみの ｢beat your heart｣聞いて欲しい | Sentiment: negative
-376: 372: sorry to burst your bubbles bud but in japan all those songs are considered furui...old as hell..its just how it is. | Sentiment: negative
-377: 373: eveくん新曲出してるから聞いて欲しい！！特に &quot;さよならエンドロール&quot; | Sentiment: negative
-378: 374: ワンオクロック好きなのか！ | Sentiment: negative
-379: 375: ワンオク好きなの好感でしかない。しかもthe same as 知ってんのセンス良すぎ | Sentiment: positive
-380: 376: watch invincible season 2 right now!!!! | Sentiment: positive
-381: 377: soon sakanaction - kaiju will be here | Sentiment: negative
-382: 378: can&#39;t believe survive said the prophet isn&#39;t in the list. | Sentiment: negative
-383: 379: ppapで困惑して「ｷｻﾞﾙ．．．」っていってるのおもろい笑 | Sentiment: negative
-384: 380: did i seriously just here bro throw shade at teriyaki boyz with tokyo drift? absolute headloss. | Sentiment: negative
-385: 381: ニックが終始楽しそうでよかった | Sentiment: negative
-386: 382: ppapでフリーズからの黄猿コメントで崩壊してんのくっそわろたwww | Sentiment: negative
-387: 383: back number has great songs nostalgic vibes | Sentiment: negative
-388: 384: i am japanese, and while i am happy that i can understand the meaning of the lyrics of japanese songs as they are, i also feel sad that i cannot convey their meaning to people from other countries. however, i am happy when i see people who enjoy listening to the lyrics and are moved by them, even if they cannot understand them. | Sentiment: negative
-389: 385: lemon is a song that kenshi write for his grandpa who passed away i heard about it ? or i&#39;m remember wrong ?100/100 song ngl | Sentiment: None
-390: 386: ピコ太郎出てきた時の顔w w w | Sentiment: negative
-391: 387: ちゃんと全部聞いたことあるの凄いな | Sentiment: negative
-392: 388: lemon is gonna be on the number 1 on the list in the next 10 years | Sentiment: negative
-393: 389: 懐かしすぎる | Sentiment: negative
-394: 390: no guns, no drugs, no naked women 😅 | Sentiment: None
-395: 391: please react wonderland indonesia | Sentiment: negative
-396: 392: 24:06 麦わらは聞き取れるのガチおもろい笑 | Sentiment: negative
-397: 393: 7:32 actually eve released new album like 5 months ago but some of the songs are from 1-2 years ago but we have 7-8 new songs from him and 2-3 new ones have mv.album is named under blue | Sentiment: None
-398: 394: lol you can tell chat only listens to anime songs. lemon is an amazing song | Sentiment: None
-399: 395: ppapが異色すぎて笑った | Sentiment: negative
-400: 396: ニキには平成ヒットメドレーと聞かせたい一昔前の曲の方が頭に残るし、b’zのウルトラソールは1回聞いて欲しい | Sentiment: negative
-401: 397: im standing ready. | Sentiment: negative
-402: 398: ニコラスニキ、日本でオフ会してほしい。 | Sentiment: negative
-403: 399: トップにppap来て爆笑したしかも奥様？まで歌えるのが笑 | Sentiment: None
-404: 400: damn, lots of japanese in the chat...noicce | Sentiment: negative
-405: 401: no jojo songs? | Sentiment: None
-406: 402: i am a little sad no yorushika song made it to top 10, but every song was banger (except no.-4 maybe) | Sentiment: None
-407: 403: my favourite jp artists/bands as a russian - ado- zutomayo- yorushika- bump of chicken - yoasobi- lisa- hoshimachi suisei- aimer- egoist- official hige dandism- kenshi yonezu- yama- reonahm: kenshi yonezu, 9lana, sekai no owari, dazbee, konoco, nonoc, fantastic youth, ms green apple, vaundy, tuyu, yoshino, kessoku band | Sentiment: None
-408: 404: 🖊🍍🖊🍎🕺🕺🕺🕺🕺 | Sentiment: negative
-409: 405: 29:54 i didn&#39;t know that guy was japanese 😭 | Sentiment: positive
-410: 406: hahahaha bro didn&#39;t know ppap😂😂😂😂 | Sentiment: negative
-411: 407: yorushikaaaa!!!!! | Sentiment: negative
-412: 408: 18:50 😭🙏 | Sentiment: negative
-413: 409: i like the female version of lemon more though | Sentiment: None
-414: 410: ppapでニコラスニキ壊れちゃった | Sentiment: positive
-415: 411: wondering where is my chicken attack~~~~ | Sentiment: negative
-416: 412: black gym dude song😂 | Sentiment: positive
-417: 413: せまいんよ | Sentiment: negative
-418: 414: you know what im suprised to not see here? asian kung fu generation. they have so many good songs its insane classics | Sentiment: positive
-419: 415: there&#39;s a song by pikotaro (ppap) that i like i lot. it&#39;s called &#39;everyone must die.&#39; | Sentiment: positive
-420: 416: gas | Sentiment: negative
-421: 417: nahh ppap gave me a big heart attack....i never knew this banger was japanese 😭😭😭😭 | Sentiment: None
-422: 418: 10:26 his name is masaki suda, and he is an actor who became famous for &quot;kamen rider w&quot;.😊he is also good friends with kenshi yonezu and has released songs together (the song was ranked at several places). kocchi no kento, who sang &quot;girigiri dance&quot; which you said was &quot;like creepy nuts!&quot;, is his younger brother.😋 | Sentiment: None
-423: 419: ppap wwww | Sentiment: negative
-424: 420: nicholas niki is going to break!😂 | Sentiment: None
-425: 421: ニコラスのニキがこんな楽しそうだとこっちもたのしくなるあ😊 | Sentiment: negative
-426: 422: ピコ太郎のとこマジ笑った😂 | Sentiment: negative
-427: 423: this video makes me happy, except the last two songs😂 | Sentiment: None
-428: 424: 18:53 me literally screaming and him be like 😏 | Sentiment: positive
-429: 425: yoooppap still up there?what the hell🤣🤣🤣 | Sentiment: negative
-430: 426: ppapで爆笑したw | Sentiment: negative
-431: 427: where the fuck is rumbling | Sentiment: None
-432: 428: where is sparkle song😢 | Sentiment: positive
-433: 429: 6:08 what happened to the audio here? 😂😂 | Sentiment: negative
-434: 430: back number songs reaction, mhm? | Sentiment: negative
-435: 431: 急なppapに完全停止してるの爆笑。奥さんがその曲を知ってるのにさらに大爆笑。 | Sentiment: negative
-436: 432: 7:44 tier 1 gooner | Sentiment: negative
-437: 433: if i&#39;m not mistaken, around 2016 or 17, here in the philippines, ppap was all over the radio and tv. i didn&#39;t like it but it&#39;s so catchy it stayed on my brain until this very day. | Sentiment: positive
-438: 434: w list🔥i’ll add them all | Sentiment: negative
-439: 435: 33:44 remember this list isnt the top 100 best songs in japan its the most listened to songs | Sentiment: None
-440: 436: i&#39;m love it | Sentiment: positive
-441: 437: i’m a bit sad nothing by masayuki suzuki showed up. love the king of love! | Sentiment: positive
-442: 438: 28:22 insane how such a good song could be apart of such a bad anime | Sentiment: positive
-443: 439: 1:52 creepy nuts is so peak bro | Sentiment: None
-444: 440: ngl, was pretty surprised that not a single arashi song made it in the top 100. they were face of jpop for years and years. they&#39;re still ridiculously popular even now, five years after they announced their hiatus(and basically disbanded in all but name). | Sentiment: positive
-445: 441: now that you done american reacts for hte title implication and explicit direct statement addressed, please do new yorker reacts and then new york italian reacts next 🫡😹🗣🔥! | Sentiment: None
-446: 442: back number is a really good band. highly recommend | Sentiment: positive
-447: 443: usa number #1 what are you talking about? | Sentiment: None
-448: 444: 9:24 peak right here | Sentiment: None
-449: 445: w i dont like specialz either | Sentiment: positive
-450: 446: あなたのリアクション動画を翻訳してる日本人がたくさんいます。それで私はあなたを知りました。好き！貴方もアニメも音楽も好きです！貴方を見ると私は元気をもらえます。ありがとう。 | Sentiment: negative
-451: 447: you should definitely do one for babymetal sometime! | Sentiment: None
-452: 448: jpopの海外布教に一役買ってるやろニキ | Sentiment: negative
-453: 449: 30:00 that&#39;s borsalino kizaru | Sentiment: None
-454: 450: how did you hear about pineapple pen, do you not know of like gangnam style either lul | Sentiment: None
-455: 451: 海外youtuberにあるまじき、コメント欄の日本語コメントの多さよ！俺もニコラス応援してるぜ！！いつも見てるよ！頑張ってね！ | Sentiment: negative
-456: 452: 急なピコ太郎に笑ってしまった | Sentiment: negative
-457: 453: that was awesome | Sentiment: positive
-458: 454: thank you for your interest in japan.i&#39;m very happy as a japanese person.i can&#39;t speak english so i&#39;m using a translation site to write this. sorry for my poor english.i will continue to support you.nicholas&#39; smile always gives me energy. thank you very much🙇✨ | Sentiment: None
-459: 455: day one of doubling the peak until nick watches neon genesis evangelionpeak | Sentiment: None
-460: 456: sakanaction live performance is the greatest thing i have ever seen. | Sentiment: None
-461: 457: in fact i still think that the peak of japanese music was from the 1980s to the early 2000s.japanese music is still very strong now, but the diversity and artistry are still a little worse than before.don&#39;t get me wrong, there is still a steady stream of outstanding young new generation singers, musicians or brand emerging, but just that era was better.the generation of japanese musicians and singers born in the bubble economic era really had a higher pursuit of art, their vision was above just pop music.the situation in the animation industry is similar, and even more obvious than in the music industry. the mainstays of the japanese animation industry today are mainly those who were born in that era. | Sentiment: None
-462: 458: 30:16 how the f you don&#39;t know kizaru who beat the axx of strawhats.😂 | Sentiment: None
-463: 459: i love all of yonezu&#39;s songs because the lyrics are like stories. | Sentiment: positive
-464: 460: なんだかんだでppapの中毒性一番やばい🤣 | Sentiment: None
-465: 461: number 19 dry flowers have been coverd by ado and this song is amazing ! | Sentiment: positive
-466: 462: 18:53 ここ好き | Sentiment: negative
-467: 463: imagine nick reacting to top 100 billboard songs in japan rn 🍏😂, would love to see a reaction to it tho 🔥🔥 | Sentiment: None
-468: 464: please post the american one bruh | Sentiment: None
-469: 465: 6:39 kanade from sukima switch is the ending for one week friends, a fairly unknown romcom anime i watched a long time ago. i loved this song so much i was playing it on repeat. | Sentiment: positive
-470: 466: japan is ichiban nick knows this | Sentiment: negative
-471: 467: 0:47 first love is a song i discovered not a long time ago. it reminds me of 90s r&amp;b music | Sentiment: positive
-472: 468: 海外ではadoやyoasobiが人気だと思うけど、日本国内で人気があるのは米津玄師とmrs green appleなんだよね | Sentiment: negative
-473: 469: just letting you know, lists that include both youtube and youtube music are wrong. youtube music already includes youtube views, lemon should be like 4th or 5th | Sentiment: None
-474: 470: 29:47 the fckng whiplash i felt 😭😭😭 | Sentiment: None
-475: 471: 17:44 🔥🔥🔥 | Sentiment: negative
-476: 472: 0:56 what&#39;s the name of that song | Sentiment: positive
-477: 473: bro listen more hige dandism songs like pretender and subtitle....they are really good | Sentiment: positive
-478: 474: i saw this video and decided to add every single song into my (private) playlistexcept for the sh yoasobi one it just stops my playlistexcept for shintakarajima that&#39;s been in my playlist for a real while nowfav new artist i found from that vid was official髭男dism | Sentiment: negative
-479: 475: yoasobi, kenshi yonezu, and higedan is literally the japanese music modern era goat😂 | Sentiment: None
-480: 476: who is 85 | Sentiment: negative
-481: 477: im going to pay you fucking 1000000000 milion if you start to watch tokyo ghoul, like please bro, this anime deserves more atention, i really want to see your eaction on this one, please!!!!!!!!!!!!!!!!!!!🙏🙏🙏 | Sentiment: None
-482: 478: 30:15言いたいことはわかるが、黄猿ではないのよ | Sentiment: None
-483: 479: 88位85位66位58位の菅田将暉（suda masaki）は84位の女優さんの夫です。77位こっちのけんとのお兄ちゃんでもあります！すごい一家だ😂 | Sentiment: negative
-484: 480: one ok rock and kenshi yonezu my beloved of all time!and those naruto&#39;s ost sure bring back some good old day&#39;s memory | Sentiment: positive
-485: 481: maybe sometimes you can react ultraman or kamen rider song 😅 | Sentiment: None
-486: 482: ppap was literally all of 2016 bro | Sentiment: None
-487: 483: suprised centimillimental wasn&#39;t on this list tbh. very great songs by him | Sentiment: positive
-488: 484: so the song in the number 2 spot is called yoru ni kakeru (racing into the night) and i have learned the entire song and i don’t know any japanese | Sentiment: None
-489: 485: one ok rock 🤘 | Sentiment: positive
-490: 486: nick please do a babymetal reaction omg | Sentiment: negative
-491: 487: ニコラスさんはアニメソングだけでなくて日本の歌謡曲(jpop)にまで聴くようになったのか🎵アニメやアニメソングは日本文化の入り口になってるみたいだね✨ | Sentiment: negative
-492: 488: この順位は間違ってる | Sentiment: negative
-493: 489: 100位以下も面白そうだな。 | Sentiment: negative
-494: 490: ehm, actually it&#39;s american rapper reacts ☝🤓 | Sentiment: negative
-495: 491: ピコ太郎にポカーンしてるニキに爆笑してしまったわ | Sentiment: negative
-496: 492: japan is crazy🔥 | Sentiment: negative
-497: 493: yes please do a babymetal reaction. they are so good! | Sentiment: positive
-498: 494: 26:15 that’s exactly my thought whenever i’m watching japanese content and there’s no translation | Sentiment: None
-499: 495: i think not knowing what it says makes it more special. once you know what it says its gonna take away from it. | Sentiment: negative
-500: 496: ppap forever | Sentiment: None
-501: 497: huge dandism&#39;s songs are so goated 7 of them are in the list | Sentiment: negative
-502: 498: nicholas at the beginning be like: i&#39;m happy! nicholas at the end: wtf | Sentiment: None
-503: 499: the fact that idol and yoru ni kakeru just refused to appear (i&#39;m at #6 now) is kinda nuts | Sentiment: None
-504: 500: 28:15 holy shit that means 3 songs in top 10 | Sentiment: negative
-505: 501: recommending “and return to white” by isekaijoucho | Sentiment: None
-506: 502: official hige dism took over the list 😭😭😭😭 | Sentiment: None
-507: 503: which artist appeared the most? yoasobi? | Sentiment: None
-508: 504: kinoko teikoku isn&#39;t in this list ..... | Sentiment: negative
-509: my favorite japanese band nooooo 😭 | Sentiment: None
-510: 505: bro actually went &quot;society&quot; 😭 | Sentiment: negative
-511: 506: as the only back number fan i know, i am very much over the moon after every placement they have and every praise nicholas gives them. | Sentiment: negative
-512: 507: kirari is a bangeeeer | Sentiment: None
-513: 508: the entire yoasobi song collection and kenshi yonesu will be there 😂 | Sentiment: negative
-514: 509: yow nick comment section got infested by japanese ahahhahaha | Sentiment: negative
-515: 510: okay. not knowing ppap is just equal to not being on internet 😂 | Sentiment: positive
-516: 511: one ok rock❤” the same as “❤❤ | Sentiment: positive
-517: 512: i generally don&#39;t comment on stuff, but, i love your videos. one of the few people who bring something when reacting to stuff | Sentiment: positive
-518: 513: lemon was tied up with a drama. it was a epic drama, with the lyric, makes japanese emotional. | Sentiment: negative
-519: 514: my favorite japan artist :- aimyon- yorushika- official hige dandism - suda masaki- back number - vaundy | Sentiment: negative
-520: 515: 88 is a 💎 gem | Sentiment: negative
-521: 516: 4head jojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojooooooooooooooooooooooooooojo | Sentiment: negative
-522: 517: 10:57 gundam witch from mercury. yoasobi - blessing | Sentiment: negative
-523: 518: 6:10 | Sentiment: negative
-524: 519: other than kizaru guy they were all amazing. ado and lisa are my favorites | Sentiment: None
-525: 520: tokyo drift is peak | Sentiment: positive
-526: 521: watching you dance is one of the best parts and shows yoru energy and sincere reaction. we love your reactions for it. you are the best! | Sentiment: None
-527: 522: 0:00 100-5115:16 50-2623:41 25-1128:15 top 10 | Sentiment: None
-528: 523: 個人的に1曲だけ&quot;異物&quot;がランクに載ってるのが不快だ。 | Sentiment: negative
-529: 524: guys , guess what i have ? 😬 i have a pen 🖊 , i have a apple🍎 uh! apple-pen 🍎🖊i have a pen 🖊, i have pineapple 🍍 uh! pineapple-pen 🍍🖊apple-pen 🍎🖊, pineapple-pen🍍🖊uhapple pineapple 🍍🍎 apple 🍎 pen 🖊 dance time ! ✨🕺✨😎 👔👉✨👖👞👞 | Sentiment: None
-530: 525: watching this at 2x speed felt like a fever dream | Sentiment: positive
-531: 526: bud forgot to mute eva | Sentiment: negative
-532: 527: 8:11 maybe i can teach you how to pronounce the word, so you can sing the japanese song. because i am also doing that hehe | Sentiment: None
-533: 528: the long reign of pineapple apple was ended by a lemon.fruits in japan go hard. | Sentiment: negative
-534: 529: honestly i wasn&#39;t expecting one ok rock to be on the list, but it&#39;s great to see at least 1 on the board | Sentiment: None
-535: 530: pls do a reaction of ado&#39;s cover of unravel | Sentiment: None
-536: 531: the entire time after entering top 10 i was like &quot;where&#39;s lemon where&#39;s lemon where&#39;s lemon&quot; and ofc it&#39;s no. 1 lmao. also chat you&#39;re mid not the song | Sentiment: positive
-537: 532: one ok rock is the best | Sentiment: positive
-538: 533: i wasn&#39;t expecting tokyo drift, but i love that this one | Sentiment: positive
-539: 534: you must listen more yorushika song | Sentiment: positive
-540: 535: professional glazer holy shit | Sentiment: negative
-541: 536: ppap wwwwwwwww | Sentiment: negative
-542: 537: wow, i&#39;ve been into japanese music for 4 years but i added 20+ new songs to my playlist thanks to this video and nick | Sentiment: None
-543: 538: 10年くらい前のバンド曲たち強過ぎるな | Sentiment: negative
-544: 539: these songs just make me feeel good man. this is why my playlist is full of jp songs nowadays. | Sentiment: None
-545: 540: as someone who loves japanese music i&#39;m so glad you gave it all this spotlight 🙏🙏🙏 | Sentiment: None
-546: 541: ピコ太郎で硬直すんの好き | Sentiment: negative
-547: 542: 多分 コレは世界中で聴かれた日本の曲ランキングトップ100じゃないのかな？日本だけでカウントされたら違うランキングになるだろうなぁ〜 | Sentiment: negative
-548: 543: 新宝島が流れてきた時の実家のような安心感半端ないわ笑 | Sentiment: negative
-549: 544: yes! sekai no owari rpg! i absolutely love that song. i love him and his band. and his vocaloid fukase too.edit: oh. i reaply thought yoru ni kakeru would be number 1. i mean, lemon is good too. but racing into the night is just better. | Sentiment: positive
-550: 545: yoasobiiiiiiiiiiiiii | Sentiment: negative
-551: 546: このランキング見て完全に世代交代が終わったと思う中でスキマスイッチ入ってくるの嬉しすぎる | Sentiment: negative
-552: 547: you need to listen the songs from haku, my favorite | Sentiment: None
-553: 548: this need to be updated.... | Sentiment: negative
-554: 549: in this list, you can clearly see that there is some artist that win more than the others :- yoasobi- yunezu kenshin- ado - lisabut that ppap and tokyo drift was unexpected 😂 | Sentiment: None
-555: 550: absolutely loved this video! | Sentiment: None
-556: 551: 30:07 | Sentiment: None
-557: 552: lemon is number 2. yoasobi dominates it with a fuckton more views/listens combined. | Sentiment: positive
-558: 553: ifdc for me the no. 1 will always be the op of noragami &#39;kyouran hey kids&#39;. i literally fell for this song the moment i listened to it for the 1st time back in 2k19 and ever since that day it&#39;s always been my phone&#39;s ringtone. every thing about this song is perfect be it the verse, beats, instrumental, bridge, chorus. but sadly it&#39;s under rated af at least the anime is if not the song | Sentiment: None
-559: 554: on my instagram i have a face swap video of that pineapple pen 😂 | Sentiment: positive
-560: 555: 23:01 im sorry are you on ecstasy? | Sentiment: positive
-561: 556: nooo wheres colors by my goat flow!!!!!! | Sentiment: negative
-562: 557: 34:17 it’s funny how you compare the top 100 jp songs to the top 100 american songs, get all disappointed, and becomes the reason you wanna get the fucc outta there lol, understandable 😂 | Sentiment: None
-563: 558: 最近でたmrs.green appleの天国のリアクション、みてみたい！ | Sentiment: negative
-564: 559: its a bit sad that asian kung fu generation is not in the top 100, their songs are bangers | Sentiment: None
-565: 560: the video started to sound like a certain artists speech when crossing field came on😂 | Sentiment: positive
-566: 561: bibideba not in this list?? | Sentiment: negative
-567: 562: 7:51 ayo | Sentiment: negative
-568: 563: how come you don&#39;t know what ppap is kekw | Sentiment: None
-569: 564: 29:48 smile faded so fast 😂😂 | Sentiment: None
-570: 565: bro no shinunoga e wa | Sentiment: positive
-571: 566: 2:35 a question all us otaku ask ourselves sigh | Sentiment: positive
-572: 567: ppap was the best brainrot in my highschool days lol, that and the duck song was peak. | Sentiment: None
-573: 568: bro you gotta check out more of yorushikas songs | Sentiment: None
-574: 569: gto ost ?! in this economy ?! we&#39;re so blessed | Sentiment: positive
-575: 570: love the glaze of japan as always lol | Sentiment: None
-576: 571: i actually choked when cruel angels thesis came on and a chat said &quot;this one is from 1812&quot; 😂 gtfo | Sentiment: None
-577: 572: no &quot;we are&quot;? 😢 | Sentiment: None
-578: 573: if i understand it correctly, it doesn&#39;t say the most played songs in japan, right? it says the most played japanese songs worldwide | Sentiment: negative
-579: 574: 6:14 nice voice | Sentiment: None
-580: 575: 100% understand lemon being 1st. my favourite would be beginning but one ok rock is my favourite japanese artist so that&#39;s why lol | Sentiment: None
-581: 576: yes. babymetal video can be insane | Sentiment: negative
-582: 577: yuuri was one of the first japanese artist led me into j-pop, he was too underrated. | Sentiment: None
-583: 578: no little glee monster song in top 100 :(it is my favorite japanese group / band. lot of bangers in top 100 though!!! | Sentiment: None
-584: 579: ufff | Sentiment: negative
-585: 580: still gunna drop reaction to dbs broly?i just know ya said you were liking idea of dropping movie reaction once a week so dk if plans changed or what but no worries if not was just lookin forward to you watching dbs broly lol… | Sentiment: None
-586: 581: アニソン以外のjpopも普及してくれたら嬉しすぎる！arigato~~~from japan! | Sentiment: negative
-587: 582: official hige dan dism was my entry to japanese musici love their lyrical choices and their live versions are amazing | Sentiment: positive
-588: 583: 85 what song? | Sentiment: positive
-589: 584: 34:30 take me with yall!!! | Sentiment: None
-590: 585: that pineapple song is like our never going to give you up | Sentiment: positive
-591: 586: 30:00 omg hahahaha!!!! 😭😭💀💀i cant stop laughing!!! 💀💀💀 | Sentiment: None
-592: 587: please reaction one ok rock🔥🔥 | Sentiment: positive
-593: 588: bro i recomended you to reaction yuuri | Sentiment: None
-594: 589: bro saying crossing field was released back in the 1800&#39;s had me deceased 😭🥀never a dull moment with nicholas 💯 | Sentiment: negative
-595: 590: i am very happy as a japanese person that many people from abroad, including nicholas, have come to like japanese songs and artists.and at the same time, i was reminded of how fortunate i am to have been born japanese, to have learned and spoken japanese, and to be able to understand and enjoy the content of these wonderful songs as a matter of course.thank you for coming to like japan. this is a message of gratitude from one japanese person to nicholas.(i&#39;m sorry if the translation was incorrect.) | Sentiment: None
-596: 591: eveさんの曲来たら待ってましたと言わんばかりのいい反応をしてくれるから見ちゃうんだよなぁほんとにニコラスニキの言う通り新曲を待ち焦がれています❤マジで全人類に聴いて欲しい… | Sentiment: negative
-597: 592: i wanna share some artists that are not on the list but wish you discover or remember back:- atarashii gakko - yuzu (made hunter x hunter ending)- make-up- jibaku shounen band | Sentiment: positive
-598: 593: no asian kung fu generation? :d there should be a bracket 2010 ~ 2015 ehehe | Sentiment: None
-599: 594: lemon by kenshi yonezu served as the ost for hit japanese mystery drama &#39;unnatural &#39; | Sentiment: None
-600: 595: wtf? 80 out of 100 of these songs are in my spotify playlist. | Sentiment: None
-601: 596: wtf admiral kizaru!~ | Sentiment: negative
-602: 597: the ppap and tokyo drift disrespect will not stand | Sentiment: positive
-603: 598: 29:51 the expression on nick&#39;s face 😂😂😂😂😂😂 | Sentiment: positive
-604: 599: ニコラス兄貴、日本語の発音綺麗だから絶対才能あるよ〜！！いつか兄貴達に日本で会えたらいいな〜 | Sentiment: negative
-605: 600: im surprised assu is not here | Sentiment: positive
-606: 601: 1990/2000/2010年代の日本のtop chartも聞いてみてくれ | Sentiment: None
-607: 602: akb除外してくれｗ | Sentiment: negative
-608: 603: 29:51 banger | Sentiment: None
-609: 604: 30:15 peak,i&#39;m not kidding, the legend appears on this list, kizaru!!!!!!!!🤩 | Sentiment: None
-610: 605: 29:51 nicholas is literally speechless lol | Sentiment: None
-611: 606: when are the bleach reactions are coming out................................?????????? | Sentiment: negative
-612: 607: this top just shows how much making a song that works on tiktok matters more than actually making a good song ,not saying all of them are bad or anything ,but to me creepy nuts has a way better song than the ones that are really popular now (they are just an example ) . | Sentiment: positive
-613: 608: 15:46 i just remembered they perform in our country, in front of my face, and i thought they look pretty cute as fok only to discover that they are actually very famous 🤣. | Sentiment: negative
-614: 609: 菅田将暉 masaki suda is one of the best friends of 米津玄師 kenshi yonezu. 菅田将暉が米津玄師を世界にひっぱりだしたと言っても過言ではない。3:36 #88 虹 rainbow🌈4:15 #85 さよならエレジー good bye elegy10:20 #66 まちがいさがし12:21 #58 灰色と青 gray &amp; blue / song with 米津玄師he married with the actress in following mv.4:35 vaundy 踊り子 odoriko dancer | Sentiment: None
-615: 610: by the way, kocchino kento (who was on the rankings and also sang the opening theme for vegilante) and suda masaki (who was on several rankings )are brothers. suda masaki is one of the actors who is active in a wide range of fields. | Sentiment: negative
-616: 611: i think doing a reaction video on the top 100 american songs would be a great idea. i’m eagerly waiting. | Sentiment: None
-617: 612: thanks to orb i heard sakanaction hehe~ | Sentiment: None
-618: 613: 神回👏💓 | Sentiment: negative
-619: 614: my top 3 jp band/artist- ado- one ok rock- ringo shiina | Sentiment: None
-620: 615: ピコ太郎のこと黄猿って言ってんの草すぎ | Sentiment: negative
-621: 616: ニコラスさんのリアクションも楽しかったし黄猿には笑ったw言われてみればそう見えてくる。ランキングも日本人として楽しかったです | Sentiment: negative
-622: 617: the best part when at the end he started playing the &quot;top 100 american songs&quot; for comparison and felt embarrassed. | Sentiment: None
-623: 618: the thumbnail is so forced and cringe it made me cry from sadness. | Sentiment: None
-624: 619: ppap has been viral way back 2016😆 | Sentiment: None
-625: 620: 29:49 it&#39;s fcking kizaru man😂 | Sentiment: negative
-626: 621: lemonがなかったらppapにすべてを持っていかれるところだったな | Sentiment: negative
-627: 622: i am the contributor to this ranking! thank you for watching! just a quick note: this ranking is unofficial, so please keep that in mind. | Sentiment: None
-628: 623: i just had breakup on my 18th birthday thnks for this | Sentiment: negative
-629: 624: tk should honestly hv been more | Sentiment: negative
-630: 625: 22:45〜the back number song has resonated with viewers with its lyrics that speak for unpopular men.the band&#39;s name also comes from the vocalist&#39;s self-deprecating experience of his former girlfriend being taken away by another band member.all their songs are about unrequited love and heartbreak. | Sentiment: None
-631: 626: 08:15 me too brother.... me too | Sentiment: None
-632: 627: can anyone tell me the name of the song in 78 no. | Sentiment: None
-633: 628: i was waiting for spiderman atsv... | Sentiment: None
-634: 629: where&#39;s the spiderverse reaction you promised us??? | Sentiment: None
-635: 630: 25:29 優里でたーーー🎉 | Sentiment: None
-636: 631: insane | Sentiment: negative
-637: 632: wow! im surprised no spyair on the list | Sentiment: None
-638: 633: ミスチルとかも名曲多いんだけどなぁ | Sentiment: negative
-639: 634: ppap衝撃すぎんのまじおもろい | Sentiment: negative
-640: 635: whats the number 78? | Sentiment: positive
-641: 636: i felt so confused and nostalgic at the same time when ppap appeared. i even forgot that it was a thing lmao | Sentiment: positive
-642: 637: is it only me or y do i always smile when i see nick happy😂 | Sentiment: None
-643: 638: sad that the list only counts yt, spotify and apple music and could never include those songs (especially the older songs) that are not officially put on streaming platform. | Sentiment: positive
-644: 639: ピコ太郎に戸惑うニコラスかわいい😊日本より海外に流行ってたな…日本は何がウケいるのかわかんなかった | Sentiment: negative
-645: 640: ピコ太郎クソ笑った | Sentiment: negative
-646: 641: ahaha nick really hates specialz songs, and me too 😂 | Sentiment: None
-647: 642: 肌の色だけが多様性ではない。日本は音楽だけ見ても個性であふれているさ。 | Sentiment: negative
-648: 643: lmao bro immediately went to top 100 american songs after and was just like 🙃 | Sentiment: None
-649: 644: i will be waiting for your reaction to babymetal | Sentiment: negative
-650: 645: i used to dislike listening to japanese music—until i discovered ado. since then, i’ve been captivated by her music, listening to all of her songs. she’s the only reason i started listening to japanese music. !! | Sentiment: None
-651: 646: レモンが1位なのは時代と、米津玄師本人がmvに出る過程など複雑な要素が絡み合ってメディアで大きく話題を生んだ。そして1番伸びた理由はカラオケで歌いやすく、若者から年配まで多くの大衆の興味をひいたこと。 | Sentiment: negative
-652: 647: thank you for listening j-pop!i hope you listen j-pop more.(please listen spitz and mr. children someday) | Sentiment: None
-653: 648: more content like this nic please this awesome we got good music from japan | Sentiment: positive
-654: 649: all of my goats were here1. ado2. minami3. aimer | Sentiment: None
-655: 650: この人って演歌とか聴くのかな？聴いたこと無いなら聴いてみてほしい | Sentiment: None
-656: 651: 日本いい音楽多すぎだろ(多分他の国もそうだけど)ニキがサカナクション好きなのめっちゃ嬉しいわ | Sentiment: negative
-657: 652: 33:41 agree but lemon is great too | Sentiment: None
-658: 653: ニコラスニキにもっとワンオク聴いてほしい | Sentiment: negative
-659: 654: 29:50 mann this shit made me rolling on floor of laughter🤣 never imagined to see ppap at top 5 at all! wtfff!🤣 | Sentiment: None
-660: 655: 10:24 machigai sagashi by masaki suda | Sentiment: negative
-661: 656: happy to see nicolas being into sakanaction. wanna see more of it! | Sentiment: None
-662: 657: every japanese all time list that i&#39;ve seen is always lemon 1st and uchiage hanabi 2nd. not seeing uchiage hanabi at 2nd feels kinda odd tbh | Sentiment: None
-663: 658: yaosobi owned the list | Sentiment: None
-664: 659: so many yoasobi songs o____olll | Sentiment: None
-665: 660: 8:07 as i saw this, one thing came through my mind, where the heck is the frieren reactions | Sentiment: None
-666: 661: just start learning the basic characters then slowly learn some simple words. | Sentiment: positive
-667: 662: lemon is a classic lol | Sentiment: None
-668: 663: this is most listening japanese song all time,i used to watch this in 2020.back then ppap at first for 700mil views,and yoasobi got only 1 song on the top 100 list for &quot;yoru ni kakeru&quot; at 300mil.comepare this video and the 2020 list so much changes bro 😂. | Sentiment: None
-669: 664: あいみょんのmugiwaraをちゃんと聞き取っているのすごいしppapの時にkizaruで笑っているのもワンピースファンとして嬉しい | Sentiment: negative
-670: 665: back number has good songs. cant wait for more of your music reactions | Sentiment: positive
-671: 666: bakemonogatari✋🏻🗿🤚🏻 | Sentiment: negative
-672: 667: i&#39;m 40 songs deep and no guns? no fake asses shaking? no drugs, no purple drinks? not even satanistic imagery? wtf??? | Sentiment: None
-673: 668: do some reaction to one ok rock if you can nick! | Sentiment: None
-674: 669: 18:52 i looked away for a second and when i watch the screen he was looking at me (the funniest sh=t) | Sentiment: None
-675: 670: overreact | Sentiment: negative
-676: 671: ピコ太郎が黄猿はワロタ | Sentiment: negative
-677: 672: bro knows ball, one ok rock is so peak | Sentiment: positive
-678: 673: 海外ニキ達に是非サザンオールスターズのtsunamiを聴いて欲しい。まだまだ日本の良い音楽沢山ある | Sentiment: negative
-679: 674: bro got copyrighted 😭😭 | Sentiment: negative
-680: 675: only time ive didnt skip even single second in this video up till end , everytime i wtach 100 anime songs reaction i just couldnt wait for peak resulting in skipping almost 10 to 15 songs easily but this ... this video is peak every single second is peak , you simply cant ignore even one song from this list its just that good 🔥 | Sentiment: None
-681: 676: piko taro has met with president donald trump. | Sentiment: positive
-682: 677: あんまりアニメ主題歌とか出していないから今回の動画でワンオク(one ok rock)のリアクション見れたの嬉しすぎた😭 | Sentiment: positive
-683: 678: ほぼyoasobi、米津玄師、髭男、ミセスが独占してるのおもろい | Sentiment: negative
-684: 679: from rapper to american . bro demoted himself | Sentiment: negative
-685: 680: 7:30 he actually produced a new pjsk comm song for leo/need | Sentiment: None
-686: 681: lemon is like my alarm clock tone for the longest time | Sentiment: positive
-687: 682: ピコ太郎の無量空処くらってるのおもろすぎる笑 | Sentiment: negative
-688: 683: ice cream song | Sentiment: positive
-689: 684: i remember ppap.. it even had a mobile game💀 | Sentiment: None
-690: 685: next, react back number band | Sentiment: negative
-691: 686: this video kinda makes me wanna to remake my jp playlist | Sentiment: negative
-692: 687: please react shota shimizu songs😊 | Sentiment: negative
-693: 688: ppap is goated | Sentiment: None
-694: 689: kizaru when he effects gear 5 sing ppap pineapple pen😂😂😂 | Sentiment: None
-695: 690: ppapで腹の筋繊維全部千切れた。 | Sentiment: negative
-696: 691: 7:42this song is sung by saori hayami. i tip my hat to the range of her voice. | Sentiment: None
-697: 692: なんでppapって流行ったんだろうね… | Sentiment: negative
-698: 693: by far, sakanaction is what i would like people overseas to hear. the runner-up is kana nishino. i recommend her album called love place. her songs have helped me in my life. | Sentiment: positive
-699: 694: hello world,yesterday let&#39;s go | Sentiment: None
-700: 695: back number lets go | Sentiment: negative
-701: 696: watching this makes me happy as a japanese, knowing how we have such good music and got people loving them even praise of japan.and then we have those meme songs like usa and ppap😂 | Sentiment: positive
-702: 697: 米津玄師の曲をもっと聴いてほしいです！特に『海の幽霊』は私が今まで聴いた中で1番素晴らしい曲です！！『アイネクライネ』『loser』『感電』もぜひフルで聴いてください🙏 | Sentiment: negative
-703: 698: 日本人しか聞いてない曲で1番高いのがback number（とあいみょん）やな。海外勢がアニソンやtiktokの曲沢山聞いてる中、ほとんど日本人だけの再生回数で27位はバケモンすぎる。これが真のj-rockだよ | Sentiment: positive
-704: 699: 日本の曲は詩的な歌詞が多いので気に入った曲だけでも歌詞を読んでみてはいかがでしょうか | Sentiment: negative
-705: 700: im so fking mad ppap meme song get no. 5 and dont have any spyair band song | Sentiment: None
-706: 701: 29:49 i didn&#39;t expect this song on number fifth on list 😭🤣 | Sentiment: positive
-707: 702: 1 request lets watch crow zero its peak 😂😂😂😂 | Sentiment: None
-708: 703: yoasobi be like i am the list | Sentiment: positive
-709: 704: where is uchiagehanabi | Sentiment: None
-710: 705: all these are going in my playlist | Sentiment: negative
-711: 706: even gen z they hearing 70, 80 , karaoke is big in japan, 90, 00 great too, some song have special moment to their youth, or seasons | Sentiment: None
-712: 707: aimyon is so underrated, i find her song so calming definitely my top 1 japanese artist | Sentiment: None
-713: 708: ppap made me click | Sentiment: negative
-714: 709: 14:39 realisation..😂 | Sentiment: None
-715: 710: ここにでてきた曲を出来ることなら全てフルで聞かせたい日本語の曲はフルで聞いてこそ最高に輝く | Sentiment: None
-716: 711: sakanaction, official higedan dism, let&#39;s explore these further. | Sentiment: None
-717: 712: 4:21 okay, you should just stop the glaze from there , i don&#39;t wanna live in japanese society ever, never | Sentiment: negative
-718: 713: ピコ太郎でのニキの顔がツボすぎるwwww | Sentiment: negative
-719: 714: yorushika lets gooooo 9:52 | Sentiment: negative
-720: 715: 6:47 i still hear my online nickname 🔥(kierek kierek down... yk) | Sentiment: None
-721: 716: 29:48 i remember this being everywhere when i was in school ....can&#39;t believe this was from japan | Sentiment: negative
-722: 717: weird seeing so many random songs i&#39;ve found on spotify in the top 100 | Sentiment: None
-723: 718: ppapでフリーズするのはまぁその…わかるよジャンルとか違うけどそのうち古い楽曲とか演歌聞いてほしいなぁ | Sentiment: negative
-724: 719: just realized nicks never reacted to yorushika | Sentiment: negative
-725: 720: nick has returned to his peak! | Sentiment: negative
-726: 721: my top favorite japanese music:- yoasobi- mami kawada- bish- yousei teikoku- uverworld - tk- egoist- fripside- ado- konomi suzuki- kenshi yonezu- lisa- reona- minami- myth &amp; road- garnidellia- band-maid- hanabi- man with a mission- fear and loathing in las vegas- kotoko- gackt- the gazette- galnerius- x-japan- higuchi-ai- coldrain- one ok rock- sid- flow.- mili- mauy maeshima- nonoc- zaq- aimer- waggakki band- kokia- kanako itou- junna- spyre- the oral cigarette- imperial circus decade decadence | Sentiment: None
-727: 722: 思ってたより日本の曲いっぱい知ってくれててうれしいです！！ | Sentiment: negative
-728: 723: the top 10 is sucks.80〜90 or 11〜20 is better | Sentiment: None
-729: 724: 39 iconic fucking tokyo ghoul opening will forevrr be in my heart idgaf😭 | Sentiment: negative
-730: 725: bro where the hell are the one piece opening at | Sentiment: None
-731: 726: 25:09 that my ringtone | Sentiment: negative
-732: 727: what we&#39;re all here for 29:48 | Sentiment: positive
-733: 728: finally, japanese youtube has started infiltrating english-speaking reaction youtube.it’s now only a matter of time before someone comes across yoyoyo-chan’s covers now! ✌️(yes, i would volunteer to help write a little cheat sheet for the japanese to help anyone reacting to her stuff) | Sentiment: None
-734: 729: 無量空処喰らってて草 | Sentiment: negative
-735: 730: i have most of these songs in my playlists already, i feel proud 😂 | Sentiment: None
-736: 731: 間違いなく世界で一番の音楽大国です😊 | Sentiment: negative
-737: 732: mrs. green appleの新曲 『天国』をチェックしてみて下さい！かなりの衝撃です！ | Sentiment: negative
-738: 733: i was confident pretenders by higedan would at least be top 3 but i&#39;d take 6th. | Sentiment: None
-739: 734: until ppap 😧😧?? | Sentiment: negative
-740: 735: 29:47 his face😂😂😂😂😂😂😂😂 | Sentiment: None
-741: 736: 31:23 &quot;i&#39;m not a meme guy. i hate memes.&quot;nick... you are a meme. | Sentiment: positive
-742: 737: youtubeやspotifyなどの台頭と、アニメが市民権得たことで最近のアニメ主題歌が多くランクインしてるけど、一昔前のドラマの主題歌とかもいい曲が多いんだよなぁ…日本のドラマまで紹介するの難しいけど… | Sentiment: negative
-743: 738: мы все уже заранее знаем что в топ 1 будет lemon от кенши ёнезу | Sentiment: negative
-744: 739: kizaru in number five is crazy | Sentiment: negative
-745: 740: please keep reacting to boruto skip whatever you want | Sentiment: negative
-746: 741: no 5 is unbelievable 😂🤣 | Sentiment: None
-747: 742: one ok rockのこと知ってたのか！好きだからこそリアクションしてないのかな、きっと。やっぱりニックいい人だ | Sentiment: positive
-748: 743: it&#39;s never too late nick. you can learn japanese if you want. | Sentiment: None
-749: 744: 98 i didn&#39;t know that song was japanese 😂 | Sentiment: positive
-750: 745: this is the real top 100 japanese songs！！but mrs. green apple “soranji”is good！！ | Sentiment: None
-751: 746: kanashii ureshii not being on the list is criminal ngl | Sentiment: positive
-752: 747: masaki suda is a private friend of creepy nuts and has released song with them.kocchi no kento is masaki suda&#39;s younger brother, which was discovered after the song exploded.by the way, when i went to a certain high school for club activities, there was a student who had a ridiculously strong aura.he was later called masaki suda. | Sentiment: None
-753: 748: w for back number | Sentiment: negative
-754: 749: i can read japanese now yehey!! i was reading the song names and conveniently was able to search them thanks to my studying. | Sentiment: negative
-755: 750: damn, bro&#39;s not a rapper anymore, he&#39;s american 😔 | Sentiment: None
-756: 751: これでも動画で紹介された曲は氷山の一角だから、もっといろんな曲聴いてほしいね❤ | Sentiment: negative
-757: 752: uverworld,サカナクション,unison square garden,sekai no owari,one ok rock,zaqおすすめきいてほしい！ | Sentiment: positive
-758: 753: kenshi yonezu, aimyon, official hige dandism, yuuri, sekai no owari, yuika, rokudenashi, yoasobi, yorushika are my favorite artists in the list. | Sentiment: None
-759: my 10 most favorite are | Sentiment: negative
-760: 1. marigold - aimyon (one of my favorite japanese song of all time. nothing can beat this) | Sentiment: None
-761: 2. eine kleine - kenshi yonezu (my most favorite kenshi song. i was blown away how talent he is) | Sentiment: None
-762: 3. pretender - official hige dandism (my most favorite higedan song, still play until now) | Sentiment: positive
-763: 4. betelegeous - yuuri (best yuuri song. the first take version also very good) | Sentiment: positive
-764: 5. neko - dish// (one of the best song on the first take) | Sentiment: None
-765: 6. ano yume wo nazzote - yoasobi (recently my favorite yoasobi song) | Sentiment: negative
-766: 7. cry baby - official hige dandism (my second most favorite higedan song) | Sentiment: negative
-767: 8. crying for a rain - minami (one of the best op) | Sentiment: None
-768: 9. uchiage hanabi - daoko x kenshi yonezu (one of the best anime movie song of all time, what a collaboration) | Sentiment: None
-769: 10. hakujitsu - king gnu (the first king gnu song that i ever heard, and this is banger) | Sentiment: positive
-770: 754: you should listening to the full song on this list that you never heard before. | Sentiment: None
-771: 755: back number has more good music | Sentiment: positive
-772: 756: 5位で笑った | Sentiment: negative
-773: 757: bro how tf you don&#39;t know about ppap | Sentiment: None
-774: 758: yui聴いて欲しいなぁ | Sentiment: negative
-775: 759: waiting for spiderman | Sentiment: None
-776: 760: ピコ太郎懐かしい | Sentiment: negative
-777: 761: i&#39;m actually surprised i know/can sing (badly) almost all of these song except around 10 of them that i haven&#39;t heard before. | Sentiment: negative
-778: 762: ニコラス兄貴には、the blue hearts聴いて欲しいな～。 | Sentiment: None
-779: 763: 33:43 it’s the opening to a very popular reality tv series that’s popular in a crap ton of asian countries if i remember correctly. | Sentiment: None
-780: 764: thanks nick for reacting to this based music video, my senses and music taste are again turning to japanese mode thanks to this 😭❤ time for peak vibe ✅ peak beats ✅ language understanding ❌ 😭 | Sentiment: None
-781: 765: 4位の曲聞いたことあるけど何これ | Sentiment: negative
-782: 766: please give me your reactions to babymetal from me to u and ratatata 🙏 | Sentiment: None
-783: 767: he&#39;s having the time of his life | Sentiment: None
-784: 768: 29:48 kizaru is here | Sentiment: None
-785: 769: this is my list from now on 😊 | Sentiment: None
-786: 770: ピコ太郎(ppap)が安倍さんとトランプさんと3ショット撮っていたの思い出して懐かしくなったわ | Sentiment: negative
-787: 771: 29:18 wow the lackluster reception to this movie couldn’t stop the song from reaching number frickin 7. | Sentiment: negative
-788: 772: ピコ太郎で思考止まってんのほんとおもろい | Sentiment: negative
-789: 773: ppapのリアクションに大爆笑しましたwwwww | Sentiment: negative
-790: 774: this list is bullshit, misamo - do not touch has 118 million views, wtf | Sentiment: None
-791: 775: pikotaro and kizaru there is no sense of incongruity when putting them together.because uncle ppap and kizaru look so much alike | Sentiment: None
-792: 776: one piece ost sucksbut the best cartoon of the year😅 | Sentiment: None
-793: 777: 近年日本でもkpop系のアイドルが量産されているけどこう見るとやっぱ全然聞かれていないなランクインしたのniziuくらいか逆に韓国のtop100がどれだけkpopアイドルで埋めつくされるのかちょっと興味ある | Sentiment: negative
-794: 778: nicholas! watch &#39;legend of the galactic heroes&#39; (the old 1988 version). it’s one of the most legendary pieces of media ever made. if you enjoy anime like death note, code geass, or aot, you will love it. imagine lelouch vs. l in space! you have to watch it; it’s an experience! | Sentiment: None
-795: 779: 邦楽聴いて笑顔になってるニコラスを見るのが日課になってる!ｗ | Sentiment: negative
-796: 780: meanwhile in the west... | Sentiment: negative
-797: 781: fake rankings | Sentiment: positive
-798: 782: ニコラス兄貴ほんと表情筋豊かすぎる | Sentiment: negative
-799: 783: 28:47 big n just broke | Sentiment: None
-800: 784: i can&#39;t believe i recognised all the songs in the list, maybe i need to go touch some grass 😅 | Sentiment: None
-801: 785: 菅田将暉とこっちのけんとは兄弟です！ | Sentiment: negative
-802: 786: react sheena ringo instict and ado cover | Sentiment: None
-803: 787: pineapple pen and tokyo drift lol | Sentiment: None
-804: 788: lemonは日本人に染みるんだよねアンナチュラル（日本で一大ブームになったドラマ・アンナチュラル）でこの曲が流れるタイミングが完璧だった😢 | Sentiment: negative
-805: 789: 30:27 why kizaru is here😭 | Sentiment: None
-806: 790: ニックさん楽しいリアクションありがとう！これからもj-popをよろしく頼みます！ | Sentiment: negative
-807: 791: いつかでいいから日本語を理解してもう一度聞いてみてほしい。翻訳したらは直訳されるけど日本語で歌詞をみたらまた感動すると思う | Sentiment: negative
-808: 792: this was a fun video. just matching the songs i love from certain anime’s with the singers actual faces was great! | Sentiment: positive
-809: 793: bring more bleach reactions if you want :d | Sentiment: None
-810: 794: i love ppap death note version. ryuk is funny as hell | Sentiment: positive
-811: 795: 26:36 ranked 17th like her age when she debuted with this song | Sentiment: positive
-812: 796: here before it gets copyrighted! (i hope it doesnt i love this video) | Sentiment: positive
-813: 797: awesome | Sentiment: negative
-814: 798: had to add some of these songs to my playlist asap | Sentiment: None
-815: 799: 10〜20年前くらいのランキングも聴いてほしいな〜 | Sentiment: negative
-816: 800: 兄弟、僕も好きじゃないよppap | Sentiment: positive
-817: 801: you&#39;ll be the next youtuber moving to japan | Sentiment: negative
-818: 802: there once battle of fruits for the top 1 songs between lemon and pineapple (ppap), sometimes one beat others🤣 | Sentiment: None
-819: 803: 日本の音楽を愛してくれてありがとうございます。 | Sentiment: negative
-820: 804: one ok rock !!!. hope nick react more oor | Sentiment: positive
-821: 805: &quot;them, yoasobi, they own this list man&quot; | Sentiment: negative
-822: *ppap appears* | Sentiment: negative
-823: 806: eugh pine apple pen | Sentiment: negative
-824: 807: back number is so goated. | Sentiment: positive
-825: 808: bro i wish i can meet you when you come to japan:) | Sentiment: negative
-826: 809: ppap was peak back in school in 2016 | Sentiment: negative
-827: 810: currently mrs green apple is the best band in japan | Sentiment: negative
-828: 811: when kenshi yonezu creates songs for anime, i think he makes the melodies more catchy so that they’re easier for people outside japan to accept. “lemon” has a melody and lyrics that go very well, and i feel it reflects a sensibility that is closer to that of japanese people. | Sentiment: None
-829: 812: こういう動画待ってた! | Sentiment: negative
-830: 813: mashle op being top 10 after only 1 year | Sentiment: None
-831: 814: 30:15 黄猿 | Sentiment: None
-832: 815: my top 10 jp bands/artists:1. bump of chicken2. one ok rock3. utada hikaru4. mrs. green apple5. miho komatsu6. flow7. official hige dandism8. sweet arms9. ikimonogakari10. babymetal | Sentiment: positive
-833: 816: wishing any of my current songs or future songs can be in there oneday | Sentiment: negative
-834: 817: 20:47 that is indeed natori! would genuinely love to see you check out all his full songs on his channel 😂 pretty much every single one is an absolute bop and they all hit in very different ways (especially if you watch the pvs!) | Sentiment: None
-835: 818: 急なppapに混乱してるの面白すぎる | Sentiment: negative
-836: 819: 15:43 49 and we got the first idol song. really hope the top 50 isn’t dominated by idols.coming back to say it wasn’t. thank you japan for not being totally idol pilled. | Sentiment: negative
-837: 820: no.88,85,66 masaki suda is no.77 kochino kento’s brother! | Sentiment: None
-838: 821: 13:45 yesss please do back number reaction videos, their song is so good and it&#39;s so relatable😭🔥 | Sentiment: positive
-839: 822: most of these songs suck and no this is not better than american top 100 not even close stop glazing for views | Sentiment: None
-840: 823: the heck this top is my whole playlist | Sentiment: None
-841: 824: 7:50 do it!! | Sentiment: None
-842: 825: brazilian songs are trash too, nowadays 😂 | Sentiment: negative
-843: 826: peak video | Sentiment: None
-844: 827: wow, official hige dandism is bigger than i realized! i figured kenshi would have the most songs. | Sentiment: None
-845: 828: sad to see no &quot;kiseki (キセキ) by gre4n boyz in here. still a list with such a huge amount of bangers. | Sentiment: None
-846: 829: i was surprised inferno was so high up! i figured when we saw mrs. green apple earlier that that would be about where inferno would&#39;ve been. i am happy it was so high on the list. | Sentiment: positive
-847: 830: 絶対one ok rockは他の曲リアクションした方がいいぞマジでかっけええから他の曲とかアーティストを馬鹿にしたいわけじゃないけどアニメの主題歌とか流行りの曲ばっかリアクションしてるのは正直勿体無い | Sentiment: positive
-848: 831: it’s really sad for u that u think some anime really can beat this iconic tokyo drift ost, tf u on monkey??!! | Sentiment: positive
-849: 832: vid so good it made my day brighter | Sentiment: positive
-850: 833: yoasobi owns the list ngl | Sentiment: None
-851: 834: 33:03 they love lemons😂😂 | Sentiment: positive
-852: 835: you definitely need to check out back number. they only make bangers. one of my favourite bans. | Sentiment: negative
-853: 836: go watch to 100 song country europe (uk, france, germany, spanish, italy, ukrain) | Sentiment: None
-854: 837: i really want him to be blown away by mrs green apple with soranji and heaven | Sentiment: negative
-855: 838: i’m on a 40 day streak with my japanese. you really just have to start. | Sentiment: positive
-856: 839: 日本人の俺より知ってる曲多すぎでしょ。 | Sentiment: negative
-857: 840: tbf, if you were japanese you probably wouldn&#39;t be as loud and entertaining 😂 | Sentiment: None
-858: 841: back number, mr children, one ok rock, hige dan, kana nishino, ikimono gakari and kiroro are my all time japanese band/singers | Sentiment: positive
-859: 842: kizaru song the best | Sentiment: negative
-860: 843: why would you hate your own country lol | Sentiment: None
-861: 844: i hope specialz is in thereedit: yeeeeesss | Sentiment: negative
-862: 845: ナイスリアクション✨😁 | Sentiment: negative
-863: 846: because of back number that i clicked like in this videothe oral cigarettes too | Sentiment: positive
-864: 847: can your provide link of the video? | Sentiment: None
-865: 848: nick, you don&#39;t have to learn the language to be able to sing along. after listening to the songs a few times, we can easily sing along | Sentiment: None
-866: 849: ppap is peak | Sentiment: None
-867: 850: it&#39;s not top 100 now.. it&#39;s ever | Sentiment: None
-868: 851: nick, please continue the bleach tybw reaction, even if it was a full reaction without the scene and sound. | Sentiment: None
-869: 852: 6:47 &quot;hai yorokonde&quot; by kocchi no kento is a fantastic bop and i&#39;d love to see your reaction to it! it was quite the trend to do the chorus dance in japan as well! the description of the song provides a decent idea of what the song is about as well and it&#39;s quite the relatable one! | Sentiment: None
-870: 853: what’s your favorite japanese song? | Sentiment: positive
-871: 854: 68 by yorushika,you must react all off them song | Sentiment: negative
-872: 855: ppap was huge | Sentiment: negative
-873: 856: holy shit!!! idol is not in first place!!! | Sentiment: negative
-874: 857: bro you know one ok rock ????? | Sentiment: positive
-875: 858: oneokrock🔥🔥🔥🔥 | Sentiment: negative
-876: 859: b4 came out like a year ago and it’s at 9th place..? | Sentiment: positive
-877: 860: maid ✨akane 😆🥁🫶✨✨✨ | Sentiment: negative
-878: 861: masaki suda is an actor and singer. he is a popular actor who can play anything from serious roles to comedy and action roles. he plays the role of shinpachi in the live-action movie &quot;gintama.&quot; in his private life, he is known for his love of the yu-gi-oh card game. | Sentiment: None
-879: 862: lest go babymetal | Sentiment: negative
-880: 863: wow im early | Sentiment: None
-881: 864: 8:38 damn ilove mrs green apple | Sentiment: None
-882: 865: suda masaki (菅田將暉) is one of the famous star in japan right now, including acting and singing. and actually the actress in the mv of vaundy&#39;s odoriko (踊り子) is his wife. | Sentiment: None
-883: 866: casually waiting for the naruto mobile cinematics reaction: | Sentiment: None
-884: 867: nick so based for loving one ok rock! not many people who watch anime know anything about them, they&#39;re seriously one of the biggest and at the same time most underrated band of all time!!! | Sentiment: positive
-885: 868: ppap | Sentiment: negative
-886: 869: please do babymetal reaction nick! all of their music videos from theirvare literally babies | Sentiment: None
-887: 870: nice video, nicholas | Sentiment: None
-888: 871: i was watching your boruto ep -17-18 but i accidentally clicked off of it and it vanished 😭🙏 | Sentiment: negative
-889: 872: 🥸 | Sentiment: negative
-890: 873: peak song 😌💗🎶 | Sentiment: positive
-891: 874: いいね | Sentiment: negative
-892: 875: japan city pop of 80s it’s just another level of vibebut in this top i heard just only one song of this style😢 wtf | Sentiment: None
-893: 876: sukidakara was my favorite among them :&gt; that&#39;s the first song played on this video. | Sentiment: negative
-894: 877: first time this early | Sentiment: negative
-895: 878: wheres evangelion bro 😭 | Sentiment: negative
-896: 879: thank you!! nick! | Sentiment: None
-897: 880: | Sentiment: negative
-898: 881: so early | Sentiment: None
-899: 882: nice | Sentiment: None
-900: 883: i can’t believe you’ve never heard of ppap 😭 back in the days it was all over like gangnam style was. | Sentiment: negative
-901: 884: that&#39;s fire | Sentiment: positive
-902: 885: how the hell did i get here so early? | Sentiment: None
-903: 886: we have been blessed with another 100 japan songs🙏🙏 | Sentiment: None
-904: 887: second | Sentiment: negative
-905: 888: pen pineapple apple pen | Sentiment: None
-906: 889: wow i’m so early | Sentiment: None
-907: 890: first | Sentiment: negative
+1: 1: ебаный пот рома жёлудь тут че забыл | Sentiment: negative
+2: 2: where the hell is baby shark on this list? | Sentiment: None
+3: 3: 6:26 i think we all did man.so many of these are actually such iconic bangers though | Sentiment: None
+4: 4: 9:06 sadly, that song was made low quality on purpose (parody/comedy music), but the people in that time didn&#39;t get the humor and tought it was made in serious. now colibritany an her music is an internet classic, my favorite one is &quot;mami silicon&quot; or &quot;silicon babe&quot; | Sentiment: negative
+5: 5: aka top 10 disliked justin bieber songs | Sentiment: None
+6: 6: wehren is wap bap from bibi | Sentiment: negative
+7: 7: as a spaniard, i must tell you that “pollito pío” came out before “i wanna ride,” 12 years earlier to be exact. | Sentiment: None
+8: 8: this whole list is fake and bs none of the songs are the most disliked | Sentiment: None
+9: 9: baby is still bad dude. | Sentiment: None
+10: 10: 4:35 , he is right, its a banger &quot;untouchable, untouchableee&quot; but just that part, the rest of the song is ragebait | Sentiment: None
+11: 11: most songs are disliked because they have many views, but margin of like to dislike is hudge | Sentiment: None
+12: 12: the man who made the original video is definitely a justin bieber hater. | Sentiment: negative
+13: 13: dont fucking @ me... justin bieber got way better after he got away from the heart throb kid image that was forced on him. love yourself, sorry, stay, ghost, peaches etc... all bangers. | Sentiment: positive
+14: 14: i got leafy flashbacks at 8:30 lmao | Sentiment: None
+15: 15: i hate all of them, i was definitely part of the dislikes | Sentiment: None
+16: 16: justin bieber really got better with age his newer stuff is brilliant | Sentiment: negative
+17: 17: 6:29 this thing is violating my ears 😭 | Sentiment: negative
+18: 18: i will never get justin bieber hatethis dude is so talented and have so many great songs | Sentiment: None
+19: 19: bro just put the most known songs in the video and called them disliked? | Sentiment: negative
+20: 20: since it&#39;s just saying &quot;most disliked&quot; it&#39;s just going off the raw amount, not the ratio. if every song had 99% likes, &quot;most disliked&quot; just means &quot;most viewed&quot;. ratio is what really matters. but popularity still matters since there&#39;d be plenty 100% disliked songs that have no views. so what these compilations should really be is &quot;most popular disliked songs&quot;. a.k.a &quot;most popular songs that are ratio&#39;d&quot;. (over 50% dislikes) a.k.a &quot;the most disliked songs, that are actually disliked&quot; (take your pick) | Sentiment: None
+21: 21: e | Sentiment: positive
+22: 22: brazilian songs in the list (we&#39;re kinda annoying 😭😭) musicas brasileiras na lista 01:09 metralhadora - vingadora (tays)01:27 baile de favela - mc joão04:50 tá tranquilo ta favorável - mc bin laden05:25 nhemnhem - maisa08:17 bang - anitta | Sentiment: None
+23: 23: this list wasnt accurate | Sentiment: negative
+24: 24: 7:36 everyone who went on spotify so they can also hear 7 rings song since its not recorded in the video lol | Sentiment: None
+25: 25: most of these songs are amazing especially call me maybe | Sentiment: None
+26: 26: 14:53 the f | Sentiment: None
+27: 27: twinkle little star tops all of these | Sentiment: None
+28: 28: problém is that pulcino pio was first bro soooo | Sentiment: positive
+29: 29: where was wap bap from bibi with like 2m dislikes???? | Sentiment: positive
+30: 30: i understand why some songs are disliked. but either this video is half rage bait, or whoever made that video &#39;&#39;the most disliked songs&#39;&#39; is just an full on idiot, or just made is own opinion on songs. because how the fuck are some songs &#39;&#39;disliked&#39;&#39; | Sentiment: None
+31: 31: 4:57 he instant fading the smile and he heartbeat up to 93 in angry lmao | Sentiment: None
+32: 32: lmaooooooooooooooooooooooooooooooooo he said it was the same beat as the other song i am crying | Sentiment: positive
+33: 33: she made a saturday? ⚰️ | Sentiment: negative
+34: 34: 8:00 we know ohne was not talking about the song | Sentiment: positive
+35: 35: this video should be called - justin bieber songs | Sentiment: negative
+36: 36: only us songs | Sentiment: None
+37: 37: so many banger songs i like 70 % of it xd | Sentiment: None
+38: 38: friday.. that&#39;s all you need to know.. oh yeah.. ofc, there it is.. friday man | Sentiment: None
+39: 39: i&#39;m a new viewer, and now subscriber. i love this dude&#39;s content! | Sentiment: positive
+40: 40: 13:00 he hated brainrot people like u 💩 | Sentiment: positive
+41: 41: notice how there is no beatles songs | Sentiment: None
+42: 42: recking ball drama was about death of hanna montana and birth of new miley i think | Sentiment: None
+43: 43: a little bit of brazilian referenze about music 97, the video doesn&#39;t cover the hate part xd, but basically there was a girl who sings very very badly, alongside this main singer, doing voice like a cattle boiling water xd that&#39;s why it was hated a lot back on the days | Sentiment: positive
+44: 44: bebar hater this guy who made this video | Sentiment: negative
+45: 45: idk about you but i remember hating on justin bieber so much back in around 4th grade. turns out, his old songs are actually kinda bop and i now feel nostalgic listening to em. | Sentiment: None
+46: 46: nicki minaj’s “super bass” isnt talking about bass, its talking about “superb ass”. like she got a phat ass. | Sentiment: positive
+47: 47: bro i love the first song, we bumpin ts all summer ❤❤ | Sentiment: positive
+48: 48: they need to make this video again but highest dislike to like ratio some of these songs are absolute bangers | Sentiment: None
+49: 49: naah man some of these songs are gold i don&#39;t understand this list | Sentiment: None
+50: 50: this list is fuckin wack some absolute bangers in here | Sentiment: None
+51: 51: 8:46 as a spnaish person this shit aint hated this is the goat of like spanish music viva gente de zona for making so many classics | Sentiment: None
+52: 52: how can people hate on judas, is literally one of the most iconic song of the last 20 years | Sentiment: None
+53: 53: 2:25 banger shakira never misses 😂😂😂😂😂 | Sentiment: negative
+54: 54: rebecca and justin were fighting demons lowkey | Sentiment: None
+55: 55: 13:06 what transformers guy😭 | Sentiment: negative
+56: 56: yea, all popular songs will have a lot of dislikes, even if it&#39;s a beloved song. being on this list doesn&#39;t necessarily mean anything. | Sentiment: positive
+57: 57: banger bangher | Sentiment: negative
+58: 58: i came into this looking for thick of it | Sentiment: None
+59: 59: where is bibisbeautypalace with how it is? | Sentiment: None
+60: 60: it&#39;s crazy that he looks at all these pop stars with ghost writers and production teams who do everything for them (except sing) and shit like bieber who is literally just an industry plant and think any of it is at all good. it&#39;s all unoriginal trash. it&#39;s like loot boxes. they are fun because they are designed to target the parts of your monkey brain. no different than this over designed shitty pop music. | Sentiment: None
+61: 61: pollito pio is much more older than vegas, vegas was published on 2022 and pollitio pio on 2012 | Sentiment: None
+62: 62: admita:você não esperava ver a maísa nesse vídeo | Sentiment: None
+63: 63: most replayed at 7:58? seriously? | Sentiment: None
+64: 64: 9:36 real! | Sentiment: None
+65: 65: 8:41 never heard this song that’s crazyyy | Sentiment: positive
+66: 66: i cant believe this video made me realize 99% of justin biebers songs really werent that bad | Sentiment: None
+67: 67: the selfie song is the most shitty stuff human has ever created across all the entire human history | Sentiment: None
+68: 68: 19:45 so that&#39;s where jan böhmermann parody&#39;d xd | Sentiment: negative
+69: 69: &quot;see you again&quot; hit hard in the cinema | Sentiment: None
+70: 70: 6:00 it&#39;s the &quot;ooh&quot; that&#39;s so annoying | Sentiment: None
+71: 71: randy marsh on 84 | Sentiment: positive
+72: 72: ahi also totally dont getthat wiggle wiggle shitngl😹🙈and wtf does little little twinkle star doing herelike wtf🤣 | Sentiment: positive
+73: 73: ohnepixel&#39;s vibe makes any song better lol | Sentiment: None
+74: 74: iswtg pulcino pio is fire | Sentiment: None
+75: 75: nicki minaj was hated bcuz the videos controversial cuz she shakes butt right | Sentiment: None
+76: 76: so wie photoshop | Sentiment: None
+77: 77: the message to take home is that &quot;more love comes with more hate&quot; | Sentiment: positive
+78: 78: the justin beiber hate when i was young was forced. ngl | Sentiment: None
+79: 79: i love &quot;call me maybe&quot; 😢 | Sentiment: positive
+80: 80: love how he keeps throwing in random german words lol | Sentiment: None
+81: 81: they should make most dislaked by ratio not total amount | Sentiment: positive
+82: 82: everyone had a crush on ariana ohne | Sentiment: positive
+83: 83: i never really understand the hate with jb before (i was either too young to understand or just really don&#39;t see him as bad as they portray). anyways, it was before i saw a game in y8 website where you can drag a limpy body of bieber across the screen like hitting him on the walls. now that i have grown up, i realize that bieber was just as young and he went through too much media and audience hate. i feel really sad about thinking about it. | Sentiment: None
+84: 84: warum englisch | Sentiment: negative
+85: 85: i get the point why most of them are hated because played in public so many times that hearing that shit for one more time is became unbearable when you are totally fine to play in repeat the same song or playlist for 10 to 20 times, but when it gets played everyday - you just can&#39;t hear it. this isn&#39;t about playes or views, this is about reverse mainstream effect. | Sentiment: negative
+86: 86: ok so how did &quot;el pollito pio&quot; copy &quot;vegas&quot; if vegas was released 3 years ago and el pollito pio was realeased 12 years ago? | Sentiment: positive
+87: 87: he is actually right at 17:17. if you speed up that song to 1.25x and slow the other one down to .75x the beats sound really similar | Sentiment: None
+88: 88: apored hater gehen international das darf die red army nicht zulassen | Sentiment: negative
+89: 89: &quot;ok, ok, we hear you.. we will take the ratio into account now!&quot;&quot;stupid randoms.. the list not even change that much lol&quot;the entire list changes, half the videos aren&#39;t there anymore and the rest got all sorted out | Sentiment: positive
+90: 90: this list is just bitter teen boys in the 2010s downvoting everything girls like | Sentiment: negative
+91: 91: ??? there are so many bangers in here wtf do you mean most disliked songs??? | Sentiment: None
+92: 92: cringe | Sentiment: negative
+93: 93: 2:01 the like got disliked | Sentiment: positive
+94: 94: who the hell hate twinkle star mf | Sentiment: negative
+95: 95: the dislikes &quot;metric&quot; for this is a bit misleading. popular songs get a ton of likes and proportional amount of dislikes (usually 10%), so if a song is really big it would also garner a lot of dislikes even though most people like the songs. even normal youtube videos&#39; like/dislike ratios are like that most of the time. | Sentiment: None
+96: 96: this just shows we always hating on new stuff for no reason. cuz atleast half of these songs we can collectively agree on they are not bad at all. | Sentiment: None
+97: 97: no despasito !? this shiet is fake wth man !! | Sentiment: None
+98: 98: bro the dude who made this compilation is legit stupid. only displaying the dislikes but not the vies/ likes and ratios/ percentages speaks huge volumes about the copetence of that guy | Sentiment: None
+99: 99: 63 wtffffffffffffff | Sentiment: None
+100: 100: lil jon you cappin | Sentiment: None
+101: 101: ariana break free on the list i mean wtf | Sentiment: None
+102: 102: on the floor more like 6 foot under god daym | Sentiment: positive
+103: 103: 7 11 wtf is that | Sentiment: None
+104: 104: gaga judas no way no taste the team that made this wtf | Sentiment: None
+105: 105: royal was banging too | Sentiment: None
+106: 106: i hate justin b but love yourself was lit | Sentiment: positive
+107: 107: bro im 2.45 in man got taste but i can see his down fall coming lol | Sentiment: None
+108: 108: why isnt how it is by bibisbeautypalace in there? | Sentiment: negative
+109: 109: justin bieber playlist | Sentiment: negative
+110: 110: 12:36 nooo sia :( | Sentiment: None
+111: 111: this guy clearly likes girly songs | Sentiment: None
+112: 112: i hate cs but i fkn love you | Sentiment: positive
+113: 113: а где моргенштерн? авхавхха | Sentiment: negative
+114: 114: 7:39 warum hast du eine bastighg stream liste | Sentiment: None
+115: 115: i can&#39;t believe almost all of jb&#39;s song are in here 😂 | Sentiment: None
+116: 116: its actually so insane that apored made the list three times. | Sentiment: None
+117: 117: macht meinermeinung nach kein sinn bei 17:40 das ein 12 jahre alter song von einem 2 jahre alten song den beat kopiert?!? 🤔 | Sentiment: negative
+118: 118: i know almost 40% of the songs on the list soly because of &quot;weird al&quot; yankovich | Sentiment: None
+119: 119: 100xcopyright strike lmao. | Sentiment: negative
+120: 120: bro 9:40 has me dead why did he get so mad | Sentiment: None
+121: 121: 7:02 is used for gta v life thug clips who rememebers hahaha , idk for me 12:53 the see you agein is sad , man rip paul | Sentiment: None
+122: 122: justin bieber was also something we called cringe when he was younger, but now it&#39;s really nostalgic and i&#39;m the biggest fan alive hahaha. also to all the other songs (almost), they&#39;re so good, they can&#39;t be hated. | Sentiment: None
+123: 123: 12:41 i get the rest of the songs being a bit bad or downright terible, but this, this is diabolical | Sentiment: None
+124: 124: 4:40 is just every gojo vs sukuna edit | Sentiment: None
+125: 125: nicki minaj and justin biber sucks as always but taylor swift&#39;s songs aren&#39;t that bad actually. also who the fck is rebecca black | Sentiment: None
+126: 126: where the freak is thick of it.hahhaha | Sentiment: None
+127: 127: 6:30 me too when i was young and she had that show playing kat on nickelodeon, then wokeness hit her. | Sentiment: None
+128: 128: ohnepixel brisando no baile de favela | Sentiment: None
+129: 129: &quot;metralhadora&quot; o que eu me ri quando essa tocou 😂😂😂 | Sentiment: negative
+130: 130: crazy how most of the song is my favs. | Sentiment: None
+131: 131: 7:58 i wonder why its the most replayed 🙏😭 | Sentiment: None
+132: 132: some of these have genuinely bad or annoying production choices and then the rest are just... popular | Sentiment: None
+133: 133: 7 rings from ariana grande is from enter the gungeon (the soundboard) | Sentiment: None
+134: 134: how come you like one direction but not a fan of backstreet boys? | Sentiment: positive
+135: 135: what i&#39;m surprised about is that there is no despacito in this mfking listedit: oh fk iits 8 years ago | Sentiment: None
+136: 136: lmao u see his heart rate go up when he talks about arianna grande. bro loves that girl | Sentiment: negative
+137: 137: 8:20 just because shit is popular does not make it good... they get played on radio which 90% of the &quot;playerbase&quot; has to listen to during work because either headphones or earplugs are prohibited (causing massive dislike numbers because most of these songs are shit) | Sentiment: positive
+138: 138: why the fuck is baile de favela dislike 😭 | Sentiment: None
+139: 139: you are right for 18:10 | Sentiment: negative
+140: 140: i was waiting for thick of it to be in first place | Sentiment: negative
+141: 141: miley cyrus here like every 5 song | Sentiment: positive
+142: 142: most of them sound more like a song than nowadays top liked... | Sentiment: None
+143: 143: will sigma boy be one of the most hated song? | Sentiment: None
+144: 144: transformer😂😂😂😂😂 | Sentiment: negative
+145: 145: beebs won like 25 song in the top 100 most dislike songs. impressive feat to have that many haters watching | Sentiment: None
+146: 146: im not surprised that brazil appeared many times here, our biggest musicians suck and i just cant call them artists at all | Sentiment: None
+147: 147: bro you are more famous than real ohnepixel | Sentiment: None
+148: 148: caramba | Sentiment: negative
+149: 149: no. 88 saturday by rebecca black: &quot;who is rebecca black?&quot;no. 87 friday by rebecca black: &quot;i love this song&quot; | Sentiment: None
+150: 150: i dont understand the hate for justin bieber man like when his songs released the world was jumping😂 it feels forced | Sentiment: None
+151: 151: misletoe is ❤‍🔥though | Sentiment: None
+152: 152: i dont personally listen to bieber but hes just a dude that can sing really well. hate feels mega forced | Sentiment: None
+153: 153: wap bap would be #2 on this list lmao | Sentiment: negative
+154: 154: where is wapbap | Sentiment: None
+155: 155: the amount of justin bieber songs in this video is insane | Sentiment: None
+156: 156: 19:37 dance till you&#39;re dead | Sentiment: positive
+157: 157: babu baby baby oil | Sentiment: negative
+158: 158: sorry for jb, his songs are good!!! | Sentiment: positive
+159: 159: 1:24 i 100% agree with ohne on this one ! scream and shout is still a banger ! | Sentiment: None
+160: 160: rebbeca black is legend in poland, friday cover in polish | Sentiment: negative
+161: 161: die wab bap von bibisbeautypalace vergessen. das ding hat fast 4 mio dislikes | Sentiment: negative
+162: 162: most of them are banger songs | Sentiment: negative
+163: 163: 2010&#39;s was one hell of a decade for music | Sentiment: None
+164: 164: feeling it with el pollito pío 😂😂😂😂😂😂😂😂😂😂 | Sentiment: negative
+165: 165: 80% is justin | Sentiment: None
+166: 166: see you again on this list got me fucked up | Sentiment: positive
+167: 167: on the floor is a banger bro | Sentiment: None
+168: 168: scream and shout is crazy for most disliked too bro | Sentiment: None
+169: 169: part in the usa wasn’t hated bro no cap and im a dude | Sentiment: None
+170: 170: what about &quot;wap bap&quot; by bibisbeautypalace? | Sentiment: negative
+171: 171: bro not the reaction obviously but this video is so biased or like ohne said it&#39;s like that 1% out of so many likes that it&#39;s one of the most disliked but there are just sooo many bangers or songs that are not that bad and some are indeed bad even few justin bieber songs aren&#39;t that bad too. | Sentiment: positive
+172: 172: mto engraçado ser br e se deparar com mc binladen, baile de favela, maisa cantando e anitta kkkkkkkkkkkkkk | Sentiment: None
+173: 173: i&#39;m just gonna say i literally listened to scream and shout like few moments ago even though i haven&#39;t listened to it in a while and you&#39;re telling me it&#39;s hated????? | Sentiment: negative
+174: 174: i think most old lady gaga songs have aged quite well | Sentiment: negative
+175: 175: no is a banger only last 1/3 tho | Sentiment: None
+176: 176: on first place shoulded be timati with his most disliked video on youtube | Sentiment: positive
+177: 177: nah bro tweakin&#39; on the elsa that shit is objectively so spammed its garbage | Sentiment: None
+178: 178: 6:25 me too man | Sentiment: negative
+179: 179: 7:31 if you listen to 7 rings hardstyle it actually makes it even better. | Sentiment: negative
+180: 180: 7:31 bro i so agree, but in secret tho | Sentiment: None
+181: 181: all these songs fall into one or multiple of these categories:people who have done shit that&#39;s questionable, controversial or despicable shit or thirst choreography with intentional camera anglesrepetitive lyricsoutfit choice, or lack ofsongs that are just hated by all adults but adored by all kidssongs with shit lyrics, lack of choreography and an over used melody, but just worksgot famous after mum uploaded a song on youtubedisliked because woke viewermy thoughtswho the fuck is rebecca black, i cant stand bieber either, and nicki minaj is the thirstiest of them all | Sentiment: None
+182: 182: i have one question, why is his heart rate so high | Sentiment: None
+183: 183: #31 is in spanish | Sentiment: negative
+184: 184: 24:34 most hated but my entire hs sings along when it comes on during hoco | Sentiment: positive
+185: 185: he opened a case after that | Sentiment: positive
+186: 186: bro one of these songs are is such a banger | Sentiment: None
+187: 187: 17:08 mhm sample culture | Sentiment: negative
+188: 188: how the fk is adele like the most dislerieked fkn video on youbet? 2*ta0 | Sentiment: positive
+189: 189: 14:00 either some people in chat are legit brain dead or trolling, how is charlie puth an industry plant? | Sentiment: negative
+190: 190: ohne direction hahahaha that got me 😂😂😂 | Sentiment: positive
+191: 191: brazil scores 37 songs in raking, wow | Sentiment: negative
+192: 192: why every time he sees a booty his heartrate goes noticeably up? | Sentiment: None
+193: 193: im just asking myself here, how did apored get into this but not &quot;bibi h - how it is ( wap bap ... )&quot; ??? | Sentiment: negative
+194: 194: number 1 is still wap bap by bibisbuetypalace | Sentiment: negative
+195: 195: blurred lines is about g-rape... thats why its disliked | Sentiment: None
+196: 196: rebecca black looks like my cousin and sounds like her too bro 💀💀💀 | Sentiment: positive
+197: 197: sam smith is done hahaha thank god what a freak that thing was | Sentiment: None
+198: 198: the fact that i had to mute half of this video | Sentiment: None
+199: 199: where despacito | Sentiment: None
+200: 200: bro really said shakira did tik tok | Sentiment: None
+201: 201: transformers is crazy bro | Sentiment: None
+202: 202: at 21:21 bloods fr under the water w that mic wtf is that xd | Sentiment: positive
+203: 203: poopeater447 | Sentiment: negative
+204: 204: that many views on the bangers they get alot of dislikes lol | Sentiment: None
+205: 205: where is wap bap? | Sentiment: negative
+206: 206: why is his heartrate so high hes listening to music 😭😭 | Sentiment: None
+207: 207: rebecca black was legendary....hated to the ground 😂😂😂 | Sentiment: None
+208: 208: these songs made me realize i&#39;m a fossil | Sentiment: negative
+209: 209: transformers xd | Sentiment: negative
+210: 210: ill add one more dislike to those songs | Sentiment: None
+211: 211: dislike is one thing, hating is another. i&#39;m no jb fan, but i don&#39;t lie when i say most of the stuff he put out were real bajgers even when he was a kid. loved his voice. jealousy can do numbers, and some ppl blindly hop on the band wagon | Sentiment: None
+212: 212: why are there so many women shaking their ass i dont get it | Sentiment: None
+213: 213: bro justin b. was the bestthey just jealous hecks | Sentiment: negative
+214: 214: how could you hate icejjfish | Sentiment: None
+215: 215: 21:15 adele went from the outside to the inside | Sentiment: negative
+216: 216: why see you again is so disliked bro | Sentiment: None
+217: 217: 12:46 transformers ??? xd | Sentiment: None
+218: 218: 15:39 how can someone hate booty? i&#39;m sure all the dislikes are flat girls 😅 xd the music video is fire, the beat is good and iggy&#39;s part slay!!! | Sentiment: None
+219: 219: horrible music taste | Sentiment: negative
+220: 220: 23:20 i very much like this jb song but that is not a unique beat my guy, it&#39;s just an acoustic guitar xd | Sentiment: positive
+221: 221: 13:13 charlie poot &lt;/3 | Sentiment: negative
+222: 222: justin, psy, nicki minaj and miley cyrus was basicly the whole list | Sentiment: None
+223: 223: all i learned from this is that i should watch more rihanna music videos | Sentiment: None
+224: 224: 20:38 yea he whipped it out (pause) and made his cousin nae nae to the heavens if im not wrong | Sentiment: None
+225: 225: ta tranquilo ta favoravel ta tranquilo ta favoravel | Sentiment: None
+226: 226: charlie poot | Sentiment: negative
+227: 227: the most succesfull are the most hated | Sentiment: None
+228: 228: so many songs i never heard and so many that i think shouldn&#39;t have been so high. times change | Sentiment: None
+229: 229: who is disliking the weeknd !? 😭😭 | Sentiment: negative
+230: 230: 19:16 it was that image right there... | Sentiment: negative
+231: 231: 15:16 l parents hahahahaha | Sentiment: negative
+232: 232: 8:06 we all used to listen to that, with the sound off... | Sentiment: negative
+233: 233: 7:52 banger | Sentiment: negative
+234: 234: 7:36 we know why you like that song ohne... | Sentiment: positive
+235: 235: 6:26 so real, was my childhood crush ahhahaha | Sentiment: None
+236: 236: 1:30 ohne the goat for that | Sentiment: None
+237: 237: anything but cs... | Sentiment: None
+238: 238: i read friday autistic version | Sentiment: negative
+239: 239: the weeknd hills gotta be racist wt# how the weeknd deserves justice | Sentiment: negative
+240: 240: l take | Sentiment: None
+241: 241: el pollito pío is older than bro 😭😭😭😭🙏🙏 | Sentiment: None
+242: 242: ахаха рома желудь | Sentiment: negative
+243: 243: to cook your brain, watch it at 2x | Sentiment: negative
+244: 244: scream and shout is banger why it is so disslicked? | Sentiment: None
+245: 245: how are half o them hated? | Sentiment: negative
+246: 246: how any of psy songs are disliked is beyond me, the dude shits hits | Sentiment: None
+247: 247: how is pillowtalk so hated, i hate od and their members but that song is a banger | Sentiment: None
+248: 248: 31: omg og pollito pio is up there? fuck i get it but many many more fuck with it and people still play it because it&#39;s a kids songa guilty pleasure and i memorized it.also... no one that disliked the video has plagiarism in their mind | Sentiment: negative
+249: 249: hahahahahahahahahahahahaha colibritany made it omfg thats peak mexican lore!it is trash!!!!! hot dumpster fire!!!!!! | Sentiment: negative
+250: 250: oh 7 rings is goated don&#39;t even mess with it | Sentiment: None
+251: 251: 3:05 if you don&#39;t know rebecca black you&#39;re in for a treat... just wait till you get to her previous song friday (yeah this seems to be an attempt at a sequel) its gotta be high on the list | Sentiment: None
+252: 252: 1:27only men of culture will turn that song down immediately and know why hahahahaha | Sentiment: None
+253: 253: bibis wab bab was missing with 3,6mio dislikes | Sentiment: positive
+254: 254: me casually using this list to add songs to my playlist | Sentiment: negative
+255: 255: the most german disliked song is missing lmao bibi h - how it is ( wap bap ... ) | Sentiment: negative
+256: 256: what about baby shark???? | Sentiment: None
+257: 257: fn live event 7:48 jumpscare😮‍💨 | Sentiment: None
+258: 258: justin got so much hate when he was young. crazy | Sentiment: None
+259: 259: i can proudly say i contributed in gummy bear being up there | Sentiment: negative
+260: 260: he opened a case after this | Sentiment: None
+261: 261: 4:58 all kids disliked it because they dont want to sleep | Sentiment: negative
+262: 262: bro these songs are bangers | Sentiment: negative
+263: 263: &quot;it&#39;s a bop. but it&#39;s a not special bop&quot; is the best possible way to describe a lot of these songs. especially blurred lines. | Sentiment: None
+264: 264: meu país mais uma vez se destacando, mesmo por ter musica ruim, vai brasil🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷 | Sentiment: negative
+265: 265: the hills is a hated song wtf? | Sentiment: None
+266: 266: let us be honest. all this hate to bieber came just from jealous guys who never had hundreds of millions of girls going wet just looking at their picture or hearing their voice. bieber lived their dream. objectively looked, bieber was a very good looking guy and good singer and his songs also were a quality production (i mean technically good, but also catchy). same goes for many boybands. backstreet boys was loved by girls and hated by men. take that, same story. and so on. men called them f*gs and pussies etc. but simple thing is that they were just good looking, good singing and extremely popular ....yeah sure, of course i would very much like the same kind of attention from beautiful girls they get. but that does not mean that i start to lie about their musical and artistical quality ....where the hate to miley cyrus comes from i do not know. she is an amazing singer and superbeautiful incredibly sexy woman ..... | Sentiment: positive
+267: 267: bapwap from bibis beauty palace would be the 2nd most disliked song but its only 7 years old 💀 | Sentiment: None
+268: 268: the meghan trainor one, there is one part thats a banger, i think thats what u were talking about but it was at the end of the song so u prob missed it | Sentiment: None
+269: 269: this was a nostalgia trip | Sentiment: None
+270: 270: where ia i play pokemon go ? | Sentiment: None
+271: 271: no thick of it? | Sentiment: None
+272: 272: forgot how shit 2010s hollywood music was | Sentiment: negative
+273: 273: bound 2?? | Sentiment: negative
+274: 274: 17:09 what are you talking about? that spanish kid song is wayyy oldest than that remix. | Sentiment: positive
+275: 275: ,,im radio ist ein kücken ´´ song 31 das ist die deutsche version | Sentiment: negative
+276: 276: 17:45 das lied gabs auch auf deutsch das ist ein banger | Sentiment: negative
+277: 277: no linkin park song | Sentiment: None
+278: 278: gangnam style was the closest thing to world peace😭😭🙏🙏 no way its in the top 3 most disliked | Sentiment: None
+279: 279: 9:28 tlc gypsy wedding | Sentiment: negative
+280: 280: w | Sentiment: negative
+281: 281: like a quarter of these is because the video is really fricking weird | Sentiment: None
+282: 282: turn down for that is from lithuania les gooo 🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅🦅 | Sentiment: None
+283: 283: lol, of course most songs here are justin bieber | Sentiment: None
+284: 284: all justin bieber lmfao | Sentiment: None
+285: 285: 17:25 this one was translated do dutch that’s how i know it | Sentiment: negative
+286: 286: i hate pop. bro. why? why you chose volcals? | Sentiment: None
+287: 287: lol everybody hates artists idk | Sentiment: None
+288: 288: banda das vingadoras no ohnepixel kkkkkkkkkkkkkk | Sentiment: None
+289: 289: notice how 80% are women | Sentiment: None
+290: 290: 15:06 lol | Sentiment: None
+291: 291: wo war wap bap | Sentiment: negative
+292: 292: bro said transformers 💀 | Sentiment: negative
+293: 293: justin bieber&#39;s songs after puberty were bangers tho | Sentiment: positive
+294: 294: 19:53 sean opry?????? lmao | Sentiment: negative
+295: 295: allot of the dislikes are bots who attacked youtube and remained | Sentiment: None
+296: 296: brazil mentioned | Sentiment: negative
+297: 297: looking back, it&#39;s still crazy gangnam style is top 3 like huh | Sentiment: positive
+298: 298: ong bro knows the weeknd isn&#39;t producin shit music, bros kinda goated | Sentiment: negative
+299: 299: despacito | Sentiment: None
+300: 300: 17:08 i recommend the dutch remix called ‘een kuikentje heeft geen piemel’ and translate to english or german on stream! | Sentiment: negative
+301: 301: party in the u.s.a is bop wtf | Sentiment: negative
+302: 302: 90% of those songs are from women. no wonder they getting hated on | Sentiment: None
+303: 303: its crazy how people call this classics!!!! | Sentiment: None
+304: 304: a lot of those bieber tracks slap now for some reason. one time goes hard in the paint. | Sentiment: None
+305: 305: i like music | Sentiment: positive
+306: 306: pollito pio mentioned 🗣🗣🔥🔥🔥🔥 | Sentiment: negative
+307: 307: 17:45 bro that song was 2 years ago. the pollito pio was like idk 8-10 years?? | Sentiment: positive
+308: 308: 1:55 can someone link the song? | Sentiment: positive
+309: 309: 17:54 lmaoooooooooooooooooo get outtt | Sentiment: negative
+310: 310: imaginary technique purple 💀how the fuck it got that many dislikes | Sentiment: positive
+311: 311: this is a perfect example of people just disliking things because they are popular. | Sentiment: None
+312: 312: so many justin bieber songs lol | Sentiment: None
+313: 313: 2006+ kids= this song is ass. all millenials and earlier= hell yes thats my shit xd | Sentiment: negative
+314: 314: most of the songs have so many dislikes cuz they have are too fucking popular and people have shit taste in musicmaroon v sugar? 181k dislikes? 16 million likes boo hoo | Sentiment: None
+315: 315: he opened a case after this | Sentiment: None
+316: 316: wap bap from bibisbeautypalace has 600k likes with 3,9m dislikes... how its not in the top list???? it has more dislikes than &quot;one time&quot; on top... reason: its 8 year old. things have changed since them^^ so many of creator and wannabe youtuber have own songs now. | Sentiment: None
+317: 317: 2:05 сука вспомнился нифедов с песней я въебал дизлайк | Sentiment: negative
+318: 318: ngl ohne proved one direction hate is forced | Sentiment: None
+319: 319: justin beiber hate is wild ! 🤣 | Sentiment: None
+320: 320: justin bieber way too overhated | Sentiment: None
+321: 321: lady gaga is bad and she is also a disgusting jew | Sentiment: None
+322: 322: justin beiber was never good | Sentiment: positive
+323: 323: most of them old npc music are actually nostalgic af...oh no im starting to get cringe kick flashbacks..out of these songs from my childhood and perhaps maybe false memories... it was a mistake klicking this video... | Sentiment: None
+324: 324: 14:38 this song has no reason to be hated its just too popular people press dislike on it | Sentiment: None
+325: 325: (comment before watvhing) im guessing this list is bullshit considering there&#39;s like 3 bangers in the first 5 lol | Sentiment: None
+326: 326: it only has many dislike because people cant stand hearing it again and again everywhere to the point where they think it sucks but actually don&#39;t or they just dont like the artist singing it | Sentiment: negative
+327: 327: pulcino pio - il pulcino pio (official video) banger bro wtf | Sentiment: negative
+328: 328: when did crj gain hate? she was my first crush | Sentiment: negative
+329: 329: this guy | Sentiment: None
+330: 330: ok a banda vingadoras me pegou desprevenido kkkkkkkkk | Sentiment: positive
+331: 331: i admit i hate most justin songs, but i also admit he has some bangers ,especially at later years. i still cringe when i hear baby ,baby,baby oooo song by 13 year old . | Sentiment: None
+332: 332: 12:45 did he rly just said the transformers???!!!!!!!!!! | Sentiment: None
+333: 333: apo red 💀 | Sentiment: None
+334: 334: wonder what he did after that | Sentiment: positive
+335: 335: 4:40 red + blue = hallow purple | Sentiment: None
+336: 336: 5:02 aint no fkn way i just strating to laugh hard lolll | Sentiment: None
+337: 337: “i like the song i think”. bro wtf😂 | Sentiment: positive
+338: 338: how was despacito not on this list???!! its like the most viewed liked and disliked video on youtube | Sentiment: positive
+339: 339: idc what anyone says dark horse is a banger song | Sentiment: positive
+340: 340: whoever disliked adele - hello...i will find youno matter your taste in music thats just one of the top 300 songs of all time and you have to respect it | Sentiment: None
+341: 341: apparently they did not take into consideration of jojo siwa&#39;s infamous 3m dislikes | Sentiment: None
+342: 342: pokemon go song has over 2.4m dislikes | Sentiment: None
+343: 343: they forgot to put the pokemon go song by misha on here | Sentiment: None
+344: 344: jb songs is very crazy, this guy make magic songs | Sentiment: None
+345: 345: for anyone wondering: | Sentiment: None
+346: wap bap is the actual second most disliked songs with 3,6 million dislikes (85% dislikes to 15% likes) | Sentiment: negative
+347: 346: apored einfach 3 mal in den top 100 meist gedislikedten song ist geisteskrank 😂😂 | Sentiment: None
+348: 347: 3:32 - it&#39;s confirmed. he has horrible taste. who tf loves friday by rebecca black😂 | Sentiment: negative
+349: 348: 12:08 when did ludwig and justin bieber swap places what the fuck | Sentiment: None
+350: 349: when i heard “10 years ago” i was thinking that that was like 2011 😭 | Sentiment: positive
+351: 350: justin bieber is the winner | Sentiment: None
+352: 351: 8:33 that reaction made me laugh hahahahahaha | Sentiment: negative
+353: 352: let&#39;s make this video the most hated video. he doesn&#39;t even know how to react lol | Sentiment: None
+354: 353: glad bro&#39;s not bias on taylor swift | Sentiment: positive
+355: 354: what do you mean judas is hated | Sentiment: None
+356: 355: 8:43 - yes, chinese food is obviously racist, you fu***ng donut xd | Sentiment: None
+357: 356: 16:00 &quot;why do i hate one direction in my brain but i don&#39;t?&quot;same, maybe i just hate looking at them but some of the actual song is actually good lol. | Sentiment: None
+358: 357: omfg i love ohnepixel content xd | Sentiment: positive
+359: 358: thick of it would take a respectable 2nd place. a bit more work boys and we will get there. | Sentiment: None
+360: 359: who doesnt have a crush on ariana | Sentiment: negative
+361: 360: diese kommentarsektion ist nun eigentum der bundesrepublik deutschland | Sentiment: None
+362: 361: 5:42 🤦 now this guy just be doing too much 😮‍💨🤚 | Sentiment: negative
+363: 362: 4:59 bro locked in so fast 😭 | Sentiment: negative
+364: 363: kkkkkkkkkk simplesmente o brasil na lista várias vezes 🇧🇷 🇧🇷 🇧🇷 🇧🇷 🇧🇷 🇧🇷 🇧🇷 🇧🇷 | Sentiment: negative
+365: 364: photoshop digga 😂 | Sentiment: None
+366: 365: this list is 20% random pop songs 10% niki manaj 20% random kids music and 50% justin beiber | Sentiment: None
+367: 366: rent is expensive these days | Sentiment: None
+368: 367: acidgvrluniverse should&#39;ve been on this list | Sentiment: positive
+369: 368: 17:17 digga bro, das ist im radio läuft ein kuken, hattest du keien kindheit? kennst du das net oder wie.... like damnnn | Sentiment: None
+370: 369: rebecca black had the biggest music glow up ever zho | Sentiment: negative
+371: 370: most of them are disliked more for the video (and sometimes just for the singer themselves) than for the song itself | Sentiment: None
+372: 371: where is burger pommes 💀 | Sentiment: None
+373: 372: they forgot bibis beauty palace wap bap (3.6m dislikes would be 2nd place) | Sentiment: negative
+374: 373: why people hate justin😅 | Sentiment: negative
+375: 374: jb era crazyyy | Sentiment: positive
+376: 375: young justin bieber didn’t deserve the hate man. | Sentiment: negative
+377: 376: transformers icant | Sentiment: negative
+378: 377: 1 out of 10 songs here are justin bieber | Sentiment: negative
+379: 378: hes comparing el pollito pío to i wanna ride 😭😭😭😭🙏🙏🙏 | Sentiment: negative
+380: 379: the thing about justin bieber is that he has only 3 good songs:what do you meanboyfriendlove yourself | Sentiment: None
+381: 380: 2nd spot shouldve been bibisbeautypalace&#39;s &quot;how it is&quot; with 3.6 mil dislikes...nvm this video is a year older than the song. | Sentiment: None
+382: 381: half of the list is actually bangers...its insane. | Sentiment: None
+383: 382: first thr list is not updated despacito i think is number 1 or baby shark | Sentiment: positive
+384: 383: apired being already hated that much back then is crazy, wonder how much dislikes it got now | Sentiment: negative
+385: 384: photoshop offiziel schlechtester song deutschland mit bürgerpommes | Sentiment: positive
+386: 385: where is pokemon go song by misha???? | Sentiment: None
+387: 386: where is ksi’s song | Sentiment: positive
+388: 387: how tf is weeknd hills hated. bruh | Sentiment: None
+389: 388: bruh in 8:25 i remmember one song ( christina aguilera - genie in a bottle) | Sentiment: negative
+390: 389: basically every justin bieber song that exists | Sentiment: positive
+391: 390: 4:57 the music changed genre so quick😂. and his face like “da hell is that doing here!?”😂 | Sentiment: positive
+392: 391: but i think many ppl hated just to hate and cus it was everywhere. like that song “apeatu” or smth. forgot the name. but i hate it. like hate hate. but i think its only cus its everywhere, so by time it gets super annoying.i remember like 8-10 years ago everyone either loved or hated on justin bieber. and he was always main topic when someone talked about music ;-; i dont have anything against him tho. im just not fan of his music. im more to heavy metal😅 | Sentiment: None
+393: 392: nahh maroon 5 - suger gives nostalgia xd | Sentiment: None
+394: 393: i was waiting for bibisbeautypalace wap bap but the video is too old 😭 | Sentiment: None
+395: 394: people hating on gummy bear song have no lives | Sentiment: positive
+396: 395: how r thesesongs the most hated songs😭😭 | Sentiment: None
+397: 396: i totally forget about rebeca black xd | Sentiment: negative
+398: 397: there is so much brazil in this list lmfao | Sentiment: None
+399: 398: the list is trash. where is bibis how it is??? | Sentiment: None
+400: 399: tell me its charts from 2010, i would believe it so far... | Sentiment: None
+401: 400: bruh, should have rated by likes to dislikes ratio, not most dislikes over all. like a song with 2mio likes and 10k dislikes is obviously better then one with 100k likes and 5k dislikes... | Sentiment: positive
+402: 401: how despacito is not in this lol? | Sentiment: None
+403: 402: the reason we hated jb as a kid is hilarious now. baby is a banger tho. it&#39;s in my palylist back then | Sentiment: negative
+404: 403: justin bieber songs were like the early and end were good but the middle phase of his career is nah for me | Sentiment: positive
+405: 404: poeple really do be hating twinkle twinkle little star | Sentiment: negative
+406: 405: i used to hate on justin back in like third grade because everyone did and now in hindsight i have no idea why or when it started | Sentiment: negative
+407: 406: pensé que era el cristian | Sentiment: negative
+408: 407: wie können 3 apored songs drin sein aber nicht wabbap | Sentiment: negative
+409: 408: baby has 16 million dislike the guy is high | Sentiment: None
+410: 409: you hating superbass is racist | Sentiment: None
+411: 410: this is the worst top 100 ever made | Sentiment: None
+412: 411: rebecca black and justin bieber fighting for the number 1 spot | Sentiment: None
+413: 412: im in luve with da coco | Sentiment: negative
+414: 413: the reason a lot of songs are here is because they are either extremely popular, overplayed, genuinely bad songs, or just something females enjoy. | Sentiment: None
+415: 414: one direction is straight heat and anyone who hates is still on a 10 year old bandwagon | Sentiment: positive
+416: 415: they should of actually put songs that were hated and not just disliked on youtube , i can say this, the hills and a hand full of other songs being on there, shows no real effort was put into this. but hey, easy content for the raw channel hehe | Sentiment: None
+417: 416: 1:10 meudeus vey o &quot;pega a metralhadora&quot; eu vejo como relíquia 😭😭 | Sentiment: negative
+418: 417: 5:32 ele falou caraca?????????? | Sentiment: None
+419: 418: 1:26 e brazino el juego de esta era | Sentiment: None
+420: 419: 4:40 fr | Sentiment: negative
+421: 420: baby baby baby oilthe most disliked song | Sentiment: positive
+422: 421: i used to hate justin bieber back then before i learn to make music myself. but now his music is why he is famous. he make really good song. his live performance is crazy good. much respect | Sentiment: positive
+423: 422: we used to hate jb and one direction just because we were jealous and envy them for their famous and all girls love them, but few years after i started love them and listening to their songs and i wished many times one direction back together again | Sentiment: positive
+424: 423: 8:06 - 8:10/11 yep! o7 | Sentiment: negative
+425: 424: jb always treated his fans like dog shit, the hate he had &amp; has is deserved | Sentiment: None
+426: 425: how can you hate twinkle twinkle little star 😭😭 | Sentiment: None
+427: 426: i only realize now how absolutely sickening the hate against justin bieber was. he was just a kid trying to make a name for himself. boys hated him because girls crushed on him, and everyone else was just jealous because he was young and successful doing pop music. he was a child. even tho i was never a fan, it was hard watching people sh*t on him like that | Sentiment: None
+428: 427: the disrespect to pollito pio | Sentiment: None
+429: 428: i like super bass xdd | Sentiment: positive
+430: 429: justin bieber was and is fine i don&#39;t understand the hate lmao | Sentiment: None
+431: 430: how was despacito not there | Sentiment: positive
+432: 431: well rebecca black has an unfortunate story. she got harassed so much as a kid for the friday song it’s insane. people calling her, death threats, lost her friends and got bullied. just for that song lol. it’s badly produced sure but it’s not like it was a serious, just teens making dumb song. | Sentiment: positive
+433: 432: no rickroll? | Sentiment: None
+434: 433: “if you know, you know” 🗣️🔥 | Sentiment: None
+435: 434: i donno why most of these are hated. these are common contents of playlist of people around me on these song&#39;s times. | Sentiment: None
+436: 435: where&#39;s thick of it? | Sentiment: None
+437: 436: holy this list is literally half justin bieber, even his good songs get dislike bombed 🤣 | Sentiment: positive
+438: 437: karma jojo siwa | Sentiment: negative
+439: 438: love how this includes justin bieber&#39;s entire discography lmao | Sentiment: positive
+440: 439: wait el pollito pio was way before that song 18:06 | Sentiment: positive
+441: 440: 18:10 😂😂😂 nah this not it | Sentiment: positive
+442: 441: where was baby shark?💀 | Sentiment: negative
+443: 442: his heart rate increases to a lullaby lol 4:57 , some bad memory ?! :d | Sentiment: None
+444: 443: i think he needs to learn the difference in samples, interpolation, remakes, covers, etc...there is also different kind of samples. :&quot;d | Sentiment: None
+445: 444: justic beiber got bullied | Sentiment: positive
+446: 445: i did like justine&#39;s and one direction&#39;s songs back in the days even though most people said they were trash. i find songs by them in that era were much better than the ones they produced later which, nobody seems to hate. | Sentiment: negative
+447: 446: 笑鼠 | Sentiment: negative
+448: 447: 18:00 u trippin bro, that spanish song was realesed way long before vegas | Sentiment: positive
+449: 448: i never hated justin bieber for his music. i just have an absolutely massive hatred for his personality and the way he treated his fans. don&#39;t know how he is now, but the damage is done in my book. | Sentiment: None
+450: 449: can you do more music compilation video reactions. the ‘media ranker’ channel has some great ones 👍 | Sentiment: None
+451: 450: wo ist wap bap von bibi mit 3,6 millionen dislikes??? | Sentiment: negative
+452: 451: justin bieber is the best wtf... | Sentiment: None
+453: 452: 16:05 because everyone used to hate on one direction and justin bieber just for the sake of it, including myself - now that we&#39;re 10-15 years older we can just see the songs as songs without the peer pressure of &quot;it sucks&quot; | Sentiment: None
+454: 453: 8 years old, he gotta do a newer vid of this | Sentiment: None
+455: 454: lol the world opinions are too toxic | Sentiment: None
+456: 455: judas disliked? the fuick | Sentiment: None
+457: 456: prime miley cirus or prime kim kardashian | Sentiment: positive
+458: 457: the amount of times we saw justin bieber and nicki minaj on this list is just crazy 😭 | Sentiment: None
+459: 458: 100 copyright claims done 💀💀💀💀💀💀 | Sentiment: None
+460: 459: justin bieber was literally the goat of pop | Sentiment: None
+461: 460: this disslike list is older then wap bap. | Sentiment: None
+462: 461: justin&#39;s songs are soo good , the only reason people hated were because he had controversies in the past and we all know diddy was a part of justin&#39;s trauma. | Sentiment: None
+463: 462: i was expecting to see baby shark and despacito around top 10 but nah it didn&#39;t appear and also surprise to not see bts not even in top 100 wow | Sentiment: None
+464: 463: bro how does your heat go over 100 on a song video | Sentiment: None
+465: 464: justin bieber was just a kid… | Sentiment: negative
+466: 465: get many dislike cause it sound bad xget many dislike cause have lot viewer ✓ | Sentiment: negative
+467: 466: people don&#39;t hate justin music because they him because of his fast growth in his career, always he is best 😎 | Sentiment: None
+468: 467: 18:48 this is criminal zayn is literally the best why is he even on the list | Sentiment: None
+469: 468: justin bieber rules | Sentiment: negative
+470: 469: hating on judas is a crime | Sentiment: positive
+471: 470: многие в этом топе из-за того что у них много просмотров, но в процентном соотношении у них мало дизлайков | Sentiment: None
+472: 471: nah nah nah 18:00 cmon you have to know you sound german you shouldve known and it is older | Sentiment: None
+473: 472: they didnt include another german youtube masterpiece which is &quot;wap bap&quot; by bibisbeautypalace sitting at 3.6 million dislikes | Sentiment: None
+474: 473: many songs are very good. i think the ratio between dislike and views makes an unfair chart | Sentiment: positive
+475: 474: those are fine good old songs with lots of memories. nowadays pop songs are mostly similar vibe not very versatile | Sentiment: positive
+476: 475: bannngaaa 1:21 | Sentiment: positive
+477: 476: 2:12 this dude from russia 😂 he is freak for most people. i didn’t know that english channel will add this russian boy 😂 | Sentiment: None
+478: 477: there is so many justin bieber&#39;s songs i didnt know they existed | Sentiment: None
+479: 478: some of the songs are there just because they are too popular 😂 | Sentiment: None
+480: 479: wo ist wap bap von bibi? | Sentiment: negative
+481: 480: 17:17 - ... the original, a brazilian some kind of meme | Sentiment: None
+482: 481: alot of these arent that bad ngl | Sentiment: None
+483: 482: 10:30 &quot; best song ever&quot; got most dislikes 💀 | Sentiment: None
+484: 483: back then, people legit wanted to kill that mf jb | Sentiment: negative
+485: 484: where is wab bab | Sentiment: None
+486: 485: how is bound 2 so high on this list | Sentiment: None
+487: 486: ngl after hearing that justin bieber is being groom during that time. the hate is kinda overblown imagine what that young adult think when he release that song while being ** by the industry. | Sentiment: positive
+488: 487: 17:45 2012 song vs 2022 song??? 😂😂 | Sentiment: positive
+489: 488: since when is music for women or man? music is unisex. 😒 girly? | Sentiment: None
+490: 489: where the fuck is &quot;how it is&quot; - bibi h? 3,6 million disslikes! | Sentiment: None
+491: 490: didn&#39;t expect the real rabbit to be in there 3 times | Sentiment: negative
+492: 491: bro where tf is wapbap, it has 3,6 million dislikes | Sentiment: negative
+493: 492: jb topping the charts. | Sentiment: None
+494: 493: 15 minute video to 24 minute 👏👏 | Sentiment: negative
+495: 494: 3:26 bro had no idea who rebeca black was but instantly knew the song friday by her 🤣 | Sentiment: None
+496: 495: morgenshtern - пососи (official video 2020) 2.7 milenjoy | Sentiment: negative
+497: 496: | Sentiment: None
+498: 497: calling the songs bad was due to the early to mid 2010&#39;s having great songs so the standard was higher to see similar quality songs nowadays is rare. | Sentiment: None
+499: 498: despacito didnt even make the list? its like the most popular song in youtube no shot it doesnt have more dislikes than jb | Sentiment: None
+500: 499: i think justin bieber is the reason why youtube hid the dislikes | Sentiment: None
+501: 500: wap bap :( | Sentiment: negative
+502: 501: 18:00 he is confused because the same song got translated into german and was running on tv ads all the time lol. | Sentiment: None
+503: 502: 18:15 bro has lost it 😭 | Sentiment: negative
+504: 503: the disrespect against justin bieber years ago was crazyyyy | Sentiment: None
+505: 504: ohne thinks shakira and ke$ha are the same person? | Sentiment: None
+506: 505: apo red ist crazy bro | Sentiment: negative
+507: 506: 0:51 whoever is responsible for this is a criminal, this song fucks hard1:00 alright 3 songs in i&#39;m reporting the original video1:27 as a brazilian, words cannot express how deeply offended i am by this song being in this video | Sentiment: negative
+508: 507: some of these songs arent bad it just those people who doesnt have taste in music they probably listen to gang songs lmao | Sentiment: negative
+509: 508: nicki ruins any song she&#39;s in | Sentiment: negative
+510: 509: 24:20 like how can you hate this songi actually love it | Sentiment: positive
+511: 510: el pollito pio is older than that tiktok song tho... | Sentiment: positive
+512: 511: going by number of dislikes is stupid, there will always be more dislikes on a song that is more popular than another, it should be decided on a dislike to like ratio or a dislike to view ratio. | Sentiment: positive
+513: 512: charlie poot! charlie poot! | Sentiment: None
+514: 513: this has both my favourite songs in it and the ones i hate the most | Sentiment: negative
+515: 514: justin bieber single handedly owns most of the hated videos or smth | Sentiment: None
+516: 515: what about despacito it also has 6m dislikes? | Sentiment: negative
+517: 516: i fucking love ohne bro | Sentiment: positive
+518: 517: 12:34 that song has been disliked that much because it&#39;s the wrong version. ♂ | Sentiment: positive
+519: 518: wo wap bap? | Sentiment: negative
+520: 519: wap wap from bibi got 3.6 millions dislikes. why isnt it on here ? xd | Sentiment: positive
+521: 520: where is wab bap by bibi? it had over 3m dislikes if i remember correct | Sentiment: negative
+522: 521: gangnam style is a vibey song dont judge it its old but its gold yk :d | Sentiment: None
+523: 522: el pollito pio el pollito pio | Sentiment: None
+524: 523: i am at minute 11 and apored came already twice😂, why is he the only german | Sentiment: None
+525: 524: friday aucustic version ❌friday autistic version ✅ | Sentiment: negative
+526: 525: bro, 2nd spot and 1st are like 4million difference, people really hated baby lamo | Sentiment: positive
+527: 526: justin bieber hate is forced and was only cause it was popular to hate on himbro has real bangers | Sentiment: None
+528: 527: 17:48 getting recommended on ohnepixel youtube stream | Sentiment: negative
+529: 528: do nada a maisa cantando nhenhenhem | Sentiment: None
+530: 529: thick of it has been robbed | Sentiment: None
+531: 530: 7 rings is very valid | Sentiment: positive
+532: 531: no dance monkey is a joke | Sentiment: None
+533: 532: where is wap bap by bibi h. d: | Sentiment: negative
+534: 533: meine frage, wo is wab bap | Sentiment: negative
+535: 534: i don&#39;t know if it is good or bad thing that there are so many brazillian songs on this lol, lets go brazil (i guess..) | Sentiment: positive
+536: 535: 8:02 😏 | Sentiment: negative
+537: 536: being funny comes so naturally to this guy, i&#39;m jealous | Sentiment: None
+538: 537: bailando poland | Sentiment: negative
+539: 538: bibi h - how it is ( wap bap ... ) | 3.6 million dislikes. why not in the list | Sentiment: negative
+540: 539: 4:00 german doesnt exist , the closest name similar to that word is of a dead nation | Sentiment: None
+541: 540: 4:02 | Sentiment: negative
+542: 541: just wondered why the is no bianca heinicke wap bap bc it have 3,6 mio dislikes to but ist from 2017 sadly | Sentiment: None
+543: 542: 7:29. the instrumental&#39;s go crazy on this song. | Sentiment: positive
+544: 543: where was how it is by bibi? 3.6 million dislikes. | Sentiment: None
+545: 544: we will never forget apored den aller echten insimodus akitivierenden main character. may he never return to germany. | Sentiment: negative
+546: 545: bro until i was like 6 or 5 i thought my brother made uptown funk, and told my friends | Sentiment: negative
+547: 546: ohnepixel´s heartbeat at 15:40 increased🐩 | Sentiment: None
+548: 547: man this made me add like 6 katy perry songs to my spotify, where is she❤ | Sentiment: negative
+549: 548: lmao no.1 at 6 mil dislikes xd | Sentiment: None
+550: 549: justin bieber didn&#39;t piss me off back than but his fans pissed me off | Sentiment: None
+551: 550: 9:20 yes ohne it´s exakt like this. would be more interesting to get a like to dislike ratio | Sentiment: positive
+552: 551: thick of it - ksi?? | Sentiment: None
+553: 552: surprised no nickelback people use to hate on them | Sentiment: negative
+554: 553: i never knew shakira and rihanna had a song together wtf | Sentiment: positive
+555: 554: where is ksi think of it? | Sentiment: None
+556: 555: 17:05 defenetly last 2 generations we have right now xd | Sentiment: negative
+557: 556: 6:25 💀 | Sentiment: negative
+558: 557: 6:26 💀 | Sentiment: None
+559: 558: where the fuck was wap bap... it has over 3.5 mio dislikes | Sentiment: negative
+560: 559: ну рома выдал | Sentiment: negative
+561: 560: why u dislike black songs | Sentiment: None
+562: 561: wap bap robbed | Sentiment: negative
+563: 562: а как же тимати с москвой, моргенштерн со своим пососи?) | Sentiment: negative
+564: 563: i was here in chat and he was asking for suggestions and i said most hated songs and this is one of the only times a streamer has ever reacted to something i&#39;ve put in chat | Sentiment: None
+565: 564: why is 7:55 the most replayed😭 | Sentiment: None
+566: 565: 7rings balkan remix is the best | Sentiment: None
+567: 566: where is &quot;despacito&quot;? | Sentiment: None
+568: 567: so good 🤣🤣 | Sentiment: positive
+569: 568: jb’s old songs are still not really my thing but his recent albums are actually good | Sentiment: positive
+570: 569: was no one alive in 2012 in his chat bruh, howw does no one know the chick song | Sentiment: None
+571: 570: 7 rings this sounds like a typical cringe tiktok songhow can anyone like this🤮🤢 | Sentiment: positive
+572: 571: 3 segundos de video e ja tiveram 2 musicas brasileiras. its over | Sentiment: None
+573: 572: i know that song of 7/11 | Sentiment: None
+574: 573: wheres wap bap by bibi | Sentiment: negative
+575: 574: 18:30 bro is onto nothing 😂 | Sentiment: negative
+576: 575: 14 years and justin bieber - baby is still the most disliked. i remember the dumbass flash games around justin bieber because how much everyone hated him 🤣🤣 | Sentiment: None
+577: 576: who is hating coco?? | Sentiment: negative
+578: 577: 4:58 the disappointment on his facefam | Sentiment: positive
+579: 578: wonder what we seen more of justin bieber or miley cyrus lmfao | Sentiment: None
+580: 579: i got a feeling this video miscalculated by solely going off the quantity of dislikes rather than the proportion of likes to dislikes. no shit a song with 1m dislikes and 20m likes has more dislikes than a song with 200 dislikes and 100 likes. it&#39;s just that proportionally, a ratio of 1 : 20 is smaller than a ratio of 2 : 1. | Sentiment: None
+581: 580: lmao like 20% of these were young justins songs, thats crazy | Sentiment: positive
+582: 581: whattt how is the hills by the weeknd hated ???? | Sentiment: None
+583: 582: do most liked songs now | Sentiment: None
+584: 583: 11:46 josh where the bass? joooshh wheres the bass!?!?!? | Sentiment: None
+585: 584: 16:17 this guy fell from a balcony and died, i think his name is liam payne | Sentiment: negative
+586: 585: everyday saturday remix absoluter klassiker | Sentiment: negative
+587: 586: where&#39;s despacito? | Sentiment: positive
+588: 587: wie kanns sein, dass wap bap von bibisbeautypalace nich hier drin is, das müsste auf platz 4 sein | Sentiment: negative
+589: 588: rebecca black sounds like a name for a pornstar but not a singer | Sentiment: positive
+590: 589: 12:46 i love how pressed he was during the charlie puth&#39;s section. | Sentiment: positive
+591: 590: i was expecting rick roll buy anyways | Sentiment: None
+592: 591: this video just unlocked core memories (el pollito pio and what does the fox say) | Sentiment: None
+593: 592: most of theese songs got disliked because they disliked the artist therefor made up their minds about their songs without probably listening to it. | Sentiment: negative
+594: 593: 2:20 no goddamn way | Sentiment: None
+595: 594: crazy that the nae nae guy killed someone with an axe | Sentiment: positive
+596: 595: jb carrying this listactually goated | Sentiment: positive
+597: 596: german reacting to justin is crazy | Sentiment: None
+598: 597: 13:13 perfect pitch guy but no personality. i cringe so much song is good but charlie is whack! | Sentiment: positive
+599: 598: 6:27 you are not the only one so don&#39;t feel lonely | Sentiment: positive
+600: 599: 1:29 4:20 13:12 14:12 17:11 18:40 | Sentiment: negative
+601: 600: now it&#39;s almost impossible to hit 6 000 000 dislikes, because they are hidden, so people think they will do nothing. justin biber can be officially claimed as the most hated singer on the planet earth ever. | Sentiment: None
+602: 601: right title: ohnepixel reacts to justin bieber&#39;s most hated songs | Sentiment: negative
+603: 602: gamnamstyle is perfect | Sentiment: None
+604: 603: 18:45 where to copy bro the chicken song is nearly 13 years old | Sentiment: negative
+605: 604: chalii puut | Sentiment: negative
+606: 605: i liked when he said, i used to have a crush on ariana. | Sentiment: None
+607: 606: (shitty song comes on)ohne: ohhhh its a banger | Sentiment: positive
+608: 607: they are sorting it by most dislikes on video but in reality they should be sorting it according to the ratio of likes and dislikes | Sentiment: negative
+609: 608: did bibi delete her song or was this before the song campe out? i could swear it had 2 million dislikes | Sentiment: positive
+610: 609: government dislike coco | Sentiment: negative
+611: 610: where is despacito | Sentiment: None
+612: 611: the audio files in the chat is crazy 💀 | Sentiment: negative
+613: 612: 12:46 bro i haven&#39;t even watched the movie, but i still know that its from fast and furious. | Sentiment: None
+614: 613: 8:26 that sh*t wild af 😂🤣 | Sentiment: positive
+615: 614: idk what is it but bieber has some bangers fr | Sentiment: None
+616: 615: more view = more dislike no shit | Sentiment: None
+617: 616: many of the songs aren&#39;t bad, more like mediocre.it&#39;s just they were played so much every-fucking-where until you hate them. | Sentiment: None
+618: 617: most disliked songs: aka every jb&#39;s song from his teens and early 20s. | Sentiment: positive
+619: 618: you can&#39;t hate on lady gaga | Sentiment: None
+620: 619: anti spiral | Sentiment: None
+621: 620: where is wap bap from bibi. it would be #2 | Sentiment: negative
+622: 621: 13:17 we all know charli pooth and transformers lol | Sentiment: None
+623: 622: done pixel | Sentiment: negative
+624: 623: how is despacito not here??? | Sentiment: positive
+625: 624: one direction it´s actually a really good band | Sentiment: positive
+626: 625: 22:18 this video did that song dirty, cuz they should have showed jb part | Sentiment: positive
+627: 626: ohne you trippin trippin nvm | Sentiment: None
+628: 627: 10:31 that was a forced hate my bro 💀🙏 | Sentiment: negative
+629: 628: 9:40 shittiest take so far bro. | Sentiment: None
+630: 629: 4:01 apored jumpscare | Sentiment: None
+631: 630: who the fck hates one direction? | Sentiment: negative
+632: 631: these people need to put on some clothes sheesh | Sentiment: negative
+633: 632: where is wap dap by bibi? it has 3,6milion dislikes | Sentiment: negative
+634: 633: my mind is still in this time i swear | Sentiment: negative
+635: 634: &quot;i just don&#39;t like this one&quot; ohne why do you think it&#39;s in the video | Sentiment: None
+636: 635: 1:29 | Sentiment: None
+637: 636: junge das da apo kam hat mich so gebrochen😂 | Sentiment: None
+638: 637: best music german underground techno ! | Sentiment: None
+639: 638: bro does everything but play cs2 | Sentiment: negative
+640: 639: full of bangers🔥🔥 | Sentiment: None
+641: 640: i finally found k-pop19:23 psy19:59 psy...22:49 psyyy24:13 again psy | Sentiment: negative
+642: 641: thick of it 😂 | Sentiment: None
+643: 642: lmao this is just all the justin bieber song basically | Sentiment: None
+644: 643: i like how some of them just stun him into no commentary like 5:42 lmao | Sentiment: positive
+645: 644: salio del madrid y no hizo nada porque no pudo sin florentino y sus goles en fuera de lugar | Sentiment: None
+646: 645: does he not understand the concept that a song that is very popular will have many dislikes (in total number) too? the video is about total dislikes, not like like/dislike ratio or smth. so ofcourse a song with 500 million views is gonna be on that list somewhere. | Sentiment: positive
+647: 646: this video should be titled &quot; ohnepixel react to most disliked justin bieber and other artist&#39;s song &quot; tbh | Sentiment: negative
+648: 647: how tf, bro loved all awfull musics lol | Sentiment: None
+649: 648: ngl ohne has some goated w takes | Sentiment: negative
+650: 649: they need to update this ksi has 2.2m dislikes | Sentiment: negative
+651: 650: bruder wie zum geier hats der allererechte apo r e d da rein geschafft | Sentiment: None
+652: 651: 7:50 superhero tycoon ahh beat | Sentiment: None
+653: 652: and scream and shout and let it out | Sentiment: None
+654: 653: 90% of the songs are disliked for no reason tho lets be honest no ? :d | Sentiment: None
+655: 654: wab bap von bibi hatte doch auch 3 mio dislikes?? | Sentiment: negative
+656: 655: hating on &quot;let it go&quot; is a war crime | Sentiment: None
+657: 656: sometimes i can&#39;t tell if he&#39;s actually that goofy or just acting | Sentiment: None
+658: 657: i think they should make like dislikes to likes ratio like u know it has 10 times more dislikes than likes etc | Sentiment: positive
+659: 658: nah, but the jump from 2.1m dislikes on 2nd vid to 6.2m on the 1st is hella crazy | Sentiment: None
+660: 659: rebecca black did a boiler room set xd | Sentiment: positive
+661: 660: bro is a swiftie | Sentiment: None
+662: 661: ohnepixel is not fan of electronic music 😢 | Sentiment: None
+663: 662: no fucking way &quot;its everyday bro&quot; by jake paul is not in this at least top 10... | Sentiment: None
+664: 663: blud made nothing off of this video. | Sentiment: None
+665: 664: actually fun reaction, nice. | Sentiment: None
+666: 665: no way he made the transformers joke again 😂 | Sentiment: None
+667: 666: &#39;&#39;of all time&#39;&#39;8 years ago | Sentiment: None
+668: 667: i remember parodies of these songs more than the original songs lol | Sentiment: None
+669: 668: justin is like half of these songs💀 | Sentiment: None
+670: 669: looking back on it, crazy how the whole world hated bieber so much they portrayed him to die in different movies and shows when he was just a kid | Sentiment: negative
+671: 670: that so good... so good... so yoo.. at 8:03 | Sentiment: positive
+672: 671: this vid reminds me some good song i heard before, that&#39;s nice❤ | Sentiment: positive
+673: 672: 12:43 bro really said transformers 💀 | Sentiment: None
+674: 673: 12:41 this is why he doesn&#39;t sing | Sentiment: None
+675: 674: hes right its populare hate it should be rated by percentage wise | Sentiment: negative
+676: 675: based pixel, everyone hates this song bcs its popular&gt; next song omg its so bad this song | Sentiment: positive
+677: 676: i think they need to put a like/dislike ratio on the songs, and set a views filter like ＞1m views, so we can truly get which one is more hated instead of just putting random popular songs | Sentiment: positive
+678: 677: no mika - relax take it easy.. pff fake list, 15 years or so ago, you walk the street and hear 6 different people blasting that stupid song from their phone in your radius. | Sentiment: positive
+679: 678: 1:13 o carnaval desse ano foi daora | Sentiment: negative
+680: 679: 🎉🎉 | Sentiment: negative
+681: 680: bro the one he showed is legit the one that stole it if anything, the one in the video is 11 years old 😭 | Sentiment: None
+682: 681: why the fuck is bound 2 in there like what in the banger | Sentiment: negative
+683: 682: little does he know that 7 rings is the song from sound of music &quot;my favorite things&quot; of &quot;julie andrews&quot; | Sentiment: None
+684: 683: where is wap bap by bibi. it has like 3 mio dislikes and should be like no 2edit: oh sry didn’t realize its an old video | Sentiment: positive
+685: 684: party in the usa is a top tier song | Sentiment: None
+686: 685: ohnepixqc omegalul | Sentiment: negative
+687: 686: looking back, i actually was a jb fan and liked &quot;baby&quot; a lot, probably had it in a playlist called &quot;best music&quot; or ill--egally downloaded the track because i liked it so much. ....impressive that the realest bunny apo r-e-d made it into a compilation like that. sad what fame does to a man... maybe in 10 years he can come back to germany after the statute of limitation has expired, for now he will chill in dubie, uae and istie, türkiye. sleeping in different apartments payed by others, promoting and advertising ponzis and pyramids, while his wife and children chill in germany on government bürgie-basis. | Sentiment: negative
+688: 687: shakira never misses… tik tok on the clock? | Sentiment: positive
+689: 688: most disliked, not most hated ohnepixel lol | Sentiment: None
+690: 689: now playing gentron by caleb hawker | Sentiment: None
+691: 690: man this early 2010s era of pop singers making edm songs was something else, corny as hell but also comforting 😂 | Sentiment: None
+692: 691: i repect you ohnepixel | Sentiment: None
+693: 692: psy + snoop dog hit me with the cringe, but gangnam style and gentleman are bangers. also, very surprised to see sia&#39;s chandelier on the list. i love that song. | Sentiment: positive
+694: 693: 17:35 stray? | Sentiment: negative
+695: 694: 2:14 jesus, how right he was. everyone called that guy &quot;russia justin bieber&quot; before xd | Sentiment: None
+696: 695: 10yo me tought they sing n- n- n- instead of &quot;wiggle&quot; | Sentiment: None
+697: 696: 12:44 banger. | Sentiment: None
+698: 697: the rent is due again | Sentiment: None
+699: 698: 8:34 ww---wwaaass?! | Sentiment: positive
+700: 699: top 100 most disliked youtube songs, from 8 years ago. great video to watch. also they didn&#39;t show the amount of likes or views, so there is absolutely zero fucking context. | Sentiment: None
+701: 700: 17:17 el petito pio is nooooooooooooooooot i wanna ride i wanna ride bro is tweaking | Sentiment: negative
+702: 701: nearly all are bangers ohne ur tweakingggggg | Sentiment: None
+703: 702: 6:50 most loved not most hated, this is a banger too, i get chills when listenign to it | Sentiment: None
+704: 703: 5:37 how is this on here? it should be on the most loved songs???? banger banger banger!!!!!!!!!!!!# | Sentiment: positive
+705: 704: 12:40 charlie put in transformers | Sentiment: negative
+706: 705: how was there not &quot;i play pokemon go&quot; by misha?? | Sentiment: None
+707: 706: you look like nico leonard | Sentiment: positive
+708: 707: bros gonna watch this in 5 years and is gonna be like the thick of it is kind of a banger | Sentiment: None
+709: 708: i had to watch the video all the way to the end to burst into laugh from jb&#39;s baby hahaha | Sentiment: None
+710: 709: thick of it, where? | Sentiment: None
+711: 710: ohne musictaste is on the floor | Sentiment: None
+712: 711: where the hell is rickroll? | Sentiment: None
+713: 712: 17:13 nothing else but the copy of song &#39;e o pintinho piu no ratinho&#39; | Sentiment: None
+714: 713: justin bieber the most hated singer of all time :d | Sentiment: None
+715: 714: comecinho do video já toma 2 musicas br | Sentiment: None
+716: 715: 12:46 bro torrented the wrong movie 💀💀💀 | Sentiment: None
+717: 716: where is wap bap | Sentiment: negative
+718: 717: rebeca black, obviously german kekw | Sentiment: None
+719: 718: let it go being on there twice is hilarious lmao | Sentiment: None
+720: 719: 6:24 lmao you &quot;used to&quot; have a crush on her?? look at ur heart rate hahahah | Sentiment: None
+721: 720: bro half of these songs were actually good like what | Sentiment: positive
+722: 721: the smile fading at 4:57 | Sentiment: None
+723: 722: 8:25 she really wanted her song to be played in shanghai major 💀 | Sentiment: negative
+724: 723: it&#39;s crazy how big justin bieber was when you think about it. | Sentiment: None
+725: 724: i swear snoop dogg is like that movie &quot;yes man&quot;. bro will be a part of literally anything he is asked to. has the longest resume in existence. | Sentiment: None
+726: 725: charlie puth is a god | Sentiment: None
+727: 726: jb dominating this list😂 | Sentiment: positive
+728: 727: bro said &quot;he hopped on the band wagon&quot; jb baby music lolwe all did | Sentiment: None
+729: 728: why the best ones the most hated | Sentiment: None
+730: 729: copyright deluxe | Sentiment: negative
+731: 730: ong i wanna scream n shout n let it all out frfr | Sentiment: None
+732: 731: wap bap von bibi fehlt xd | Sentiment: negative
+733: 732: 18:40 | Sentiment: negative
+734: 733: 6:27 nuclear waste graded bone crushing creator of fortnite dementa sideeye | Sentiment: None
+735: 734: was &#39;the hills&#39; unpopular for a few years, as it was popular recently but its an old song?? | Sentiment: None
+736: 735: nah britney spears x will i am on there is crazy, i refuse to believe. shit&#39;s a straight banger | Sentiment: negative
+737: 736: we need a kpop compilation reaction 😂❤ | Sentiment: negative
+738: 737: party in the usa does not deserve to be here. holy banger of bangers are you good????? | Sentiment: None
+739: 738: the &quot;get out&quot; at 18:40 lmao | Sentiment: negative
+740: 739: react to &quot;world&#39;s most degenerate streamer: upi&#39;s insane story&quot; | Sentiment: negative
+741: 740: als da apored mit photoshop kam ich packs nicht | Sentiment: positive
+742: 741: ohnepixel was not cooking at 17:17 bro was onto nothing | Sentiment: negative
+743: 742: what about bibisbeautypalace &quot;how it is (wap bap)&quot; it has 3,6mio dislikes and should be in the top10?! | Sentiment: negative
+744: 743: the bills can&#39;t be this high 💀 | Sentiment: negative
+745: 744: the hills is hated? huhhhhh | Sentiment: None
+746: 745: this video is so out of date btw friday has over 4m dislikes | Sentiment: None
+747: 746: things we&#39;ve found out in this video:-ohne is an npc | Sentiment: negative
+748: 747: this video got copyrighted immediately | Sentiment: positive
+749: 748: rebecca black is the og hate farmer | Sentiment: None
+750: 749: bro thinks he&#39;s timbaland 11:30 | Sentiment: None
+751: 750: i was thinking it gonna be taylor swift music list | Sentiment: None
+752: 751: you know what he did after this | Sentiment: None
+753: 752: 8 year old video is crazy | Sentiment: None
+754: 753: ma drilla gang👇 | Sentiment: positive
+755: 754: hurt me papi | Sentiment: None
+756: 755: best stramerrr | Sentiment: None
+757: 756: yello | Sentiment: negative
+758: 757: fart | Sentiment: negative
+759: 758: ohne is my rejuicer | Sentiment: negative
+760: 759: ❤ | Sentiment: negative
+761: 760: 33 seconds and i am first viewer , bro fell off | Sentiment: negative
+762: 761: 1 view in 43 seconds bro fell off | Sentiment: negative
