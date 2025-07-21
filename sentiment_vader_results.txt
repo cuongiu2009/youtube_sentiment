@@ -1,0 +1,907 @@
+1: 1: コロナ禍のmake you happy は名曲でした。 | Sentiment: positive | Score: 0.5719
+2: 2: i am so confused why there is no reol song or vocaloid stuff? | Sentiment: negative | Score: -0.6359
+3: 3: なんでnarutoのsignあるんですかね？というか…yoasobiと米須玄師（ハチ）ばっかじゃん | Sentiment: neutral | Score: 0.0
+4: 4: bro you gotta hear flamingo | Sentiment: neutral | Score: 0.0
+5: 5: 12:19 i want to let it be known i am probably 50% of the veiws | Sentiment: positive | Score: 0.0772
+6: 6: no yui&#39;s song 😢 | Sentiment: negative | Score: -0.6486
+7: 7: 日本の曲を楽しんでくれてありがとう！アニメソングは、アニメのシナリオを題材に歌詞が書かれていたり、主人公の心情を歌ってることも多いから、気になったら翻訳してみてほしい☺また旅行に来た時には、思いきり日本を楽しんでね🥰 | Sentiment: positive | Score: 0.8834
+8: 8: i can&#39;t believe orange 7 isn&#39;t on the list | Sentiment: neutral | Score: 0.0
+9: 9: 29:48 his face help lolll 😂 | Sentiment: positive | Score: 0.6808
+10: 10: i’m so glad we’re back, i’ve been keeping a special eye on your discord for a year since the last update 🩵 | Sentiment: positive | Score: 0.5949
+11: 11: one ok rock the best band in japan for me | Sentiment: positive | Score: 0.7506
+12: 12: keep those lips sealed or im bout to blow | Sentiment: neutral | Score: 0.0
+13: 13: stop glazing | Sentiment: negative | Score: -0.296
+14: 14: where link? | Sentiment: neutral | Score: 0.0
+15: 15: the fuck where is suzume. | Sentiment: negative | Score: -0.5423
+16: 16: ニック大好きです ❤(ӧｖӧ｡)是非アメリカの曲トップ100のレビューもお願いします！見てみたーい！知りたい♪ | Sentiment: neutral | Score: 0.0
+17: 17: so glad that peace sign and inferno made the top 20 | Sentiment: positive | Score: 0.8341
+18: 18: their best songs come from some of the most complex emotions, and tempered by cultural norms and expectations. it was truly unleashed with vocaloids, where anyone with a computer can express themselves through songs that cover everything from love and loss to madness and isolation, as well as mundane things like your pudding dying (爆砕プリン) or last-minute assignments, virtually anonymously, | Sentiment: positive | Score: 0.8402
+19: 19: yoasobi supremacy | Sentiment: positive | Score: 0.0516
+20: 20: 2:43 tracing that dream in 91 is diabolical, this deserves better😭🙏 | Sentiment: positive | Score: 0.2023
+21: 21: i can&#39;t believe there&#39;s no one ok rock, nano, my first story 😭😭 | Sentiment: negative | Score: -0.8515
+22: 22: 4:41 he knows peak | Sentiment: neutral | Score: 0.0
+23: 23: utada hikaru and mayumi itsuwa is a legend | Sentiment: neutral | Score: 0.0
+24: 24: 急なppapおもろすぎ | Sentiment: neutral | Score: 0.0
+25: 25: i&#39;m heartbroken that &quot;chicken attack&quot; did not made into the list. | Sentiment: negative | Score: -0.6486
+26: 26: 黄猿ってコメントした人、面白すぎるw | Sentiment: neutral | Score: 0.0
+27: 27: why there is no spyair and burnout syndrome?? | Sentiment: negative | Score: -0.3736
+28: 28: was bro complaining about tokyo drift like that song isnt amazing | Sentiment: negative | Score: -0.3339
+29: 29: wheres the baby metal react lol | Sentiment: positive | Score: 0.4215
+30: 30: 15:08 definitely yeah 🤣🤣🤣 | Sentiment: positive | Score: 0.926
+31: 31: someone in japan made a video of you reacting to this and added translations, everyone thinks your reaction to ppap is hilarious ahahah got like 400k views 😂 | Sentiment: positive | Score: 0.7964
+32: 32: ppapはジャスティンビーバーが生んだんだよ😂 | Sentiment: positive | Score: 0.4404
+33: 33: 米津玄師がストリーミングサービスを開始したのが2020年だからピースサインとかloserは後から配信されたって考えるとこの順位にいるのヤバいな | Sentiment: neutral | Score: 0.0
+34: 34: where&#39;s myth&amp;roid man | Sentiment: neutral | Score: 0.0
+35: 35: 26:14 just learn japanese man, it really isn&#39;t that hard | Sentiment: negative | Score: -0.1689
+36: 36: more ado | Sentiment: neutral | Score: 0.0
+37: 37: とても良い動画です！ | Sentiment: neutral | Score: 0.0
+38: yoasobi をトップに!!!! | Sentiment: neutral | Score: 0.0
+39: 38: brother i think your reactions are so fake that i started to believe in santa again thx so much | Sentiment: negative | Score: -0.3593
+40: 39: for me, aimyon is the best japanese female singer and songwriter rn | Sentiment: positive | Score: 0.6369
+41: 40: bro american is scam bro a scam boring place and they will never let asian take over on their chart | Sentiment: negative | Score: -0.8658
+42: 41: then you see that he reacts the you are my specialz then he said he loved it who the hell is that reaction getting bias | Sentiment: negative | Score: -0.2732
+43: 42: nahh bros cant handle such bloody song like you are my specialz | Sentiment: positive | Score: 0.6002
+44: 43: he might love wagakki band | Sentiment: positive | Score: 0.6369
+45: 44: listening to all of these song about to make me have an eargasm | Sentiment: neutral | Score: 0.0
+46: 45: chat, i sang along with 80% of the songs in this list. am i cooked? | Sentiment: neutral | Score: 0.0
+47: 46: japan loves lemon so much that they actually hold a party annually to celebrate it. go search lemon party if you are curious. | Sentiment: positive | Score: 0.9337
+48: 47: 06:24 is just more killing it after you watch the live action.it makes my heart feels empty | Sentiment: negative | Score: -0.3167
+49: 48: stay with me has to better ranking it has to be atleast 20 and where is the flyday chinatown, i cant stop loneliness ,duvet ,suki suki daisuki, remember summer day, fantasy ,bay city,4 am, and some others that i cant remember | Sentiment: positive | Score: 0.7286
+50: 49: where the fuck fireworks? | Sentiment: negative | Score: -0.5423
+51: 50: asían kung fu generation??😢 | Sentiment: negative | Score: -0.8466
+52: 51: im japanese and i just wanna say we all love u men | Sentiment: positive | Score: 0.6369
+53: 52: ppap黄猿って言われてて草 | Sentiment: neutral | Score: 0.0
+54: 53: you just need to move to japan atp | Sentiment: neutral | Score: 0.0
+55: 54: kick back was inspired by a song call souda! we&#39;re alive by morning musume. the doryoku mirai a beautiful star was literally taken from that song. | Sentiment: positive | Score: 0.8748
+56: 55: im genuinely quite surprised that zutomayo didnt appear once in that list | Sentiment: positive | Score: 0.2944
+57: 56: where is suzume bro? my favorite song just got hard disrespected. | Sentiment: negative | Score: -0.1027
+58: 57: bro im now 19 and i didn&#39;t first love was a japanese song💀 | Sentiment: positive | Score: 0.6369
+59: 58: really wierd that there is no flow song on the list | Sentiment: negative | Score: -0.296
+60: 59: не считая 4 и 5 места - всё остальное хорошо) | Sentiment: neutral | Score: 0.0
+61: 60: liked the vid when you said you didn&#39;t like specialz | Sentiment: positive | Score: 0.6486
+62: 61: mass of the fermenting dregs world is yours album please react on this ❤❤❤❤❤❤ | Sentiment: positive | Score: 0.9826
+63: 62: 18:55 cute | Sentiment: positive | Score: 0.4588
+64: 63: 修正版のトップ200が出ているので、そちらもよければ是非見てください‼︎ランキングめっちゃ変動してますよ！ | Sentiment: neutral | Score: 0.0
+65: 64: at least its most played songs not most liked lol | Sentiment: negative | Score: -0.3386
+66: 65: fyi, &quot;back number&quot; was called &quot;the king of broken heart&quot; because their song was sooo heartbroken with a nice touch on the lyric that hits your heart. | Sentiment: positive | Score: 0.1027
+67: 66: 2:38 relate broo, i live in country where the 99.9% politicians is corrupt where our tax money didn&#39;t even used to atleast make road better right now every single roads have street holes | Sentiment: positive | Score: 0.4404
+68: 67: shinunaga iiwaa😭 | Sentiment: negative | Score: -0.4767
+69: 68: bro i&#39;m waiting for your vlog video in japan, i think you will look like an embarrassing baaka on the streets of japan.wkwkwkw | Sentiment: neutral | Score: -0.0258
+70: 69: meh, you should read the lyric and meaning behind lemon. lemon is peak with the story behind, try it before it tooo latee!!!! | Sentiment: negative | Score: -0.3544
+71: 70: specialz?? where are jjk fans pls 19:48 | Sentiment: positive | Score: 0.168
+72: 71: 14:52 nic: can i get aoi ! aoi!chat: aoi! aoi!!singer: shiroi, shiroi !! | Sentiment: neutral | Score: 0.0
+73: 72: kenshi gives me chills in a good way | Sentiment: positive | Score: 0.4404
+74: 73: wht? i thought idol was the most streamed japanese song | Sentiment: neutral | Score: 0.0
+75: 74: where can i find the actual video? | Sentiment: neutral | Score: 0.0
+76: 75: 30:22 this ppap song was a trend long time ago that many people and even artists do this, it&#39;s quite funny and also brainwashed | Sentiment: positive | Score: 0.4927
+77: 76: 23:30 for your information, niziu was a jpop group under korean entertainment company called jyp entertainmentyou should try listen some of their songs | Sentiment: positive | Score: 0.4215
+78: 77: i&#39;m surprised crying for rain is just at 43. i thought it would be at least at top 20 or so | Sentiment: negative | Score: -0.1027
+79: 78: hi | Sentiment: neutral | Score: 0.0
+80: i&#39;d like you to take a look at “rydeen reboot” | Sentiment: positive | Score: 0.3612
+81: i don&#39;t know what you think of it, but it might interest some of you. | Sentiment: positive | Score: 0.6124
+82: 79: 9:36 can someone translate number 68, the title and band | Sentiment: positive | Score: 0.0772
+83: 80: yuika in 100.... not expecti g | Sentiment: neutral | Score: 0.0
+84: 81: sad that oddloop isn’t in it | Sentiment: negative | Score: -0.4767
+85: 82: yo during the 32nd song bro looked like he went braindead or something haha | Sentiment: positive | Score: 0.6705
+86: 83: gua sih yah mutusin buat make x cuman buat dapet info aja soal hal yg gua sukain | Sentiment: neutral | Score: 0.0
+87: 84: number 91 my personal favorite yoasobi song | Sentiment: positive | Score: 0.5106
+88: 85: ese final fue muy duro para todos jajajajaj | Sentiment: neutral | Score: 0.0
+89: 86: bro not knowing masaki suda is crime... it&#39;s the ranking top 66 guy i&#39;m talking abt btw... he&#39;s one of the best artist and actor in japan | Sentiment: positive | Score: 0.3612
+90: 87: i&#39;m invincible is my favorite song by them | Sentiment: positive | Score: 0.7351
+91: 88: well, not the 100 songs most played in japan, but the 100 japanese songs most played around the world hahaha | Sentiment: positive | Score: 0.8965
+92: 89: were are asian kung fuu ? | Sentiment: neutral | Score: 0.0
+93: 90: his face while listening to unravel got me. | Sentiment: neutral | Score: 0.0
+94: 91: the amount of anime songs here is kinda wild. imagine that over here. “among the 100 most listened songs is everything miley cyrus, michael jackson still, the most recent ed sheeran, gravity falls op, powerpuff girls op, samurai jack op, gravity falls wierdmaggedon op, owl house op”lol | Sentiment: neutral | Score: 0.0
+95: 92: ppapクソワロタwwwwwww | Sentiment: neutral | Score: 0.0
+96: 93: unravel のリアクション好きすぎる。この言わなくてもわかるだろ感 dude i love your reaction when unravel plays | Sentiment: positive | Score: 0.7351
+97: 94: the fact that yui, kyary pamyu pamyu, tofu beats and chanmina aren’t on here is wild to me | Sentiment: neutral | Score: 0.0
+98: 95: 2:43 this song made me cry like a baby when i first listened to it. instantly became one of my all time. | Sentiment: negative | Score: -0.1531
+99: 96: lessgo yoru ni kakeru and odo and lemon and many others ha | Sentiment: positive | Score: 0.34
+100: 97: love ado💙 one of my favoriteslove the rest too❤ | Sentiment: positive | Score: 0.9274
+101: 98: you should watch the music video of number 88. its titled niji (rainbow). its about life after marriage. and also its a doraemon movie theme song where nobita and shizuka got married. | Sentiment: positive | Score: 0.0772
+102: 99: ppap is the best song ever. btw, that troll song singer is actually a comedian. he had series of these and well know in asia for his non-sequitur humor. (it&#39;s not monty python... but more like a subdue benny hill) | Sentiment: positive | Score: 0.8477
+103: 100: should prob point out these songs are top due to anime (for the most part).it is not only japanese people listening to these, but just anime fans in general, so quite frankly it is probably a large amount of these streams being western. | Sentiment: positive | Score: 0.1027
+104: 101: 20:44 natori mentioned!?!!!🔥🔥🔥 natori for the president | Sentiment: negative | Score: -0.811
+105: 102: 80% of this list is just uninspired jpop slop. y&#39;all know it | Sentiment: neutral | Score: 0.0
+106: 103: 29:47 🖋️🍍🍎🖋️ | Sentiment: neutral | Score: 0.0
+107: 104: i&#39;m shocked that there are no songs by miku or vocaloid, are they not included in the list?31:00 😭😭😭😂😂 | Sentiment: negative | Score: -0.7906
+108: 105: back number is my fav japanese band ever. | Sentiment: positive | Score: 0.5106
+109: 106: 18:50 glad to see kyouran hey kids this high even after like 9 years..❤ | Sentiment: positive | Score: 0.8658
+110: 107: bro i wish mono no aware were in the list. tbf they are like very old in internet terms | Sentiment: positive | Score: 0.4588
+111: 108: you have micheal jackson dominating the list for sure | Sentiment: neutral | Score: 0.0258
+112: 109: 海の幽霊聞いてみてほしいな | Sentiment: neutral | Score: 0.0
+113: 110: no more &quot;(rapper) reacting to japanese song&quot; 🥀 nick is not officially retired of being rap | Sentiment: negative | Score: -0.296
+114: 111: kizaru 💀💀💀 | Sentiment: neutral | Score: 0.0
+115: 112: i am japanese. i use a translator to make comments. i&#39;m sorry if it&#39;s a strange sentence.🤖💦&quot;lemon&quot; is the theme song of the drama, a song that sings painfully about the sadness and loss of a loved one, and became popular because yonezu&#39;s own family&#39;s death had a significant impact on the production and many people sympathized with the lyrics.i&#39;m glad you seem to be having a good time! thank you for listening to japanese songs.🥳💖 | Sentiment: positive | Score: 0.8977
+116: 113: i actually suggest listening to best 100 vocaloids prob posted by same personit&#39;s so cool (by japanese i don&#39;t know about ya) | Sentiment: positive | Score: 0.8015
+117: 114: how does bro not know of ppap😭🙏 | Sentiment: negative | Score: -0.4767
+118: 115: trust me, i used to work in japanese karaoke from 2018-2021. that lemon song just keeps on number 1 on chart for whole year. that shows how crazy japanese love that song | Sentiment: positive | Score: 0.7506
+119: 116: no asain kung-fu gen and flow wtf japan 😢 | Sentiment: negative | Score: -0.8442
+120: 117: real on&#39;s know ppap (osu ninjas) | Sentiment: neutral | Score: 0.0
+121: 118: 29:48 dann didn&#39;t know kizaru could spit bars | Sentiment: neutral | Score: 0.0
+122: 119: yesss , do babymetallll | Sentiment: neutral | Score: 0.0
+123: 120: this is so good ,that is why i listen now only japan song ... look 100 in usa , 80-90% its about money ,sex itp and in wideo they just show only ass . in 100 japan song you got 0 butt.. | Sentiment: positive | Score: 0.0622
+124: 121: number 4? i caught my japanese friend listening to tokyo drift at school and i asked him if that&#39;s a popular song. he said it was very popular. didn&#39;t realize how serious he was. | Sentiment: positive | Score: 0.8439
+125: 122: night dancer on top | Sentiment: positive | Score: 0.2023
+126: 123: some wild ones on here. not bad, but like just okay at absolute best. | Sentiment: positive | Score: 0.8131
+127: 124: no mukanjyo, no avid, no spark again, its so sad | Sentiment: negative | Score: -0.7157
+128: 125: ok | Sentiment: positive | Score: 0.296
+129: 126: try to find out why kenshi wrote the &quot;lemon&quot; song in the first place and you wouldn&#39;t be surprised why that song is so popular among the japanese people. | Sentiment: positive | Score: 0.6722
+130: 127: where is suzumeeee | Sentiment: neutral | Score: 0.0
+131: 128: 唐突なppapで爆笑して死にそう | Sentiment: neutral | Score: 0.0
+132: 129: the ones by dism and yoasobi are always good ones in my opinion and king gnu | Sentiment: positive | Score: 0.4404
+133: 130: not a single asian kungfu generation song? i don’t believe it’s a real top 100 💔 | Sentiment: positive | Score: 0.4404
+134: 131: need more | Sentiment: neutral | Score: 0.0
+135: 132: ppap最高 | Sentiment: neutral | Score: 0.0
+136: 133: kenshi was suffering from depression, but writing song is like his light, like life gives you lemons. | Sentiment: positive | Score: 0.4767
+137: 134: tbh, i prefer kenshi yonezu&#39;s orion waaaaaaay more than lemon... | Sentiment: neutral | Score: 0.0
+138: 135: 14:40 nostalgia 🔥 | Sentiment: negative | Score: -0.34
+139: 136: 91, reminds me of that one ratatatat doujin :( | Sentiment: negative | Score: -0.4404
+140: 137: japan&#39;s no. 1 glazer | Sentiment: neutral | Score: 0.0
+141: 138: 33:46 the song lemon actually has a much deeper meaning that i think everyone can relate to | Sentiment: neutral | Score: 0.0
+142: 139: yeah nah that yuri song goes hard, bro has an amazing voice | Sentiment: positive | Score: 0.6369
+143: 140: “the j-pop top 200 is out! | Sentiment: positive | Score: 0.2714
+144: 141: request：orangestar - surges soooooo gooood | Sentiment: neutral | Score: 0.0
+145: 142: unnatural wouldn&#39;t slap nearly as hard without lemon. | Sentiment: positive | Score: 0.0516
+146: 143: ppapに困惑するニコラスニキ好き | Sentiment: positive | Score: 0.6369
+147: 144: can guys help me translate n29 i love her voice hehe❤ | Sentiment: positive | Score: 0.9022
+148: 145: damn i dont know that you’re a big fan of one ok rock 😭 hell yeah, my fellow one ok rockers👊 | Sentiment: negative | Score: -0.5423
+149: 146: jaja all the top 100 are really good songs of course i will not hear all the song but a lot yes because are some style of music i dont like it, i really hope see unlucky morpheus in this top one day or hannabie | Sentiment: positive | Score: 0.8799
+150: 147: as a person who’s japanese… やばい、懐かしすぎていつでも聴いても頭の中で響くぐらい好きw | Sentiment: neutral | Score: 0.0
+151: 148: lemonは命の重みが伝わるから大好きなんだよな | Sentiment: neutral | Score: 0.0
+152: 149: back number goat | Sentiment: positive | Score: 0.0772
+153: 150: yoasobi supremacy | Sentiment: positive | Score: 0.0516
+154: 151: nick we all love you, our fave pre watcher | Sentiment: positive | Score: 0.7964
+155: 152: i want that reaction to top 100 american songs you did at the end lmao | Sentiment: positive | Score: 0.7184
+156: 153: 7:29 he dropped an album recently. it&#39;s called &#39;under blue&#39; | Sentiment: neutral | Score: 0.0
+157: 154: bad songs | Sentiment: negative | Score: -0.5423
+158: 155: nick should do a reaction to pen pineapple apple pen. it&#39;s a classic | Sentiment: neutral | Score: 0.0
+159: 156: didn&#39;t oda confirm that he based kizaru on the ppap guy? | Sentiment: neutral | Score: 0.0
+160: 157: yes, u gotta hear baby metal x bmth | Sentiment: positive | Score: 0.4019
+161: 158: nicholas, i have a favor to ask you. please watch the live video of sakanaction&#39;s song &quot;music.&quot; the pleasure will send you to heaven. | Sentiment: positive | Score: 0.9001
+162: 159: ohhh prx vs heretic early | Sentiment: neutral | Score: 0.0
+163: 160: nico-niki, you really seem to know almost every song!! impressive! appreciate you showing love for japanese music!! | Sentiment: positive | Score: 0.9023
+164: 161: the fact that ado has gotten so popular so fast is insane ngl, i swear i didn&#39;t hear about ado until like two years ago and now looking at the list, its insane how popular she gotten, maybe i was just living under a rock but like, i felt like she gotten really popular really fast. | Sentiment: positive | Score: 0.913
+165: 162: i like when you say wtf in 9.47 without sound...you don&#39;t even wanna disturb the good song....always love your reaction thought..... | Sentiment: positive | Score: 0.4767
+166: 163: ニコラスニキのリアクション動画マジで好きすぎて見てるとこっちまで楽しくなる！bump of chickenとかも聴いて欲しい！ | Sentiment: neutral | Score: 0.0
+167: 164: i watch from 100 to 34 and wonder why not any of lisa , yellow monkey or even larc en ciel in here ... | Sentiment: neutral | Score: 0.0
+168: 165: &quot;no wonder it&#39;s 69&quot; got me dude | Sentiment: neutral | Score: 0.0
+169: 166: nicholas, you should react tuki. 『騙シ愛』 | Sentiment: neutral | Score: 0.0
+170: 167: back number is fucking good | Sentiment: positive | Score: 0.5413
+171: 168: bro 30:17 is literally at this point 😭😭💀💀💀 | Sentiment: negative | Score: -0.7351
+172: 169: ppap lol | Sentiment: positive | Score: 0.4215
+173: 170: it&#39;s the most forced reaction i&#39;ve ever seen ☠️ | Sentiment: negative | Score: -0.5095
+174: 171: watching the stupid anime watchers weebs in the chat mad is my favorite part | Sentiment: negative | Score: -0.5574
+175: 172: i cant belive tuki bansanka isnt here.... t-t | Sentiment: neutral | Score: 0.0
+176: 173: pretender by official higedandism is one of my favorites, i&#39;m glad it&#39;s on #6 | Sentiment: positive | Score: 0.7003
+177: 174: taishō sugō aka masaki suda played the very smart yet confined phillip in kamen rider double/ w. he was the wizard in the shazam movie although he overdubbed lines translating into japanese. | Sentiment: positive | Score: 0.659
+178: 175: if you’re heading back to japan, there’s a massive warning about foreigners. thanks to some not so great youtubers that are disrespecting and disrupting everyone, some places are banning people of non-japanese descent. the japanese people are very meek and don’t fight back leading to people taking advantage of them. it’s also lead to a massive drop in japanese learning english. i know new york city has a japanese language program because i saw signs for it last time i was there basically they teach you japanese language. | Sentiment: negative | Score: -0.746
+179: 176: you do realize that no musical artist makes any money in japan at all. they get a portion of cd or e-sales but they barely actually earn anything. everyone does a standard 9 to 5 to make ends meet. artists only play for the love of music. it’s actually stated in the contracts they signed. it’s such a waste of labor. actors are also paid a certain amount which is why they have to do multiple acting jobs to earn a decent wage. they might do a live shot monday then go to a voice acting session tuesday then back again to live back to another voice gig or commercial shoot. it just keeps going through the week. most music artists in japan retire by age 35 because they can’t keep up with the wage issues. actors usually retire around age 45. it’s just a vicious cycle. | Sentiment: positive | Score: 0.2263
+180: 177: i didn’t realise how big hige dandism is but ofc cos they only make bangers | Sentiment: neutral | Score: 0.0
+181: 178: 32:43 &quot;depression pop&quot; 😂 | Sentiment: positive | Score: 0.4404
+182: 179: i loved when da pump when they made the song called &quot;if&quot;.so much nostalgic song is in this list and im happi.its not like best its most watched so its not only japan, people from other countries watches them too dont forget that. | Sentiment: neutral | Score: 0.0227
+183: 180: 7:41 my dad gym song that i added (he&#39;s japanese) | Sentiment: neutral | Score: 0.0
+184: 181: evangelion op was defeated by &quot;you are my special&quot;, how the hell did this happen? | Sentiment: negative | Score: -0.8271
+185: 182: japanese top 100 destroys all world top lists | Sentiment: negative | Score: -0.7096
+186: 183: lol htf is pineapple pen number 5?? how??!! well sad that none of the newer bleach songs were up there but at least there were a couple older ones lol. | Sentiment: positive | Score: 0.7779
+187: 184: 29:49 kizaru jumpscare | Sentiment: neutral | Score: 0.0
+188: 185: me seeing rokudenashi in the list. i&#39;m happy | Sentiment: positive | Score: 0.5719
+189: 186: how is ponponpon not on the top played list | Sentiment: positive | Score: 0.2042
+190: 187: so i kept track of all the yoasobi and ado songs. yoasobi had 9 songs (2 of them were #3 and #2). ado had 6 songs in this whole list. i kept track of these two cause i like them the most of all the jp artists | Sentiment: negative | Score: -0.2023
+191: 188: i think the songs that brother nicholas likes tend to have high-pitched parts, and it seems like high vocals are popular in japan too. but in this ranking, there were so many songs where it felt like, “ah, there’s a high note coming right after this part!” but then it didn’t quite get there—such a missed opportunity 😅i wish they’d show more love for japan. | Sentiment: positive | Score: 0.972
+192: 189: i expected the whole of twice&#39;s japanese discography to be here lol.. ig maybe because they&#39;re not a japanese group | Sentiment: positive | Score: 0.4215
+193: 190: your face at the number 5, i pied myself ^^ | Sentiment: positive | Score: 0.0772
+194: 191: ppap by kizaru 😂 | Sentiment: positive | Score: 0.4404
+195: 192: japan bros you have some great fucking taste.also, ppap was a crazy curveball 🤣 | Sentiment: positive | Score: 0.7096
+196: 193: i like that in japan musicians often use instrumentals and are not afraid to play with their voices. it also seems that japan has the kindest and most positive music. | Sentiment: positive | Score: 0.655
+197: 194: is it more biased? considering he didn’t like the others much unless it was mostly anime, or maybe he just likes mostly soft spoken songs? | Sentiment: positive | Score: 0.5052
+198: 195: wooo proud japanese/american moment for me. glad you enjoy our stuff (minus ppap lol) | Sentiment: positive | Score: 0.9022
+199: 196: nah.. you dont even know what we do to take over ppap from the top..you dont even know fruit wars | Sentiment: negative | Score: -0.6124
+200: 197: ニコラスよ。日本のネットミームも見る気は無いのか？日本の裏の顔「変態」を楽しめるよ | Sentiment: neutral | Score: 0.0
+201: 198: just a tad happy here that yorushika had a couple on the list. you gotta check out their music! | Sentiment: positive | Score: 0.6114
+202: 199: first loveが出た時にspotifyやyoutubeがあって今のレベルで見る人いたら数百億再生は余裕でいってる。日本だけでcd 860万枚だからね。 | Sentiment: neutral | Score: 0.0
+203: 200: lemon intro slaps ngl | Sentiment: neutral | Score: 0.0
+204: 201: 30:30 ピコ太郎無双 | Sentiment: neutral | Score: 0.0
+205: 202: wait, there is no bansanka by tuki on that list? | Sentiment: negative | Score: -0.296
+206: 203: anybody knows the title song no 23? | Sentiment: negative | Score: -0.296
+207: 204: never heard the version of #19. only know ado&#39;s cover | Sentiment: neutral | Score: 0.0
+208: 205: ppap the best song ever 🔥 | Sentiment: positive | Score: 0.4215
+209: 206: love your jpop reaction! | Sentiment: positive | Score: 0.6696
+210: 207: synth vibing 2025 - just released (new electronica / edm album) ==righteous destruction (rock / metal album)castlevania: aura of holy might (soundtrack / remix album) | Sentiment: negative | Score: -0.5719
+211: 208: j-song are really unique, i&#39;ve now listened to like 5717 jsongs on list and probably 90% of them already on my listbelieve me..even the small artist have really good songs and voice too | Sentiment: positive | Score: 0.6901
+212: 209: i&#39;m a japanese teacher and i seriously want to teach you japanese. you have a high level of comprehension, so i&#39;m sure your interpretation would be amazing if you learned japanese. | Sentiment: positive | Score: 0.7165
+213: 210: pen-pineapple-apple-pen xd | Sentiment: positive | Score: 0.5859
+214: 211: 18:52表情がサイコパス過ぎだろw | Sentiment: neutral | Score: 0.0
+215: 212: | Sentiment: neutral | Score: 0.0
+216: 213: ubi | Sentiment: neutral | Score: 0.0
+217: 214: looking forward to baby metal reaction. plese do it quickly | Sentiment: neutral | Score: 0.0
+218: 215: the fact that you know 90% of the songs and to think this all started when you did that blind reaction to anime openings. lol | Sentiment: neutral | Score: 0.0258
+219: 216: ppapで黄猿言われてんのバカ笑ったｗｗ確かにめっちゃ似てるｗｗ | Sentiment: neutral | Score: 0.0
+220: 217: ambatuakm | Sentiment: neutral | Score: 0.0
+221: 218: you should check the top 230 anisong cd single sales from 1990 to 2024 | Sentiment: positive | Score: 0.2023
+222: 219: number 77 is the same people who did the mha vigilante op | Sentiment: positive | Score: 0.0772
+223: 220: 73位のyoasobiの時の反応😂楽しいビデオをありがとう😊✨日本から見てます🇯🇵🗾私もたくさん良い音楽を聴くぞー😆⸜( * ॑˘ ॑* )⸝⋆*ʓ ꩢ ʓ ꩢ | Sentiment: positive | Score: 0.765
+224: 221: 33:38 “lemon” is a song produced in 2020 as the theme for a television drama. the lyrics beautifully reflect the drama’s themes, and together with the show’s popularity, the song attracted significant attention. it also served as the breakthrough that brought the artist kenshi yonezu into the public spotlight. | Sentiment: positive | Score: 0.886
+225: 222: 30:17 “pen-pineapple-apple-pen” is a song written and performed by the japanese comedian pikotaro. its surreal humor made it a hit in 2016, and it later became a sensation in the united states as well. | Sentiment: positive | Score: 0.8225
+226: 223: 10:22 masaki suda（菅田将暉） is a famous actor in japan, and he’s also a talented singer. | Sentiment: positive | Score: 0.5106
+227: 224: ok, official hige dandism gotten huuuge since i first heard them. | Sentiment: neutral | Score: 0.0
+228: 225: ppap came out when i was still in school. it&#39;s old. i think 2015 so why is it still relevant lmao. hated it so much because everyone would sing that shit | Sentiment: negative | Score: -0.5994
+229: 226: i&#39;m sad that duvet isn&#39;t on this list. 😔 | Sentiment: negative | Score: -0.4215
+230: 227: ppapほんま草 | Sentiment: neutral | Score: 0.0
+231: 228: 3:30 reiner🗣️🔥 reiner🗣️🔥 reiner🗣️🔥 | Sentiment: negative | Score: -0.7351
+232: 229: when kenshi yonezu released lemon, i felt the need as a japanese to sing it in the middle of a pubg hotspot, and i did. i performed it in front of a downed enemy, no one came to interrupt me, and he bled to death right in front of me. | Sentiment: negative | Score: -0.9001
+233: 230: hi! i love your channel, especially about ado.by the way, could you react japanese song &#39;tentai kansoku’ by japanese band &#39;bump of chicken’.it was released 24 years ago and it became the 2000&#39;s national representative song.i have never seen the japanese dislike the song.i am very interested in your thoughts, since it is not complicated but purely touchs the hearts of japanese people. you in advance! | Sentiment: positive | Score: 0.894
+234: 231: recent songs are getting more views from overseas since anime culture has become more popular last few years. | Sentiment: positive | Score: 0.4754
+235: 232: i was not expecting hai yorokonde to be on here. i&#39;ve been bumping that shit for months after spotify added it to my queue. i had no clue it was that big lol | Sentiment: negative | Score: -0.4588
+236: 233: 7:19 finally eve 😭 | Sentiment: negative | Score: -0.4767
+237: 234: lemon&quot; is the name of the drama.it became very popular. | Sentiment: positive | Score: 0.4754
+238: 235: react dish. full video on firsttake dude | Sentiment: neutral | Score: 0.0
+239: 236: can&#39;t believe orb op is underrated even in japan | Sentiment: neutral | Score: 0.0
+240: 237: plz listening to lemon after watching j-drama “unnatural”!! swear you will cry. | Sentiment: negative | Score: -0.555
+241: 238: you should put japanese subtitles on this | Sentiment: neutral | Score: 0.0
+242: 239: anytime anywhere? 🥹😔💔 | Sentiment: positive | Score: 0.34
+243: 240: 85、masaki suda was a voice actor in the movie &quot;the boy and the heron.&quot;he is an actor and singer and his brothers are also active in showbiz. | Sentiment: positive | Score: 0.4019
+244: 241: 6:00 not true...in germany 2007 and 2008 and so we had a lot of japanese music on mtv like mucc, despairsray, direngrey, shanadoo and and.. many of them were top 10 weekly and monthly | Sentiment: positive | Score: 0.5106
+245: 242: no amazarashi?!?!?, am i the lone amazarashi fan | Sentiment: negative | Score: -0.4809
+246: 243: nicholas please react this one too, this is a good list of japan music | Sentiment: positive | Score: 0.6369
+247: 244: 今日本で最も人気なミセス。海外だとインフェルノしか聴かれてなさそうよなぁ。 | Sentiment: neutral | Score: 0.0
+248: 245: it&#39;s about time you started calling yourself japanese. i&#39;m japanese, so you should be proud. | Sentiment: positive | Score: 0.4767
+249: 246: i didn’t like specialz at first neither, but this year, for some reason, it’s been playing on repeat for days in my head and playlist 🤷🏾‍♀️ | Sentiment: positive | Score: 0.4497
+250: 247: man with a mission is not on the list?! 😮 | Sentiment: neutral | Score: 0.0
+251: 248: ピコ太郎5位はまぁ…仕方ないwwww | Sentiment: neutral | Score: 0.0
+252: 249: lemon release for tv series called unnatural, that series so fckind good tho | Sentiment: positive | Score: 0.4902
+253: 250: everything except pinapple pear and the tokyo drift song was amazing! 😅 | Sentiment: positive | Score: 0.7644
+254: 251: 私は日本の米津玄師さんのファンです。私が言うのもなんですが、このランキングに出てくる米津玄師さんの歌う曲は、全て米津玄師さん自身が作詞作曲をして歌い、ディスコグラフィのジャケット絵も描いています。さらに、菅田将暉さんの歌う「まちがいさがし」、daokoさんと共に歌う「打上花火」の作詞作曲も米津玄師さんが行っています。僕は米津玄師さんは努力と才能の神だと思ってます。 | Sentiment: neutral | Score: 0.0
+255: 252: ヨルシカのリアクションお願いします！ | Sentiment: neutral | Score: 0.0
+256: 253: ピコ太郎のspotify過疎ってて草 | Sentiment: neutral | Score: 0.0
+257: 254: ただローマ字版の歌詞を見つけて歌う練習をしなさい。そのうち歌えるようになります。私もそれで日本語を習得しています。頑張ってね。 | Sentiment: neutral | Score: 0.0
+258: 255: my favorite artist1.kenshi yonezu2.bump of chiken3.aimyon4.green apple | Sentiment: positive | Score: 0.4588
+259: 256: kenshi yonezu lemons has a great melody,but i think it is lyrics that really make it popular! | Sentiment: positive | Score: 0.8154
+260: 257: 黄猿コメでクソ笑ってんの好き | Sentiment: neutral | Score: 0.0
+261: 258: i am hoping to be reborn in my next life as a japanese boy hahaha | Sentiment: positive | Score: 0.7506
+262: 259: eve my goat | Sentiment: neutral | Score: 0.0
+263: 260: this is unofficial no? there are tons of artists that wasn&#39;t on the list. | Sentiment: neutral | Score: 0.0
+264: 261: yosobi fucking carried | Sentiment: neutral | Score: 0.0
+265: 262: 29:46 壊れたwww | Sentiment: neutral | Score: 0.0
+266: 263: so fun fact about ppap song, that song was the most viewed j-song for awhile 😂 i watch 1 channel breakdown month by month how much view every song get and the community in that channel so pump up surpassing that meme song lol😂😂 | Sentiment: positive | Score: 0.9336
+267: 264: i&#39;ve watched and listened to anime/japanese music since i was a kid in the 90&#39;s and i don&#39;t think i recognized many of the songs on this list at all lol except for a few obvious ones on demon slayer, jjk, naruto. i think i must just have terrible taste in music lol the japanese band i&#39;ve probably listened to the most was introduced to me like 15-16 years ago called &quot;mass of fermenting dregs&quot; but besides that it&#39;s like 80% city pop music which i thought would be more popular than it actually is too. | Sentiment: positive | Score: 0.8717
+268: 265: i see you didnt know what number 69 was. its called &quot;yesterday&quot; and its from a very underrated anime movie called &quot;hello world&quot;. | Sentiment: negative | Score: -0.0572
+269: 266: most artists appearances: top 61st yoasobi - 9 songs2nd kenshi - 8 songs- 2nd hige dandism - 8 songs3rd ado - 6 songs4th mrs green apple - 4 songs - 4th back number - 4 songsthese 6 artists make up 39% of the entire top 100 list!edit: also, kenshi does appear as a feature on another song, so you could say he had 9 songs, but i felt like features don’t really count so i didn’t include it! | Sentiment: positive | Score: 0.711
+270: 267: racing into the night by yoasobi is number 2 on this list despite being shadow banned on yt due to self harming themes. maybe that is why the copyrite on that song is very lax. | Sentiment: negative | Score: -0.2071
+271: 268: my boy kizaru was spitting 🍎🖊🍍🖊😎 👔👉✨ 🍎🖊🍍🖊👖👞👞 | Sentiment: positive | Score: 0.6486
+272: 269: im glad my fav of all time number 7. daoko x kenshi - uchiage hanabi | Sentiment: positive | Score: 0.743
+273: 270: funnyly waiting for him to watch banana fish or the ops | Sentiment: neutral | Score: 0.0
+274: 271: i love “the same as…” by one ok rock so much… ❤ | Sentiment: positive | Score: 0.8971
+275: 272: please check xg - woke up | Sentiment: positive | Score: 0.3182
+276: 273: 英語の勉強してないから、何を言ってるのかは分からないけど、最初から最後まで楽しそうでよかった。 | Sentiment: neutral | Score: 0.0
+277: 274: 反応が面白すぎるw😂日本の音楽を愛してくれてありがとう！！❤ado最高〜〜〜！！ | Sentiment: negative | Score: -0.2263
+278: 275: you shouldve been there during the jpop hype year | Sentiment: neutral | Score: 0.0
+279: 276: ワンオクもっと聴いて！！！！ | Sentiment: neutral | Score: 0.0
+280: 277: i flippin love one ok rock, like i have been listening to them nonstop for 4 months straight. i would like to see a reaction to the other songs if he hasnt already reacted/listened to them. | Sentiment: positive | Score: 0.9162
+281: 278: whoa, dude, seriously, you need to put in japanese subtitle. like, all i&#39;m seeing in the comments is japanese, lol. no joke, dude, you&#39;re a really big deal now! | Sentiment: positive | Score: 0.4596
+282: 279: 18:52 ここから連続で喰らってる笑笑 | Sentiment: neutral | Score: 0.0
+283: 280: 相当偏ったランキング。もっといい歌たくさんあるからリアクションしてほしい。thanks , nicholas! | Sentiment: neutral | Score: 0.0
+284: 281: 進撃の巨人が少しでも出てくると狂喜するニコラス兄貴が大好きだよ | Sentiment: neutral | Score: 0.0
+285: 282: 字幕日本語つけてくれないかなぁ | Sentiment: neutral | Score: 0.0
+286: 283: request🙋j-pop❤90&#39;stop 50🎶live ostmedley🎶 | Sentiment: neutral | Score: 0.0
+287: 284: we are babymetal!!! ❤ | Sentiment: positive | Score: 0.7249
+288: 285: hey, man&quot;kanade&quot; by sukima switch was released in 2004 | Sentiment: neutral | Score: 0.0
+289: 286: ピコ太郎を黄猿は草 | Sentiment: neutral | Score: 0.0
+290: 287: masaki suda is actor. | Sentiment: neutral | Score: 0.0
+291: 288: ニコラスニキ、xで検索したら分かるけどluxury diseaseとdetoxについてポストしてるから、普通にone ok rock好きなんだろうなでもthe same as...好きなのは意外、めちゃくちゃ嬉しい | Sentiment: positive | Score: 0.296
+292: 289: 29:49 peak culture | Sentiment: neutral | Score: 0.0
+293: 290: back number 🔥🔥🔥 | Sentiment: negative | Score: -0.7096
+294: 291: the ppap reaction is hilarious as hell 😂😂😂😂😂 | Sentiment: positive | Score: 0.891
+295: 292: 31:35 huh | Sentiment: neutral | Score: 0.0
+296: 293: ppapなんで流行ったんか本気でわからんけど本気で好き | Sentiment: neutral | Score: 0.0
+297: 294: 最高。面白過ぎたピコ太郎のリアクションがハイライトだねヨルシカはまだ知らないのかな | Sentiment: neutral | Score: 0.0
+298: 295: japón + music =perfection | Sentiment: positive | Score: 0.5719
+299: 296: no kokoronashi? | Sentiment: negative | Score: -0.296
+300: 297: yo nick, do one ok reactions | Sentiment: positive | Score: 0.296
+301: 298: ピコ太郎懐かしいな…幼稚園児の頃スマホいじってたら見つけてお父さんとめっちゃ見てた | Sentiment: neutral | Score: 0.0
+302: 299: for u to understand why lemon is such a good song u hv to understand the lyrics and the reason why kenshi wrote tht song. also its a song for a japanese drama called unnatural and its really good you should give it a try. | Sentiment: positive | Score: 0.7264
+303: 300: 這些歌曲大部分都非常好聽！該把它們放進音樂清單裡面了！ | Sentiment: neutral | Score: 0.0
+304: 301: i&#39;m so sad there was no sheena ringo :( | Sentiment: negative | Score: -0.8439
+305: 302: something i like about japan&#39;s top 100 compared to the western world. their music and taste isn&#39;t formulaic. if you were going through a western top 100, you&#39;d already hear about 10 songs that sound the like they used the same footnotes, same melodies etc. here we have a list of ppl just listening to whatever tf they want and you&#39;re seeing the variety reflected on the list. every entry is a completely different vibe than the last. | Sentiment: positive | Score: 0.7845
+306: 303: overreact | Sentiment: negative | Score: -0.25
+307: 304: 06:06 yes! please do babymetal! they&#39;re crazy good, especially in live performances | Sentiment: positive | Score: 0.7256
+308: 305: one of my favorite japanese songs is &quot; come my way&quot; it was the outro song for season 7 inuyasha | Sentiment: positive | Score: 0.4588
+309: 306: how is duvet from boa is not in this list ? this shit as like 700m streams on spotify wtf | Sentiment: negative | Score: -0.7615
+310: 307: masaki suda and creepy nuts have released a collaborative song called &quot;soundtrack&quot; as part of a radio station project. similarly, creepy nuts and yoasobi have released a collaborative song called &quot;baka majime.&quot; please give it a listen. | Sentiment: negative | Score: -0.3182
+311: 308: もはや日本人で作ったランキングではないけどな。海外人気を掴めた曲達ばかり。 | Sentiment: neutral | Score: 0.0
+312: 309: yonezu kenshi is king of jpop | Sentiment: neutral | Score: 0.0
+313: 310: pineapple apple, lemon, what fruits next? lychee?😂 | Sentiment: positive | Score: 0.504
+314: 311: nicholas, we are waiting for you! from japan. | Sentiment: neutral | Score: 0.0
+315: 312: why spyair not in top 10... why????!!!! | Sentiment: negative | Score: -0.5747
+316: 313: 29:48 ppap | Sentiment: neutral | Score: 0.0
+317: 314: back number mention! | Sentiment: positive | Score: 0.1511
+318: 315: nah bro even if you didn&#39;t know japanese back in the day translator used to put subtitles and the jaoanese lyrics with our alphabet so you could sing along | Sentiment: negative | Score: -0.1027
+319: 316: brooo why aren&#39;t there any asian kung fu generation in this list | Sentiment: negative | Score: -0.6908
+320: 317: one ok rock mentioned!!!!! 🔥 | Sentiment: negative | Score: -0.3331
+321: 318: you should do top 100 vocaloid song ngl | Sentiment: positive | Score: 0.2023
+322: 319: everyone&#39;s sleeping on back number, i love all their songs | Sentiment: positive | Score: 0.6705
+323: 320: 16:28 one ok rockをone o’clockって読んでる海外youtuberを初めてみた。nickの日本好きの本気度に感動する。 | Sentiment: positive | Score: 0.296
+324: 321: i recommend youfrom jpjapanese brand-new idol shit | Sentiment: negative | Score: -0.2732
+325: 322: no shiawase - back number is crazy..that literally the best song 😂 | Sentiment: positive | Score: 0.7351
+326: 323: lemonが人気なのは日本語の歌詞と、テーマソングになったドラマの完成度です。netflixにあるので、ぜひ「アンナチュラル」を観てほしいです。日本をよりリアルに苦い視点で知ることができます | Sentiment: neutral | Score: 0.0
+327: 324: i don&#39;t know which one to put where, they were all in my playlist already this whole freaking time.am i japanese then? and thats just 100 out kf all 300 songs that i have saved..... | Sentiment: neutral | Score: 0.0
+328: 325: ado six times!!! | Sentiment: neutral | Score: 0.0
+329: 326: you are more otaku than i imagined xd you know a lot of that songs. | Sentiment: positive | Score: 0.5859
+330: 327: brooo i wonder what tf type of people are listening to ppap songmindblowing | Sentiment: neutral | Score: 0.0
+331: 328: back number 最高 | Sentiment: positive | Score: 0.0772
+332: 329: i&#39;ve heared unravel, smiled, looked at nick, noticed he smiles too. i raised my brows, nick also raised his brows 2 seconds later. i feel weird | Sentiment: positive | Score: 0.7096
+333: 330: to be honest, the songs listed here are just the tip of the iceberg. there are so many more great songs in japan. | Sentiment: positive | Score: 0.8384
+334: if it&#39;s okay to recommend them, i&#39;d like you to check them all out... | Sentiment: positive | Score: 0.7096
+335: 331: ppap is peak | Sentiment: neutral | Score: 0.0
+336: 332: babymetalのリアクション楽しみに待っています！❤ | Sentiment: positive | Score: 0.6369
+337: 333: i acknowledge kenshi as a king of jpop, and ado as a princess of jpop. | Sentiment: neutral | Score: 0.0
+338: 334: top 100 most listened japanese songs:99 songs by japanese musicians1 by a japanese comedianppap is just a legend one hit wonder | Sentiment: positive | Score: 0.2023
+339: 335: damn yaosabi thou dominated this list | Sentiment: negative | Score: -0.4019
+340: 336: ??? he doesnt like lemon? wth, now thats where i go war bro | Sentiment: negative | Score: -0.6362
+341: 337: nick&#39;s reaction to the pineapple pan is hilarious | Sentiment: positive | Score: 0.4019
+342: 338: please check out tuki | Sentiment: positive | Score: 0.3182
+343: 339: ニキ、もしone pieceが好きなら、公式が出してるmr.childrenのheroの動画を見て欲しい。涙腺崩壊するから。あとサザンと宇多田ヒカルとb&#39;zは絶対に外せない | Sentiment: neutral | Score: 0.0
+344: 340: i&#39;m japanese. this includes some really popular songs. however, not all songs are truly popular, such as songs that have become popular on tiktok. | Sentiment: positive | Score: 0.8908
+345: 341: こう聴くとjpopってすげえや | Sentiment: neutral | Score: 0.0
+346: 342: bring some kdrama like squid game, weak hero class 1 and other reactions 🙏 | Sentiment: positive | Score: 0.4939
+347: 343: 9:02 i thought his name was yuuri?? i got so confused | Sentiment: negative | Score: -0.5189
+348: 344: how would you not know ppap hahahaha | Sentiment: neutral | Score: 0.0
+349: 345: where was we are 😭😭😭 | Sentiment: negative | Score: -0.8519
+350: 346: shocked to see only a couple yorushika songs appear on this list, always praying for them to get more recognition in the west. as a completely biased opinion i think all their songs deserve a spot on the top 100 songs in japan (obviously this is based on views but either way i love yorushika and i wonder if you&#39;ve reacted to some of their music yet. i dont have nearly the time to be watching back your streams, though i&#39;ve tried, and i wish i knew better what songs you have and havent seen.because if there is a possibility you havent seen their music videos, then that needs to change. also i really hoped i might see a keina suda song but i guess he&#39;s not that big to get a spot on the top 100. | Sentiment: positive | Score: 0.964
+351: 347: there&#39;s a song you gotta react man. rasen / jon-yakitory feat. ado | Sentiment: neutral | Score: 0.0
+352: 348: how come orion by kenshi was not on the list? | Sentiment: neutral | Score: 0.0
+353: 349: babymetal yeah | Sentiment: positive | Score: 0.296
+354: 350: babymetal yeah | Sentiment: positive | Score: 0.296
+355: 351: babymetal yeah😂 | Sentiment: positive | Score: 0.6249
+356: 352: brother, you should learn japanese right now. | Sentiment: neutral | Score: 0.0
+357: 353: 9:30 no way this song is in 69 i thought its forgotten lol this song is so majestic | Sentiment: negative | Score: -0.0772
+358: 354: 😮😊 | Sentiment: positive | Score: 0.7184
+359: 355: 日本人からすると懐かしいなと感じる曲が多い | Sentiment: neutral | Score: 0.0
+360: 356: you should definitely check out one ok rock (a japanese rock band)! i&#39;m sure you&#39;ll love them! | Sentiment: positive | Score: 0.8997
+361: 357: ppapやばいwwww | Sentiment: neutral | Score: 0.0
+362: 358: maybe kinda without context but if you want a peak (okay, liam [creator] not have enough episodes to tell story in way he wanted) but if you want to watch a cool show that you can watch free and (for now, because is coming to a amazon prime) only on youtube, and im talking about murder drones… maybe not as brutal or scary as other liam projects but still amazing and one of the most popular show’s on youtube. | Sentiment: positive | Score: 0.9396
+363: 359: japan is just superior | Sentiment: positive | Score: 0.5423
+364: 360: the irony of number 17 &quot;usseewa&quot; by ado, because she was 17 years old when she released that song. just a fun little coincidence 😊 | Sentiment: positive | Score: 0.8451
+365: 361: ニコラスさん、やっぱり大好き〜❤笑顔見てるとこっちも嬉しくなる😊 | Sentiment: positive | Score: 0.7184
+366: 362: | Sentiment: neutral | Score: 0.0
+367: 363: 𝐌𝐀𝐗𝐈𝐌𝐔𝐌 𝐓𝐇𝐄 𝐇𝐎𝐑𝐌𝐎𝐍𝐄を聞いて欲しい！刃渡り2億センチも好評だったし | Sentiment: neutral | Score: 0.0
+368: 364: i love back number and sukima switch! oddly underrated in the westalso, i didn&#39;t realize just how popular kenshi yonezu and ado are | Sentiment: positive | Score: 0.8221
+369: 365: 24:56people know this as the rengoku song | Sentiment: neutral | Score: 0.0
+370: 366: top 100 of other countries would be fire too | Sentiment: negative | Score: -0.1531
+371: 367: now let&#39;s see the top 100 america reaction | Sentiment: positive | Score: 0.2023
+372: 368: back numberの『水平線』聴いて欲しいです。mvでぜひ。あと、ミセスの『天国』のmvとテレビ番組でのパフォーマンスも合わせてぜひ | Sentiment: neutral | Score: 0.0
+373: 369: 流石に米津玄師つよすぎる | Sentiment: neutral | Score: 0.0
+374: 370: i wish i could discover ppap for the first time again. | Sentiment: positive | Score: 0.4019
+375: 371: 頼むから1回鈴木このみの ｢beat your heart｣聞いて欲しい | Sentiment: neutral | Score: 0.0
+376: 372: sorry to burst your bubbles bud but in japan all those songs are considered furui...old as hell..its just how it is. | Sentiment: neutral | Score: -0.0387
+377: 373: eveくん新曲出してるから聞いて欲しい！！特に &quot;さよならエンドロール&quot; | Sentiment: neutral | Score: 0.0
+378: 374: ワンオクロック好きなのか！ | Sentiment: neutral | Score: 0.0
+379: 375: ワンオク好きなの好感でしかない。しかもthe same as 知ってんのセンス良すぎ | Sentiment: neutral | Score: 0.0
+380: 376: watch invincible season 2 right now!!!! | Sentiment: positive | Score: 0.6562
+381: 377: soon sakanaction - kaiju will be here | Sentiment: neutral | Score: 0.0
+382: 378: can&#39;t believe survive said the prophet isn&#39;t in the list. | Sentiment: neutral | Score: 0.0
+383: 379: ppapで困惑して「ｷｻﾞﾙ．．．」っていってるのおもろい笑 | Sentiment: neutral | Score: 0.0
+384: 380: did i seriously just here bro throw shade at teriyaki boyz with tokyo drift? absolute headloss. | Sentiment: negative | Score: -0.1779
+385: 381: ニックが終始楽しそうでよかった | Sentiment: neutral | Score: 0.0
+386: 382: ppapでフリーズからの黄猿コメントで崩壊してんのくっそわろたwww | Sentiment: neutral | Score: 0.0
+387: 383: back number has great songs nostalgic vibes | Sentiment: positive | Score: 0.6597
+388: 384: i am japanese, and while i am happy that i can understand the meaning of the lyrics of japanese songs as they are, i also feel sad that i cannot convey their meaning to people from other countries. however, i am happy when i see people who enjoy listening to the lyrics and are moved by them, even if they cannot understand them. | Sentiment: positive | Score: 0.8176
+389: 385: lemon is a song that kenshi write for his grandpa who passed away i heard about it ? or i&#39;m remember wrong ?100/100 song ngl | Sentiment: negative | Score: -0.5362
+390: 386: ピコ太郎出てきた時の顔w w w | Sentiment: neutral | Score: 0.0
+391: 387: ちゃんと全部聞いたことあるの凄いな | Sentiment: neutral | Score: 0.0
+392: 388: lemon is gonna be on the number 1 on the list in the next 10 years | Sentiment: positive | Score: 0.0772
+393: 389: 懐かしすぎる | Sentiment: neutral | Score: 0.0
+394: 390: no guns, no drugs, no naked women 😅 | Sentiment: positive | Score: 0.4724
+395: 391: please react wonderland indonesia | Sentiment: positive | Score: 0.3182
+396: 392: 24:06 麦わらは聞き取れるのガチおもろい笑 | Sentiment: neutral | Score: 0.0
+397: 393: 7:32 actually eve released new album like 5 months ago but some of the songs are from 1-2 years ago but we have 7-8 new songs from him and 2-3 new ones have mv.album is named under blue | Sentiment: positive | Score: 0.1901
+398: 394: lol you can tell chat only listens to anime songs. lemon is an amazing song | Sentiment: positive | Score: 0.765
+399: 395: ppapが異色すぎて笑った | Sentiment: neutral | Score: 0.0
+400: 396: ニキには平成ヒットメドレーと聞かせたい一昔前の曲の方が頭に残るし、b’zのウルトラソールは1回聞いて欲しい | Sentiment: neutral | Score: 0.0
+401: 397: im standing ready. | Sentiment: positive | Score: 0.3612
+402: 398: ニコラスニキ、日本でオフ会してほしい。 | Sentiment: neutral | Score: 0.0
+403: 399: トップにppap来て爆笑したしかも奥様？まで歌えるのが笑 | Sentiment: neutral | Score: 0.0
+404: 400: damn, lots of japanese in the chat...noicce | Sentiment: negative | Score: -0.4019
+405: 401: no jojo songs? | Sentiment: negative | Score: -0.296
+406: 402: i am a little sad no yorushika song made it to top 10, but every song was banger (except no.-4 maybe) | Sentiment: negative | Score: -0.2416
+407: 403: my favourite jp artists/bands as a russian - ado- zutomayo- yorushika- bump of chicken - yoasobi- lisa- hoshimachi suisei- aimer- egoist- official hige dandism- kenshi yonezu- yama- reonahm: kenshi yonezu, 9lana, sekai no owari, dazbee, konoco, nonoc, fantastic youth, ms green apple, vaundy, tuyu, yoshino, kessoku band | Sentiment: positive | Score: 0.4939
+408: 404: 🖊🍍🖊🍎🕺🕺🕺🕺🕺 | Sentiment: neutral | Score: 0.0
+409: 405: 29:54 i didn&#39;t know that guy was japanese 😭 | Sentiment: negative | Score: -0.4767
+410: 406: hahahaha bro didn&#39;t know ppap😂😂😂😂 | Sentiment: positive | Score: 0.891
+411: 407: yorushikaaaa!!!!! | Sentiment: neutral | Score: 0.0
+412: 408: 18:50 😭🙏 | Sentiment: negative | Score: -0.4767
+413: 409: i like the female version of lemon more though | Sentiment: positive | Score: 0.3612
+414: 410: ppapでニコラスニキ壊れちゃった | Sentiment: neutral | Score: 0.0
+415: 411: wondering where is my chicken attack~~~~ | Sentiment: negative | Score: -0.4767
+416: 412: black gym dude song😂 | Sentiment: positive | Score: 0.4404
+417: 413: せまいんよ | Sentiment: neutral | Score: 0.0
+418: 414: you know what im suprised to not see here? asian kung fu generation. they have so many good songs its insane classics | Sentiment: negative | Score: -0.6395
+419: 415: there&#39;s a song by pikotaro (ppap) that i like i lot. it&#39;s called &#39;everyone must die.&#39; | Sentiment: positive | Score: 0.3612
+420: 416: gas | Sentiment: neutral | Score: 0.0
+421: 417: nahh ppap gave me a big heart attack....i never knew this banger was japanese 😭😭😭😭 | Sentiment: negative | Score: -0.802
+422: 418: 10:26 his name is masaki suda, and he is an actor who became famous for &quot;kamen rider w&quot;.😊he is also good friends with kenshi yonezu and has released songs together (the song was ranked at several places). kocchi no kento, who sang &quot;girigiri dance&quot; which you said was &quot;like creepy nuts!&quot;, is his younger brother.😋 | Sentiment: positive | Score: 0.8777
+423: 419: ppap wwww | Sentiment: neutral | Score: 0.0
+424: 420: nicholas niki is going to break!😂 | Sentiment: positive | Score: 0.4926
+425: 421: ニコラスのニキがこんな楽しそうだとこっちもたのしくなるあ😊 | Sentiment: positive | Score: 0.7184
+426: 422: ピコ太郎のとこマジ笑った😂 | Sentiment: positive | Score: 0.4404
+427: 423: this video makes me happy, except the last two songs😂 | Sentiment: positive | Score: 0.765
+428: 424: 18:53 me literally screaming and him be like 😏 | Sentiment: neutral | Score: -0.0258
+429: 425: yoooppap still up there?what the hell🤣🤣🤣 | Sentiment: positive | Score: 0.6124
+430: 426: ppapで爆笑したw | Sentiment: neutral | Score: 0.0
+431: 427: where the fuck is rumbling | Sentiment: negative | Score: -0.5423
+432: 428: where is sparkle song😢 | Sentiment: negative | Score: -0.0772
+433: 429: 6:08 what happened to the audio here? 😂😂 | Sentiment: positive | Score: 0.7003
+434: 430: back number songs reaction, mhm? | Sentiment: positive | Score: 0.0772
+435: 431: 急なppapに完全停止してるの爆笑。奥さんがその曲を知ってるのにさらに大爆笑。 | Sentiment: neutral | Score: 0.0
+436: 432: 7:44 tier 1 gooner | Sentiment: neutral | Score: 0.0
+437: 433: if i&#39;m not mistaken, around 2016 or 17, here in the philippines, ppap was all over the radio and tv. i didn&#39;t like it but it&#39;s so catchy it stayed on my brain until this very day. | Sentiment: positive | Score: 0.3193
+438: 434: w list🔥i’ll add them all | Sentiment: neutral | Score: 0.0
+439: 435: 33:44 remember this list isnt the top 100 best songs in japan its the most listened to songs | Sentiment: positive | Score: 0.5586
+440: 436: i&#39;m love it | Sentiment: positive | Score: 0.6369
+441: 437: i’m a bit sad nothing by masayuki suzuki showed up. love the king of love! | Sentiment: positive | Score: 0.7644
+442: 438: 28:22 insane how such a good song could be apart of such a bad anime | Sentiment: negative | Score: -0.5106
+443: 439: 1:52 creepy nuts is so peak bro | Sentiment: negative | Score: -0.3182
+444: 440: ngl, was pretty surprised that not a single arashi song made it in the top 100. they were face of jpop for years and years. they&#39;re still ridiculously popular even now, five years after they announced their hiatus(and basically disbanded in all but name). | Sentiment: positive | Score: 0.4854
+445: 441: now that you done american reacts for hte title implication and explicit direct statement addressed, please do new yorker reacts and then new york italian reacts next 🫡😹🗣🔥! | Sentiment: positive | Score: 0.4753
+446: 442: back number is a really good band. highly recommend | Sentiment: positive | Score: 0.742
+447: 443: usa number #1 what are you talking about? | Sentiment: positive | Score: 0.0772
+448: 444: 9:24 peak right here | Sentiment: neutral | Score: 0.0
+449: 445: w i dont like specialz either | Sentiment: negative | Score: -0.2755
+450: 446: あなたのリアクション動画を翻訳してる日本人がたくさんいます。それで私はあなたを知りました。好き！貴方もアニメも音楽も好きです！貴方を見ると私は元気をもらえます。ありがとう。 | Sentiment: neutral | Score: 0.0
+451: 447: you should definitely do one for babymetal sometime! | Sentiment: positive | Score: 0.4574
+452: 448: jpopの海外布教に一役買ってるやろニキ | Sentiment: neutral | Score: 0.0
+453: 449: 30:00 that&#39;s borsalino kizaru | Sentiment: neutral | Score: 0.0
+454: 450: how did you hear about pineapple pen, do you not know of like gangnam style either lul | Sentiment: negative | Score: -0.2755
+455: 451: 海外youtuberにあるまじき、コメント欄の日本語コメントの多さよ！俺もニコラス応援してるぜ！！いつも見てるよ！頑張ってね！ | Sentiment: neutral | Score: 0.0
+456: 452: 急なピコ太郎に笑ってしまった | Sentiment: neutral | Score: 0.0
+457: 453: that was awesome | Sentiment: positive | Score: 0.6249
+458: 454: thank you for your interest in japan.i&#39;m very happy as a japanese person.i can&#39;t speak english so i&#39;m using a translation site to write this. sorry for my poor english.i will continue to support you.nicholas&#39; smile always gives me energy. thank you very much🙇✨ | Sentiment: positive | Score: 0.9443
+459: 455: day one of doubling the peak until nick watches neon genesis evangelionpeak | Sentiment: neutral | Score: 0.0
+460: 456: sakanaction live performance is the greatest thing i have ever seen. | Sentiment: positive | Score: 0.6369
+461: 457: in fact i still think that the peak of japanese music was from the 1980s to the early 2000s.japanese music is still very strong now, but the diversity and artistry are still a little worse than before.don&#39;t get me wrong, there is still a steady stream of outstanding young new generation singers, musicians or brand emerging, but just that era was better.the generation of japanese musicians and singers born in the bubble economic era really had a higher pursuit of art, their vision was above just pop music.the situation in the animation industry is similar, and even more obvious than in the music industry. the mainstays of the japanese animation industry today are mainly those who were born in that era. | Sentiment: positive | Score: 0.3476
+462: 458: 30:16 how the f you don&#39;t know kizaru who beat the axx of strawhats.😂 | Sentiment: positive | Score: 0.4404
+463: 459: i love all of yonezu&#39;s songs because the lyrics are like stories. | Sentiment: positive | Score: 0.7717
+464: 460: なんだかんだでppapの中毒性一番やばい🤣 | Sentiment: positive | Score: 0.4939
+465: 461: number 19 dry flowers have been coverd by ado and this song is amazing ! | Sentiment: positive | Score: 0.6588
+466: 462: 18:53 ここ好き | Sentiment: neutral | Score: 0.0
+467: 463: imagine nick reacting to top 100 billboard songs in japan rn 🍏😂, would love to see a reaction to it tho 🔥🔥 | Sentiment: positive | Score: 0.6249
+468: 464: please post the american one bruh | Sentiment: positive | Score: 0.3182
+469: 465: 6:39 kanade from sukima switch is the ending for one week friends, a fairly unknown romcom anime i watched a long time ago. i loved this song so much i was playing it on repeat. | Sentiment: positive | Score: 0.8316
+470: 466: japan is ichiban nick knows this | Sentiment: neutral | Score: 0.0
+471: 467: 0:47 first love is a song i discovered not a long time ago. it reminds me of 90s r&amp;b music | Sentiment: positive | Score: 0.6369
+472: 468: 海外ではadoやyoasobiが人気だと思うけど、日本国内で人気があるのは米津玄師とmrs green appleなんだよね | Sentiment: neutral | Score: 0.0
+473: 469: just letting you know, lists that include both youtube and youtube music are wrong. youtube music already includes youtube views, lemon should be like 4th or 5th | Sentiment: negative | Score: -0.1531
+474: 470: 29:47 the fckng whiplash i felt 😭😭😭 | Sentiment: negative | Score: -0.8519
+475: 471: 17:44 🔥🔥🔥 | Sentiment: negative | Score: -0.7351
+476: 472: 0:56 what&#39;s the name of that song | Sentiment: neutral | Score: 0.0
+477: 473: bro listen more hige dandism songs like pretender and subtitle....they are really good | Sentiment: positive | Score: 0.6901
+478: 474: i saw this video and decided to add every single song into my (private) playlistexcept for the sh yoasobi one it just stops my playlistexcept for shintakarajima that&#39;s been in my playlist for a real while nowfav new artist i found from that vid was official髭男dism | Sentiment: negative | Score: -0.1531
+479: 475: yoasobi, kenshi yonezu, and higedan is literally the japanese music modern era goat😂 | Sentiment: positive | Score: 0.4404
+480: 476: who is 85 | Sentiment: neutral | Score: 0.0
+481: 477: im going to pay you fucking 1000000000 milion if you start to watch tokyo ghoul, like please bro, this anime deserves more atention, i really want to see your eaction on this one, please!!!!!!!!!!!!!!!!!!!🙏🙏🙏 | Sentiment: positive | Score: 0.8157
+482: 478: 30:15言いたいことはわかるが、黄猿ではないのよ | Sentiment: neutral | Score: 0.0
+483: 479: 88位85位66位58位の菅田将暉（suda masaki）は84位の女優さんの夫です。77位こっちのけんとのお兄ちゃんでもあります！すごい一家だ😂 | Sentiment: positive | Score: 0.4404
+484: 480: one ok rock and kenshi yonezu my beloved of all time!and those naruto&#39;s ost sure bring back some good old day&#39;s memory | Sentiment: positive | Score: 0.8748
+485: 481: maybe sometimes you can react ultraman or kamen rider song 😅 | Sentiment: positive | Score: 0.3612
+486: 482: ppap was literally all of 2016 bro | Sentiment: neutral | Score: 0.0
+487: 483: suprised centimillimental wasn&#39;t on this list tbh. very great songs by him | Sentiment: positive | Score: 0.659
+488: 484: so the song in the number 2 spot is called yoru ni kakeru (racing into the night) and i have learned the entire song and i don’t know any japanese | Sentiment: positive | Score: 0.0772
+489: 485: one ok rock 🤘 | Sentiment: positive | Score: 0.296
+490: 486: nick please do a babymetal reaction omg | Sentiment: positive | Score: 0.3182
+491: 487: ニコラスさんはアニメソングだけでなくて日本の歌謡曲(jpop)にまで聴くようになったのか🎵アニメやアニメソングは日本文化の入り口になってるみたいだね✨ | Sentiment: positive | Score: 0.3182
+492: 488: この順位は間違ってる | Sentiment: neutral | Score: 0.0
+493: 489: 100位以下も面白そうだな。 | Sentiment: neutral | Score: 0.0
+494: 490: ehm, actually it&#39;s american rapper reacts ☝🤓 | Sentiment: negative | Score: -0.296
+495: 491: ピコ太郎にポカーンしてるニキに爆笑してしまったわ | Sentiment: neutral | Score: 0.0
+496: 492: japan is crazy🔥 | Sentiment: negative | Score: -0.5859
+497: 493: yes please do a babymetal reaction. they are so good! | Sentiment: positive | Score: 0.8415
+498: 494: 26:15 that’s exactly my thought whenever i’m watching japanese content and there’s no translation | Sentiment: negative | Score: -0.296
+499: 495: i think not knowing what it says makes it more special. once you know what it says its gonna take away from it. | Sentiment: positive | Score: 0.4576
+500: 496: ppap forever | Sentiment: neutral | Score: 0.0
+501: 497: huge dandism&#39;s songs are so goated 7 of them are in the list | Sentiment: positive | Score: 0.3182
+502: 498: nicholas at the beginning be like: i&#39;m happy! nicholas at the end: wtf | Sentiment: positive | Score: 0.4003
+503: 499: the fact that idol and yoru ni kakeru just refused to appear (i&#39;m at #6 now) is kinda nuts | Sentiment: negative | Score: -0.4951
+504: 500: 28:15 holy shit that means 3 songs in top 10 | Sentiment: negative | Score: -0.4215
+505: 501: recommending “and return to white” by isekaijoucho | Sentiment: neutral | Score: 0.0
+506: 502: official hige dism took over the list 😭😭😭😭 | Sentiment: negative | Score: -0.9081
+507: 503: which artist appeared the most? yoasobi? | Sentiment: neutral | Score: 0.0
+508: 504: kinoko teikoku isn&#39;t in this list ..... | Sentiment: neutral | Score: 0.0
+509: my favorite japanese band nooooo 😭 | Sentiment: neutral | Score: -0.0258
+510: 505: bro actually went &quot;society&quot; 😭 | Sentiment: negative | Score: -0.4767
+511: 506: as the only back number fan i know, i am very much over the moon after every placement they have and every praise nicholas gives them. | Sentiment: positive | Score: 0.7351
+512: 507: kirari is a bangeeeer | Sentiment: neutral | Score: 0.0
+513: 508: the entire yoasobi song collection and kenshi yonesu will be there 😂 | Sentiment: positive | Score: 0.4404
+514: 509: yow nick comment section got infested by japanese ahahhahaha | Sentiment: neutral | Score: 0.0
+515: 510: okay. not knowing ppap is just equal to not being on internet 😂 | Sentiment: positive | Score: 0.5859
+516: 511: one ok rock❤” the same as “❤❤ | Sentiment: positive | Score: 0.891
+517: 512: i generally don&#39;t comment on stuff, but, i love your videos. one of the few people who bring something when reacting to stuff | Sentiment: positive | Score: 0.7783
+518: 513: lemon was tied up with a drama. it was a epic drama, with the lyric, makes japanese emotional. | Sentiment: positive | Score: 0.1531
+519: 514: my favorite japan artist :- aimyon- yorushika- official hige dandism - suda masaki- back number - vaundy | Sentiment: positive | Score: 0.5106
+520: 515: 88 is a 💎 gem | Sentiment: neutral | Score: 0.0
+521: 516: 4head jojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojojooooooooooooooooooooooooooojo | Sentiment: neutral | Score: 0.0
+522: 517: 10:57 gundam witch from mercury. yoasobi - blessing | Sentiment: positive | Score: 0.1779
+523: 518: 6:10 | Sentiment: neutral | Score: 0.0
+524: 519: other than kizaru guy they were all amazing. ado and lisa are my favorites | Sentiment: positive | Score: 0.765
+525: 520: tokyo drift is peak | Sentiment: neutral | Score: 0.0
+526: 521: watching you dance is one of the best parts and shows yoru energy and sincere reaction. we love your reactions for it. you are the best! | Sentiment: positive | Score: 0.9565
+527: 522: 0:00 100-5115:16 50-2623:41 25-1128:15 top 10 | Sentiment: positive | Score: 0.2023
+528: 523: 個人的に1曲だけ&quot;異物&quot;がランクに載ってるのが不快だ。 | Sentiment: neutral | Score: 0.0
+529: 524: guys , guess what i have ? 😬 i have a pen 🖊 , i have a apple🍎 uh! apple-pen 🍎🖊i have a pen 🖊, i have pineapple 🍍 uh! pineapple-pen 🍍🖊apple-pen 🍎🖊, pineapple-pen🍍🖊uhapple pineapple 🍍🍎 apple 🍎 pen 🖊 dance time ! ✨🕺✨😎 👔👉✨👖👞👞 | Sentiment: positive | Score: 0.8114
+530: 525: watching this at 2x speed felt like a fever dream | Sentiment: positive | Score: 0.5423
+531: 526: bud forgot to mute eva | Sentiment: neutral | Score: 0.0
+532: 527: 8:11 maybe i can teach you how to pronounce the word, so you can sing the japanese song. because i am also doing that hehe | Sentiment: neutral | Score: 0.0
+533: 528: the long reign of pineapple apple was ended by a lemon.fruits in japan go hard. | Sentiment: negative | Score: -0.1027
+534: 529: honestly i wasn&#39;t expecting one ok rock to be on the list, but it&#39;s great to see at least 1 on the board | Sentiment: positive | Score: 0.85
+535: 530: pls do a reaction of ado&#39;s cover of unravel | Sentiment: positive | Score: 0.0772
+536: 531: the entire time after entering top 10 i was like &quot;where&#39;s lemon where&#39;s lemon where&#39;s lemon&quot; and ofc it&#39;s no. 1 lmao. also chat you&#39;re mid not the song | Sentiment: positive | Score: 0.802
+537: 532: one ok rock is the best | Sentiment: positive | Score: 0.7506
+538: 533: i wasn&#39;t expecting tokyo drift, but i love that this one | Sentiment: positive | Score: 0.7783
+539: 534: you must listen more yorushika song | Sentiment: neutral | Score: 0.0
+540: 535: professional glazer holy shit | Sentiment: negative | Score: -0.5574
+541: 536: ppap wwwwwwwww | Sentiment: neutral | Score: 0.0
+542: 537: wow, i&#39;ve been into japanese music for 4 years but i added 20+ new songs to my playlist thanks to this video and nick | Sentiment: positive | Score: 0.7391
+543: 538: 10年くらい前のバンド曲たち強過ぎるな | Sentiment: neutral | Score: 0.0
+544: 539: these songs just make me feeel good man. this is why my playlist is full of jp songs nowadays. | Sentiment: positive | Score: 0.5719
+545: 540: as someone who loves japanese music i&#39;m so glad you gave it all this spotlight 🙏🙏🙏 | Sentiment: positive | Score: 0.8208
+546: 541: ピコ太郎で硬直すんの好き | Sentiment: neutral | Score: 0.0
+547: 542: 多分 コレは世界中で聴かれた日本の曲ランキングトップ100じゃないのかな？日本だけでカウントされたら違うランキングになるだろうなぁ〜 | Sentiment: neutral | Score: 0.0
+548: 543: 新宝島が流れてきた時の実家のような安心感半端ないわ笑 | Sentiment: neutral | Score: 0.0
+549: 544: yes! sekai no owari rpg! i absolutely love that song. i love him and his band. and his vocaloid fukase too.edit: oh. i reaply thought yoru ni kakeru would be number 1. i mean, lemon is good too. but racing into the night is just better. | Sentiment: positive | Score: 0.9028
+550: 545: yoasobiiiiiiiiiiiiii | Sentiment: neutral | Score: 0.0
+551: 546: このランキング見て完全に世代交代が終わったと思う中でスキマスイッチ入ってくるの嬉しすぎる | Sentiment: neutral | Score: 0.0
+552: 547: you need to listen the songs from haku, my favorite | Sentiment: positive | Score: 0.4588
+553: 548: this need to be updated.... | Sentiment: neutral | Score: 0.0
+554: 549: in this list, you can clearly see that there is some artist that win more than the others :- yoasobi- yunezu kenshin- ado - lisabut that ppap and tokyo drift was unexpected 😂 | Sentiment: positive | Score: 0.8555
+555: 550: absolutely loved this video! | Sentiment: positive | Score: 0.6689
+556: 551: 30:07 | Sentiment: neutral | Score: 0.0
+557: 552: lemon is number 2. yoasobi dominates it with a fuckton more views/listens combined. | Sentiment: positive | Score: 0.128
+558: 553: ifdc for me the no. 1 will always be the op of noragami &#39;kyouran hey kids&#39;. i literally fell for this song the moment i listened to it for the 1st time back in 2k19 and ever since that day it&#39;s always been my phone&#39;s ringtone. every thing about this song is perfect be it the verse, beats, instrumental, bridge, chorus. but sadly it&#39;s under rated af at least the anime is if not the song | Sentiment: negative | Score: -0.3291
+559: 554: on my instagram i have a face swap video of that pineapple pen 😂 | Sentiment: positive | Score: 0.4404
+560: 555: 23:01 im sorry are you on ecstasy? | Sentiment: positive | Score: 0.5574
+561: 556: nooo wheres colors by my goat flow!!!!!! | Sentiment: neutral | Score: 0.0
+562: 557: 34:17 it’s funny how you compare the top 100 jp songs to the top 100 american songs, get all disappointed, and becomes the reason you wanna get the fucc outta there lol, understandable 😂 | Sentiment: positive | Score: 0.836
+563: 558: 最近でたmrs.green appleの天国のリアクション、みてみたい！ | Sentiment: neutral | Score: 0.0
+564: 559: its a bit sad that asian kung fu generation is not in the top 100, their songs are bangers | Sentiment: negative | Score: -0.8553
+565: 560: the video started to sound like a certain artists speech when crossing field came on😂 | Sentiment: positive | Score: 0.7579
+566: 561: bibideba not in this list?? | Sentiment: neutral | Score: 0.0
+567: 562: 7:51 ayo | Sentiment: neutral | Score: 0.0
+568: 563: how come you don&#39;t know what ppap is kekw | Sentiment: neutral | Score: 0.0
+569: 564: 29:48 smile faded so fast 😂😂 | Sentiment: positive | Score: 0.8074
+570: 565: bro no shinunoga e wa | Sentiment: negative | Score: -0.296
+571: 566: 2:35 a question all us otaku ask ourselves sigh | Sentiment: neutral | Score: 0.0258
+572: 567: ppap was the best brainrot in my highschool days lol, that and the duck song was peak. | Sentiment: positive | Score: 0.7906
+573: 568: bro you gotta check out more of yorushikas songs | Sentiment: neutral | Score: 0.0
+574: 569: gto ost ?! in this economy ?! we&#39;re so blessed | Sentiment: positive | Score: 0.7867
+575: 570: love the glaze of japan as always lol | Sentiment: positive | Score: 0.7906
+576: 571: i actually choked when cruel angels thesis came on and a chat said &quot;this one is from 1812&quot; 😂 gtfo | Sentiment: negative | Score: -0.6124
+577: 572: no &quot;we are&quot;? 😢 | Sentiment: negative | Score: -0.6486
+578: 573: if i understand it correctly, it doesn&#39;t say the most played songs in japan, right? it says the most played japanese songs worldwide | Sentiment: positive | Score: 0.6582
+579: 574: 6:14 nice voice | Sentiment: positive | Score: 0.4215
+580: 575: 100% understand lemon being 1st. my favourite would be beginning but one ok rock is my favourite japanese artist so that&#39;s why lol | Sentiment: positive | Score: 0.7843
+581: 576: yes. babymetal video can be insane | Sentiment: neutral | Score: 0.0
+582: 577: yuuri was one of the first japanese artist led me into j-pop, he was too underrated. | Sentiment: neutral | Score: 0.0
+583: 578: no little glee monster song in top 100 :(it is my favorite japanese group / band. lot of bangers in top 100 though!!! | Sentiment: positive | Score: 0.2962
+584: 579: ufff | Sentiment: neutral | Score: 0.0
+585: 580: still gunna drop reaction to dbs broly?i just know ya said you were liking idea of dropping movie reaction once a week so dk if plans changed or what but no worries if not was just lookin forward to you watching dbs broly lol… | Sentiment: positive | Score: 0.5103
+586: 581: アニソン以外のjpopも普及してくれたら嬉しすぎる！arigato~~~from japan! | Sentiment: neutral | Score: 0.0
+587: 582: official hige dan dism was my entry to japanese musici love their lyrical choices and their live versions are amazing | Sentiment: positive | Score: 0.8402
+588: 583: 85 what song? | Sentiment: neutral | Score: 0.0
+589: 584: 34:30 take me with yall!!! | Sentiment: neutral | Score: 0.0
+590: 585: that pineapple song is like our never going to give you up | Sentiment: positive | Score: 0.3612
+591: 586: 30:00 omg hahahaha!!!! 😭😭💀💀i cant stop laughing!!! 💀💀💀 | Sentiment: negative | Score: -0.8445
+592: 587: please reaction one ok rock🔥🔥 | Sentiment: negative | Score: -0.0772
+593: 588: bro i recomended you to reaction yuuri | Sentiment: neutral | Score: 0.0
+594: 589: bro saying crossing field was released back in the 1800&#39;s had me deceased 😭🥀never a dull moment with nicholas 💯 | Sentiment: negative | Score: -0.7003
+595: 590: i am very happy as a japanese person that many people from abroad, including nicholas, have come to like japanese songs and artists.and at the same time, i was reminded of how fortunate i am to have been born japanese, to have learned and spoken japanese, and to be able to understand and enjoy the content of these wonderful songs as a matter of course.thank you for coming to like japan. this is a message of gratitude from one japanese person to nicholas.(i&#39;m sorry if the translation was incorrect.) | Sentiment: positive | Score: 0.9678
+596: 591: eveさんの曲来たら待ってましたと言わんばかりのいい反応をしてくれるから見ちゃうんだよなぁほんとにニコラスニキの言う通り新曲を待ち焦がれています❤マジで全人類に聴いて欲しい… | Sentiment: neutral | Score: 0.0
+597: 592: i wanna share some artists that are not on the list but wish you discover or remember back:- atarashii gakko - yuzu (made hunter x hunter ending)- make-up- jibaku shounen band | Sentiment: positive | Score: 0.631
+598: 593: no asian kung fu generation? :d there should be a bracket 2010 ~ 2015 ehehe | Sentiment: negative | Score: -0.5574
+599: 594: lemon by kenshi yonezu served as the ost for hit japanese mystery drama &#39;unnatural &#39; | Sentiment: neutral | Score: 0.0
+600: 595: wtf? 80 out of 100 of these songs are in my spotify playlist. | Sentiment: negative | Score: -0.5859
+601: 596: wtf admiral kizaru!~ | Sentiment: negative | Score: -0.4199
+602: 597: the ppap and tokyo drift disrespect will not stand | Sentiment: negative | Score: -0.4215
+603: 598: 29:51 the expression on nick&#39;s face 😂😂😂😂😂😂 | Sentiment: positive | Score: 0.9468
+604: 599: ニコラス兄貴、日本語の発音綺麗だから絶対才能あるよ〜！！いつか兄貴達に日本で会えたらいいな〜 | Sentiment: neutral | Score: 0.0
+605: 600: im surprised assu is not here | Sentiment: positive | Score: 0.2263
+606: 601: 1990/2000/2010年代の日本のtop chartも聞いてみてくれ | Sentiment: neutral | Score: 0.0
+607: 602: akb除外してくれｗ | Sentiment: neutral | Score: 0.0
+608: 603: 29:51 banger | Sentiment: neutral | Score: 0.0
+609: 604: 30:15 peak,i&#39;m not kidding, the legend appears on this list, kizaru!!!!!!!!🤩 | Sentiment: negative | Score: -0.3536
+610: 605: 29:51 nicholas is literally speechless lol | Sentiment: positive | Score: 0.4215
+611: 606: when are the bleach reactions are coming out................................?????????? | Sentiment: neutral | Score: 0.0
+612: 607: this top just shows how much making a song that works on tiktok matters more than actually making a good song ,not saying all of them are bad or anything ,but to me creepy nuts has a way better song than the ones that are really popular now (they are just an example ) . | Sentiment: positive | Score: 0.7343
+613: 608: 15:46 i just remembered they perform in our country, in front of my face, and i thought they look pretty cute as fok only to discover that they are actually very famous 🤣. | Sentiment: positive | Score: 0.8555
+614: 609: 菅田将暉 masaki suda is one of the best friends of 米津玄師 kenshi yonezu. 菅田将暉が米津玄師を世界にひっぱりだしたと言っても過言ではない。3:36 #88 虹 rainbow🌈4:15 #85 さよならエレジー good bye elegy10:20 #66 まちがいさがし12:21 #58 灰色と青 gray &amp; blue / song with 米津玄師he married with the actress in following mv.4:35 vaundy 踊り子 odoriko dancer | Sentiment: positive | Score: 0.8807
+615: 610: by the way, kocchino kento (who was on the rankings and also sang the opening theme for vegilante) and suda masaki (who was on several rankings )are brothers. suda masaki is one of the actors who is active in a wide range of fields. | Sentiment: positive | Score: 0.4019
+616: 611: i think doing a reaction video on the top 100 american songs would be a great idea. i’m eagerly waiting. | Sentiment: positive | Score: 0.8176
+617: 612: thanks to orb i heard sakanaction hehe~ | Sentiment: positive | Score: 0.4404
+618: 613: 神回👏💓 | Sentiment: positive | Score: 0.875
+619: 614: my top 3 jp band/artist- ado- one ok rock- ringo shiina | Sentiment: positive | Score: 0.5859
+620: 615: ピコ太郎のこと黄猿って言ってんの草すぎ | Sentiment: neutral | Score: 0.0
+621: 616: ニコラスさんのリアクションも楽しかったし黄猿には笑ったw言われてみればそう見えてくる。ランキングも日本人として楽しかったです | Sentiment: neutral | Score: 0.0
+622: 617: the best part when at the end he started playing the &quot;top 100 american songs&quot; for comparison and felt embarrassed. | Sentiment: positive | Score: 0.5423
+623: 618: the thumbnail is so forced and cringe it made me cry from sadness. | Sentiment: negative | Score: -0.871
+624: 619: ppap has been viral way back 2016😆 | Sentiment: positive | Score: 0.3612
+625: 620: 29:49 it&#39;s fcking kizaru man😂 | Sentiment: positive | Score: 0.4404
+626: 621: lemonがなかったらppapにすべてを持っていかれるところだったな | Sentiment: neutral | Score: 0.0
+627: 622: i am the contributor to this ranking! thank you for watching! just a quick note: this ranking is unofficial, so please keep that in mind. | Sentiment: positive | Score: 0.7249
+628: 623: i just had breakup on my 18th birthday thnks for this | Sentiment: neutral | Score: 0.0
+629: 624: tk should honestly hv been more | Sentiment: positive | Score: 0.4588
+630: 625: 22:45〜the back number song has resonated with viewers with its lyrics that speak for unpopular men.the band&#39;s name also comes from the vocalist&#39;s self-deprecating experience of his former girlfriend being taken away by another band member.all their songs are about unrequited love and heartbreak. | Sentiment: positive | Score: 0.2023
+631: 626: 08:15 me too brother.... me too | Sentiment: neutral | Score: 0.0
+632: 627: can anyone tell me the name of the song in 78 no. | Sentiment: neutral | Score: 0.0
+633: 628: i was waiting for spiderman atsv... | Sentiment: neutral | Score: 0.0
+634: 629: where&#39;s the spiderverse reaction you promised us??? | Sentiment: positive | Score: 0.466
+635: 630: 25:29 優里でたーーー🎉 | Sentiment: positive | Score: 0.4019
+636: 631: insane | Sentiment: negative | Score: -0.4019
+637: 632: wow! im surprised no spyair on the list | Sentiment: positive | Score: 0.5848
+638: 633: ミスチルとかも名曲多いんだけどなぁ | Sentiment: neutral | Score: 0.0
+639: 634: ppap衝撃すぎんのまじおもろい | Sentiment: neutral | Score: 0.0
+640: 635: whats the number 78? | Sentiment: positive | Score: 0.0772
+641: 636: i felt so confused and nostalgic at the same time when ppap appeared. i even forgot that it was a thing lmao | Sentiment: positive | Score: 0.2284
+642: 637: is it only me or y do i always smile when i see nick happy😂 | Sentiment: positive | Score: 0.8442
+643: 638: sad that the list only counts yt, spotify and apple music and could never include those songs (especially the older songs) that are not officially put on streaming platform. | Sentiment: negative | Score: -0.4767
+644: 639: ピコ太郎に戸惑うニコラスかわいい😊日本より海外に流行ってたな…日本は何がウケいるのかわかんなかった | Sentiment: positive | Score: 0.7184
+645: 640: ピコ太郎クソ笑った | Sentiment: neutral | Score: 0.0
+646: 641: ahaha nick really hates specialz songs, and me too 😂 | Sentiment: negative | Score: -0.0754
+647: 642: 肌の色だけが多様性ではない。日本は音楽だけ見ても個性であふれているさ。 | Sentiment: neutral | Score: 0.0
+648: 643: lmao bro immediately went to top 100 american songs after and was just like 🙃 | Sentiment: positive | Score: 0.802
+649: 644: i will be waiting for your reaction to babymetal | Sentiment: neutral | Score: 0.0
+650: 645: i used to dislike listening to japanese music—until i discovered ado. since then, i’ve been captivated by her music, listening to all of her songs. she’s the only reason i started listening to japanese music. !! | Sentiment: neutral | Score: 0.0
+651: 646: レモンが1位なのは時代と、米津玄師本人がmvに出る過程など複雑な要素が絡み合ってメディアで大きく話題を生んだ。そして1番伸びた理由はカラオケで歌いやすく、若者から年配まで多くの大衆の興味をひいたこと。 | Sentiment: neutral | Score: 0.0
+652: 647: thank you for listening j-pop!i hope you listen j-pop more.(please listen spitz and mr. children someday) | Sentiment: positive | Score: 0.69
+653: 648: more content like this nic please this awesome we got good music from japan | Sentiment: positive | Score: 0.9162
+654: 649: all of my goats were here1. ado2. minami3. aimer | Sentiment: neutral | Score: 0.0
+655: 650: この人って演歌とか聴くのかな？聴いたこと無いなら聴いてみてほしい | Sentiment: neutral | Score: 0.0
+656: 651: 日本いい音楽多すぎだろ(多分他の国もそうだけど)ニキがサカナクション好きなのめっちゃ嬉しいわ | Sentiment: neutral | Score: 0.0
+657: 652: 33:41 agree but lemon is great too | Sentiment: positive | Score: 0.8126
+658: 653: ニコラスニキにもっとワンオク聴いてほしい | Sentiment: neutral | Score: 0.0
+659: 654: 29:50 mann this shit made me rolling on floor of laughter🤣 never imagined to see ppap at top 5 at all! wtfff!🤣 | Sentiment: positive | Score: 0.774
+660: 655: 10:24 machigai sagashi by masaki suda | Sentiment: neutral | Score: 0.0
+661: 656: happy to see nicolas being into sakanaction. wanna see more of it! | Sentiment: positive | Score: 0.6114
+662: 657: every japanese all time list that i&#39;ve seen is always lemon 1st and uchiage hanabi 2nd. not seeing uchiage hanabi at 2nd feels kinda odd tbh | Sentiment: negative | Score: -0.2516
+663: 658: yaosobi owned the list | Sentiment: neutral | Score: 0.0
+664: 659: so many yoasobi songs o____olll | Sentiment: neutral | Score: 0.0
+665: 660: 8:07 as i saw this, one thing came through my mind, where the heck is the frieren reactions | Sentiment: neutral | Score: 0.0
+666: 661: just start learning the basic characters then slowly learn some simple words. | Sentiment: neutral | Score: 0.0
+667: 662: lemon is a classic lol | Sentiment: positive | Score: 0.4215
+668: 663: this is most listening japanese song all time,i used to watch this in 2020.back then ppap at first for 700mil views,and yoasobi got only 1 song on the top 100 list for &quot;yoru ni kakeru&quot; at 300mil.comepare this video and the 2020 list so much changes bro 😂. | Sentiment: positive | Score: 0.5719
+669: 664: あいみょんのmugiwaraをちゃんと聞き取っているのすごいしppapの時にkizaruで笑っているのもワンピースファンとして嬉しい | Sentiment: neutral | Score: 0.0
+670: 665: back number has good songs. cant wait for more of your music reactions | Sentiment: positive | Score: 0.4939
+671: 666: bakemonogatari✋🏻🗿🤚🏻 | Sentiment: positive | Score: 0.7506
+672: 667: i&#39;m 40 songs deep and no guns? no fake asses shaking? no drugs, no purple drinks? not even satanistic imagery? wtf??? | Sentiment: negative | Score: -0.6736
+673: 668: do some reaction to one ok rock if you can nick! | Sentiment: positive | Score: 0.3595
+674: 669: 18:52 i looked away for a second and when i watch the screen he was looking at me (the funniest sh=t) | Sentiment: positive | Score: 0.5574
+675: 670: overreact | Sentiment: negative | Score: -0.25
+676: 671: ピコ太郎が黄猿はワロタ | Sentiment: neutral | Score: 0.0
+677: 672: bro knows ball, one ok rock is so peak | Sentiment: positive | Score: 0.296
+678: 673: 海外ニキ達に是非サザンオールスターズのtsunamiを聴いて欲しい。まだまだ日本の良い音楽沢山ある | Sentiment: neutral | Score: 0.0
+679: 674: bro got copyrighted 😭😭 | Sentiment: negative | Score: -0.7351
+680: 675: only time ive didnt skip even single second in this video up till end , everytime i wtach 100 anime songs reaction i just couldnt wait for peak resulting in skipping almost 10 to 15 songs easily but this ... this video is peak every single second is peak , you simply cant ignore even one song from this list its just that good 🔥 | Sentiment: positive | Score: 0.6267
+681: 676: piko taro has met with president donald trump. | Sentiment: neutral | Score: 0.0
+682: 677: あんまりアニメ主題歌とか出していないから今回の動画でワンオク(one ok rock)のリアクション見れたの嬉しすぎた😭 | Sentiment: negative | Score: -0.2263
+683: 678: ほぼyoasobi、米津玄師、髭男、ミセスが独占してるのおもろい | Sentiment: neutral | Score: 0.0
+684: 679: from rapper to american . bro demoted himself | Sentiment: neutral | Score: 0.0
+685: 680: 7:30 he actually produced a new pjsk comm song for leo/need | Sentiment: neutral | Score: 0.0
+686: 681: lemon is like my alarm clock tone for the longest time | Sentiment: neutral | Score: 0.0258
+687: 682: ピコ太郎の無量空処くらってるのおもろすぎる笑 | Sentiment: neutral | Score: 0.0
+688: 683: ice cream song | Sentiment: neutral | Score: 0.0
+689: 684: i remember ppap.. it even had a mobile game💀 | Sentiment: neutral | Score: 0.0
+690: 685: next, react back number band | Sentiment: positive | Score: 0.0772
+691: 686: this video kinda makes me wanna to remake my jp playlist | Sentiment: positive | Score: 0.2023
+692: 687: please react shota shimizu songs😊 | Sentiment: positive | Score: 0.8074
+693: 688: ppap is goated | Sentiment: neutral | Score: 0.0
+694: 689: kizaru when he effects gear 5 sing ppap pineapple pen😂😂😂 | Sentiment: positive | Score: 0.8271
+695: 690: ppapで腹の筋繊維全部千切れた。 | Sentiment: neutral | Score: 0.0
+696: 691: 7:42this song is sung by saori hayami. i tip my hat to the range of her voice. | Sentiment: neutral | Score: 0.0
+697: 692: なんでppapって流行ったんだろうね… | Sentiment: neutral | Score: 0.0
+698: 693: by far, sakanaction is what i would like people overseas to hear. the runner-up is kana nishino. i recommend her album called love place. her songs have helped me in my life. | Sentiment: positive | Score: 0.8481
+699: 694: hello world,yesterday let&#39;s go | Sentiment: neutral | Score: 0.0
+700: 695: back number lets go | Sentiment: positive | Score: 0.0772
+701: 696: watching this makes me happy as a japanese, knowing how we have such good music and got people loving them even praise of japan.and then we have those meme songs like usa and ppap😂 | Sentiment: positive | Score: 0.9612
+702: 697: 米津玄師の曲をもっと聴いてほしいです！特に『海の幽霊』は私が今まで聴いた中で1番素晴らしい曲です！！『アイネクライネ』『loser』『感電』もぜひフルで聴いてください🙏 | Sentiment: neutral | Score: 0.0
+703: 698: 日本人しか聞いてない曲で1番高いのがback number（とあいみょん）やな。海外勢がアニソンやtiktokの曲沢山聞いてる中、ほとんど日本人だけの再生回数で27位はバケモンすぎる。これが真のj-rockだよ | Sentiment: neutral | Score: 0.0
+704: 699: 日本の曲は詩的な歌詞が多いので気に入った曲だけでも歌詞を読んでみてはいかがでしょうか | Sentiment: neutral | Score: 0.0
+705: 700: im so fking mad ppap meme song get no. 5 and dont have any spyair band song | Sentiment: negative | Score: -0.539
+706: 701: 29:49 i didn&#39;t expect this song on number fifth on list 😭🤣 | Sentiment: positive | Score: 0.1027
+707: 702: 1 request lets watch crow zero its peak 😂😂😂😂 | Sentiment: positive | Score: 0.891
+708: 703: yoasobi be like i am the list | Sentiment: positive | Score: 0.3612
+709: 704: where is uchiagehanabi | Sentiment: neutral | Score: 0.0
+710: 705: all these are going in my playlist | Sentiment: neutral | Score: 0.0
+711: 706: even gen z they hearing 70, 80 , karaoke is big in japan, 90, 00 great too, some song have special moment to their youth, or seasons | Sentiment: positive | Score: 0.7783
+712: 707: aimyon is so underrated, i find her song so calming definitely my top 1 japanese artist | Sentiment: positive | Score: 0.8058
+713: 708: ppap made me click | Sentiment: neutral | Score: 0.0
+714: 709: 14:39 realisation..😂 | Sentiment: positive | Score: 0.4404
+715: 710: ここにでてきた曲を出来ることなら全てフルで聞かせたい日本語の曲はフルで聞いてこそ最高に輝く | Sentiment: neutral | Score: 0.0
+716: 711: sakanaction, official higedan dism, let&#39;s explore these further. | Sentiment: neutral | Score: 0.0
+717: 712: 4:21 okay, you should just stop the glaze from there , i don&#39;t wanna live in japanese society ever, never | Sentiment: negative | Score: -0.0772
+718: 713: ピコ太郎でのニキの顔がツボすぎるwwww | Sentiment: neutral | Score: 0.0
+719: 714: yorushika lets gooooo 9:52 | Sentiment: neutral | Score: 0.0
+720: 715: 6:47 i still hear my online nickname 🔥(kierek kierek down... yk) | Sentiment: neutral | Score: 0.0
+721: 716: 29:48 i remember this being everywhere when i was in school ....can&#39;t believe this was from japan | Sentiment: neutral | Score: 0.0
+722: 717: weird seeing so many random songs i&#39;ve found on spotify in the top 100 | Sentiment: neutral | Score: 0.0258
+723: 718: ppapでフリーズするのはまぁその…わかるよジャンルとか違うけどそのうち古い楽曲とか演歌聞いてほしいなぁ | Sentiment: neutral | Score: 0.0
+724: 719: just realized nicks never reacted to yorushika | Sentiment: neutral | Score: 0.0
+725: 720: nick has returned to his peak! | Sentiment: neutral | Score: 0.0
+726: 721: my top favorite japanese music:- yoasobi- mami kawada- bish- yousei teikoku- uverworld - tk- egoist- fripside- ado- konomi suzuki- kenshi yonezu- lisa- reona- minami- myth &amp; road- garnidellia- band-maid- hanabi- man with a mission- fear and loathing in las vegas- kotoko- gackt- the gazette- galnerius- x-japan- higuchi-ai- coldrain- one ok rock- sid- flow.- mili- mauy maeshima- nonoc- zaq- aimer- waggakki band- kokia- kanako itou- junna- spyre- the oral cigarette- imperial circus decade decadence | Sentiment: negative | Score: -0.2263
+727: 722: 思ってたより日本の曲いっぱい知ってくれててうれしいです！！ | Sentiment: neutral | Score: 0.0
+728: 723: the top 10 is sucks.80〜90 or 11〜20 is better | Sentiment: positive | Score: 0.5719
+729: 724: 39 iconic fucking tokyo ghoul opening will forevrr be in my heart idgaf😭 | Sentiment: positive | Score: 0.2732
+730: 725: bro where the hell are the one piece opening at | Sentiment: negative | Score: -0.6808
+731: 726: 25:09 that my ringtone | Sentiment: neutral | Score: 0.0
+732: 727: what we&#39;re all here for 29:48 | Sentiment: neutral | Score: 0.0
+733: 728: finally, japanese youtube has started infiltrating english-speaking reaction youtube.it’s now only a matter of time before someone comes across yoyoyo-chan’s covers now! ✌️(yes, i would volunteer to help write a little cheat sheet for the japanese to help anyone reacting to her stuff) | Sentiment: positive | Score: 0.474
+734: 729: 無量空処喰らってて草 | Sentiment: neutral | Score: 0.0
+735: 730: i have most of these songs in my playlists already, i feel proud 😂 | Sentiment: positive | Score: 0.7184
+736: 731: 間違いなく世界で一番の音楽大国です😊 | Sentiment: positive | Score: 0.7184
+737: 732: mrs. green appleの新曲 『天国』をチェックしてみて下さい！かなりの衝撃です！ | Sentiment: neutral | Score: 0.0
+738: 733: i was confident pretenders by higedan would at least be top 3 but i&#39;d take 6th. | Sentiment: positive | Score: 0.3612
+739: 734: until ppap 😧😧?? | Sentiment: negative | Score: -0.7149
+740: 735: 29:47 his face😂😂😂😂😂😂😂😂 | Sentiment: positive | Score: 0.969
+741: 736: 31:23 &quot;i&#39;m not a meme guy. i hate memes.&quot;nick... you are a meme. | Sentiment: negative | Score: -0.5719
+742: 737: youtubeやspotifyなどの台頭と、アニメが市民権得たことで最近のアニメ主題歌が多くランクインしてるけど、一昔前のドラマの主題歌とかもいい曲が多いんだよなぁ…日本のドラマまで紹介するの難しいけど… | Sentiment: neutral | Score: 0.0
+743: 738: мы все уже заранее знаем что в топ 1 будет lemon от кенши ёнезу | Sentiment: neutral | Score: 0.0
+744: 739: kizaru in number five is crazy | Sentiment: negative | Score: -0.2732
+745: 740: please keep reacting to boruto skip whatever you want | Sentiment: positive | Score: 0.3818
+746: 741: no 5 is unbelievable 😂🤣 | Sentiment: positive | Score: 0.6908
+747: 742: one ok rockのこと知ってたのか！好きだからこそリアクションしてないのかな、きっと。やっぱりニックいい人だ | Sentiment: positive | Score: 0.296
+748: 743: it&#39;s never too late nick. you can learn japanese if you want. | Sentiment: positive | Score: 0.0772
+749: 744: 98 i didn&#39;t know that song was japanese 😂 | Sentiment: positive | Score: 0.4404
+750: 745: this is the real top 100 japanese songs！！but mrs. green apple “soranji”is good！！ | Sentiment: positive | Score: 0.2023
+751: 746: kanashii ureshii not being on the list is criminal ngl | Sentiment: negative | Score: -0.5267
+752: 747: masaki suda is a private friend of creepy nuts and has released song with them.kocchi no kento is masaki suda&#39;s younger brother, which was discovered after the song exploded.by the way, when i went to a certain high school for club activities, there was a student who had a ridiculously strong aura.he was later called masaki suda. | Sentiment: positive | Score: 0.4019
+753: 748: w for back number | Sentiment: positive | Score: 0.0772
+754: 749: i can read japanese now yehey!! i was reading the song names and conveniently was able to search them thanks to my studying. | Sentiment: positive | Score: 0.5399
+755: 750: damn, bro&#39;s not a rapper anymore, he&#39;s american 😔 | Sentiment: negative | Score: -0.34
+756: 751: これでも動画で紹介された曲は氷山の一角だから、もっといろんな曲聴いてほしいね❤ | Sentiment: positive | Score: 0.6369
+757: 752: uverworld,サカナクション,unison square garden,sekai no owari,one ok rock,zaqおすすめきいてほしい！ | Sentiment: negative | Score: -0.4745
+758: 753: kenshi yonezu, aimyon, official hige dandism, yuuri, sekai no owari, yuika, rokudenashi, yoasobi, yorushika are my favorite artists in the list. | Sentiment: positive | Score: 0.2023
+759: my 10 most favorite are | Sentiment: positive | Score: 0.5095
+760: 1. marigold - aimyon (one of my favorite japanese song of all time. nothing can beat this) | Sentiment: positive | Score: 0.4588
+761: 2. eine kleine - kenshi yonezu (my most favorite kenshi song. i was blown away how talent he is) | Sentiment: positive | Score: 0.7264
+762: 3. pretender - official hige dandism (my most favorite higedan song, still play until now) | Sentiment: positive | Score: 0.6901
+763: 4. betelegeous - yuuri (best yuuri song. the first take version also very good) | Sentiment: positive | Score: 0.8122
+764: 5. neko - dish// (one of the best song on the first take) | Sentiment: positive | Score: 0.6369
+765: 6. ano yume wo nazzote - yoasobi (recently my favorite yoasobi song) | Sentiment: positive | Score: 0.4588
+766: 7. cry baby - official hige dandism (my second most favorite higedan song) | Sentiment: neutral | Score: 0.0498
+767: 8. crying for a rain - minami (one of the best op) | Sentiment: positive | Score: 0.2732
+768: 9. uchiage hanabi - daoko x kenshi yonezu (one of the best anime movie song of all time, what a collaboration) | Sentiment: positive | Score: 0.6369
+769: 10. hakujitsu - king gnu (the first king gnu song that i ever heard, and this is banger) | Sentiment: neutral | Score: 0.0
+770: 754: you should listening to the full song on this list that you never heard before. | Sentiment: neutral | Score: 0.0
+771: 755: back number has more good music | Sentiment: positive | Score: 0.5413
+772: 756: 5位で笑った | Sentiment: neutral | Score: 0.0
+773: 757: bro how tf you don&#39;t know about ppap | Sentiment: neutral | Score: 0.0
+774: 758: yui聴いて欲しいなぁ | Sentiment: neutral | Score: 0.0
+775: 759: waiting for spiderman | Sentiment: neutral | Score: 0.0
+776: 760: ピコ太郎懐かしい | Sentiment: neutral | Score: 0.0
+777: 761: i&#39;m actually surprised i know/can sing (badly) almost all of these song except around 10 of them that i haven&#39;t heard before. | Sentiment: negative | Score: -0.296
+778: 762: ニコラス兄貴には、the blue hearts聴いて欲しいな～。 | Sentiment: neutral | Score: 0.0
+779: 763: 33:43 it’s the opening to a very popular reality tv series that’s popular in a crap ton of asian countries if i remember correctly. | Sentiment: positive | Score: 0.5095
+780: 764: thanks nick for reacting to this based music video, my senses and music taste are again turning to japanese mode thanks to this 😭❤ time for peak vibe ✅ peak beats ✅ language understanding ❌ 😭 | Sentiment: positive | Score: 0.5859
+781: 765: 4位の曲聞いたことあるけど何これ | Sentiment: neutral | Score: 0.0
+782: 766: please give me your reactions to babymetal from me to u and ratatata 🙏 | Sentiment: positive | Score: 0.3182
+783: 767: he&#39;s having the time of his life | Sentiment: neutral | Score: 0.0
+784: 768: 29:48 kizaru is here | Sentiment: neutral | Score: 0.0
+785: 769: this is my list from now on 😊 | Sentiment: positive | Score: 0.7184
+786: 770: ピコ太郎(ppap)が安倍さんとトランプさんと3ショット撮っていたの思い出して懐かしくなったわ | Sentiment: neutral | Score: 0.0
+787: 771: 29:18 wow the lackluster reception to this movie couldn’t stop the song from reaching number frickin 7. | Sentiment: positive | Score: 0.5719
+788: 772: ピコ太郎で思考止まってんのほんとおもろい | Sentiment: neutral | Score: 0.0
+789: 773: ppapのリアクションに大爆笑しましたwwwww | Sentiment: neutral | Score: 0.0
+790: 774: this list is bullshit, misamo - do not touch has 118 million views, wtf | Sentiment: negative | Score: -0.8225
+791: 775: pikotaro and kizaru there is no sense of incongruity when putting them together.because uncle ppap and kizaru look so much alike | Sentiment: negative | Score: -0.296
+792: 776: one piece ost sucksbut the best cartoon of the year😅 | Sentiment: positive | Score: 0.7717
+793: 777: 近年日本でもkpop系のアイドルが量産されているけどこう見るとやっぱ全然聞かれていないなランクインしたのniziuくらいか逆に韓国のtop100がどれだけkpopアイドルで埋めつくされるのかちょっと興味ある | Sentiment: neutral | Score: 0.0
+794: 778: nicholas! watch &#39;legend of the galactic heroes&#39; (the old 1988 version). it’s one of the most legendary pieces of media ever made. if you enjoy anime like death note, code geass, or aot, you will love it. imagine lelouch vs. l in space! you have to watch it; it’s an experience! | Sentiment: positive | Score: 0.8713
+795: 779: 邦楽聴いて笑顔になってるニコラスを見るのが日課になってる!ｗ | Sentiment: neutral | Score: 0.0
+796: 780: meanwhile in the west... | Sentiment: neutral | Score: 0.0
+797: 781: fake rankings | Sentiment: negative | Score: -0.4767
+798: 782: ニコラス兄貴ほんと表情筋豊かすぎる | Sentiment: neutral | Score: 0.0
+799: 783: 28:47 big n just broke | Sentiment: negative | Score: -0.4215
+800: 784: i can&#39;t believe i recognised all the songs in the list, maybe i need to go touch some grass 😅 | Sentiment: positive | Score: 0.3612
+801: 785: 菅田将暉とこっちのけんとは兄弟です！ | Sentiment: neutral | Score: 0.0
+802: 786: react sheena ringo instict and ado cover | Sentiment: neutral | Score: 0.0
+803: 787: pineapple pen and tokyo drift lol | Sentiment: positive | Score: 0.4215
+804: 788: lemonは日本人に染みるんだよねアンナチュラル（日本で一大ブームになったドラマ・アンナチュラル）でこの曲が流れるタイミングが完璧だった😢 | Sentiment: negative | Score: -0.4767
+805: 789: 30:27 why kizaru is here😭 | Sentiment: negative | Score: -0.4767
+806: 790: ニックさん楽しいリアクションありがとう！これからもj-popをよろしく頼みます！ | Sentiment: neutral | Score: 0.0
+807: 791: いつかでいいから日本語を理解してもう一度聞いてみてほしい。翻訳したらは直訳されるけど日本語で歌詞をみたらまた感動すると思う | Sentiment: neutral | Score: 0.0
+808: 792: this was a fun video. just matching the songs i love from certain anime’s with the singers actual faces was great! | Sentiment: positive | Score: 0.9324
+809: 793: bring more bleach reactions if you want :d | Sentiment: positive | Score: 0.5574
+810: 794: i love ppap death note version. ryuk is funny as hell | Sentiment: negative | Score: -0.34
+811: 795: 26:36 ranked 17th like her age when she debuted with this song | Sentiment: positive | Score: 0.3612
+812: 796: here before it gets copyrighted! (i hope it doesnt i love this video) | Sentiment: negative | Score: -0.1926
+813: 797: awesome | Sentiment: positive | Score: 0.6249
+814: 798: had to add some of these songs to my playlist asap | Sentiment: neutral | Score: 0.0
+815: 799: 10〜20年前くらいのランキングも聴いてほしいな〜 | Sentiment: neutral | Score: 0.0
+816: 800: 兄弟、僕も好きじゃないよppap | Sentiment: neutral | Score: 0.0
+817: 801: you&#39;ll be the next youtuber moving to japan | Sentiment: neutral | Score: 0.0
+818: 802: there once battle of fruits for the top 1 songs between lemon and pineapple (ppap), sometimes one beat others🤣 | Sentiment: positive | Score: 0.34
+819: 803: 日本の音楽を愛してくれてありがとうございます。 | Sentiment: neutral | Score: 0.0
+820: 804: one ok rock !!!. hope nick react more oor | Sentiment: positive | Score: 0.7163
+821: 805: &quot;them, yoasobi, they own this list man&quot; | Sentiment: neutral | Score: 0.0
+822: *ppap appears* | Sentiment: neutral | Score: 0.0
+823: 806: eugh pine apple pen | Sentiment: neutral | Score: 0.0
+824: 807: back number is so goated. | Sentiment: positive | Score: 0.0772
+825: 808: bro i wish i can meet you when you come to japan:) | Sentiment: positive | Score: 0.4019
+826: 809: ppap was peak back in school in 2016 | Sentiment: neutral | Score: 0.0
+827: 810: currently mrs green apple is the best band in japan | Sentiment: positive | Score: 0.6369
+828: 811: when kenshi yonezu creates songs for anime, i think he makes the melodies more catchy so that they’re easier for people outside japan to accept. “lemon” has a melody and lyrics that go very well, and i feel it reflects a sensibility that is closer to that of japanese people. | Sentiment: positive | Score: 0.8464
+829: 812: こういう動画待ってた! | Sentiment: neutral | Score: 0.0
+830: 813: mashle op being top 10 after only 1 year | Sentiment: positive | Score: 0.2023
+831: 814: 30:15 黄猿 | Sentiment: neutral | Score: 0.0
+832: 815: my top 10 jp bands/artists:1. bump of chicken2. one ok rock3. utada hikaru4. mrs. green apple5. miho komatsu6. flow7. official hige dandism8. sweet arms9. ikimonogakari10. babymetal | Sentiment: positive | Score: 0.7783
+833: 816: wishing any of my current songs or future songs can be in there oneday | Sentiment: positive | Score: 0.2263
+834: 817: 20:47 that is indeed natori! would genuinely love to see you check out all his full songs on his channel 😂 pretty much every single one is an absolute bop and they all hit in very different ways (especially if you watch the pvs!) | Sentiment: positive | Score: 0.8975
+835: 818: 急なppapに混乱してるの面白すぎる | Sentiment: neutral | Score: 0.0
+836: 819: 15:43 49 and we got the first idol song. really hope the top 50 isn’t dominated by idols.coming back to say it wasn’t. thank you japan for not being totally idol pilled. | Sentiment: positive | Score: 0.7755
+837: 820: no.88,85,66 masaki suda is no.77 kochino kento’s brother! | Sentiment: neutral | Score: 0.0
+838: 821: 13:45 yesss please do back number reaction videos, their song is so good and it&#39;s so relatable😭🔥 | Sentiment: positive | Score: 0.1475
+839: 822: most of these songs suck and no this is not better than american top 100 not even close stop glazing for views | Sentiment: negative | Score: -0.5883
+840: 823: the heck this top is my whole playlist | Sentiment: positive | Score: 0.25
+841: 824: 7:50 do it!! | Sentiment: neutral | Score: 0.0
+842: 825: brazilian songs are trash too, nowadays 😂 | Sentiment: positive | Score: 0.4404
+843: 826: peak video | Sentiment: neutral | Score: 0.0
+844: 827: wow, official hige dandism is bigger than i realized! i figured kenshi would have the most songs. | Sentiment: positive | Score: 0.6239
+845: 828: sad to see no &quot;kiseki (キセキ) by gre4n boyz in here. still a list with such a huge amount of bangers. | Sentiment: negative | Score: -0.4588
+846: 829: i was surprised inferno was so high up! i figured when we saw mrs. green apple earlier that that would be about where inferno would&#39;ve been. i am happy it was so high on the list. | Sentiment: positive | Score: 0.7088
+847: 830: 絶対one ok rockは他の曲リアクションした方がいいぞマジでかっけええから他の曲とかアーティストを馬鹿にしたいわけじゃないけどアニメの主題歌とか流行りの曲ばっかリアクションしてるのは正直勿体無い | Sentiment: positive | Score: 0.296
+848: 831: it’s really sad for u that u think some anime really can beat this iconic tokyo drift ost, tf u on monkey??!! | Sentiment: negative | Score: -0.6527
+849: 832: vid so good it made my day brighter | Sentiment: positive | Score: 0.7462
+850: 833: yoasobi owns the list ngl | Sentiment: neutral | Score: 0.0
+851: 834: 33:03 they love lemons😂😂 | Sentiment: positive | Score: 0.875
+852: 835: you definitely need to check out back number. they only make bangers. one of my favourite bans. | Sentiment: positive | Score: 0.4588
+853: 836: go watch to 100 song country europe (uk, france, germany, spanish, italy, ukrain) | Sentiment: neutral | Score: 0.0
+854: 837: i really want him to be blown away by mrs green apple with soranji and heaven | Sentiment: positive | Score: 0.5984
+855: 838: i’m on a 40 day streak with my japanese. you really just have to start. | Sentiment: neutral | Score: 0.0
+856: 839: 日本人の俺より知ってる曲多すぎでしょ。 | Sentiment: neutral | Score: 0.0
+857: 840: tbf, if you were japanese you probably wouldn&#39;t be as loud and entertaining 😂 | Sentiment: positive | Score: 0.7003
+858: 841: back number, mr children, one ok rock, hige dan, kana nishino, ikimono gakari and kiroro are my all time japanese band/singers | Sentiment: positive | Score: 0.3612
+859: 842: kizaru song the best | Sentiment: positive | Score: 0.6369
+860: 843: why would you hate your own country lol | Sentiment: negative | Score: -0.2263
+861: 844: i hope specialz is in thereedit: yeeeeesss | Sentiment: positive | Score: 0.4404
+862: 845: ナイスリアクション✨😁 | Sentiment: positive | Score: 0.6486
+863: 846: because of back number that i clicked like in this videothe oral cigarettes too | Sentiment: positive | Score: 0.4215
+864: 847: can your provide link of the video? | Sentiment: neutral | Score: 0.0
+865: 848: nick, you don&#39;t have to learn the language to be able to sing along. after listening to the songs a few times, we can easily sing along | Sentiment: positive | Score: 0.34
+866: 849: ppap is peak | Sentiment: neutral | Score: 0.0
+867: 850: it&#39;s not top 100 now.. it&#39;s ever | Sentiment: negative | Score: -0.1511
+868: 851: nick, please continue the bleach tybw reaction, even if it was a full reaction without the scene and sound. | Sentiment: positive | Score: 0.3182
+869: 852: 6:47 &quot;hai yorokonde&quot; by kocchi no kento is a fantastic bop and i&#39;d love to see your reaction to it! it was quite the trend to do the chorus dance in japan as well! the description of the song provides a decent idea of what the song is about as well and it&#39;s quite the relatable one! | Sentiment: positive | Score: 0.8928
+870: 853: what’s your favorite japanese song? | Sentiment: positive | Score: 0.4588
+871: 854: 68 by yorushika,you must react all off them song | Sentiment: neutral | Score: 0.0
+872: 855: ppap was huge | Sentiment: positive | Score: 0.3182
+873: 856: holy shit!!! idol is not in first place!!! | Sentiment: negative | Score: -0.6973
+874: 857: bro you know one ok rock ????? | Sentiment: positive | Score: 0.4871
+875: 858: oneokrock🔥🔥🔥🔥 | Sentiment: negative | Score: -0.8225
+876: 859: b4 came out like a year ago and it’s at 9th place..? | Sentiment: positive | Score: 0.3612
+877: 860: maid ✨akane 😆🥁🫶✨✨✨ | Sentiment: positive | Score: 0.8126
+878: 861: masaki suda is an actor and singer. he is a popular actor who can play anything from serious roles to comedy and action roles. he plays the role of shinpachi in the live-action movie &quot;gintama.&quot; in his private life, he is known for his love of the yu-gi-oh card game. | Sentiment: positive | Score: 0.9118
+879: 862: lest go babymetal | Sentiment: neutral | Score: 0.0
+880: 863: wow im early | Sentiment: positive | Score: 0.5859
+881: 864: 8:38 damn ilove mrs green apple | Sentiment: negative | Score: -0.4019
+882: 865: suda masaki (菅田將暉) is one of the famous star in japan right now, including acting and singing. and actually the actress in the mv of vaundy&#39;s odoriko (踊り子) is his wife. | Sentiment: neutral | Score: 0.0
+883: 866: casually waiting for the naruto mobile cinematics reaction: | Sentiment: positive | Score: 0.1779
+884: 867: nick so based for loving one ok rock! not many people who watch anime know anything about them, they&#39;re seriously one of the biggest and at the same time most underrated band of all time!!! | Sentiment: positive | Score: 0.7803
+885: 868: ppap | Sentiment: neutral | Score: 0.0
+886: 869: please do babymetal reaction nick! all of their music videos from theirvare literally babies | Sentiment: positive | Score: 0.3802
+887: 870: nice video, nicholas | Sentiment: positive | Score: 0.4215
+888: 871: i was watching your boruto ep -17-18 but i accidentally clicked off of it and it vanished 😭🙏 | Sentiment: negative | Score: -0.8047
+889: 872: 🥸 | Sentiment: neutral | Score: 0.0
+890: 873: peak song 😌💗🎶 | Sentiment: positive | Score: 0.8176
+891: 874: いいね | Sentiment: neutral | Score: 0.0
+892: 875: japan city pop of 80s it’s just another level of vibebut in this top i heard just only one song of this style😢 wtf | Sentiment: negative | Score: -0.7096
+893: 876: sukidakara was my favorite among them :&gt; that&#39;s the first song played on this video. | Sentiment: positive | Score: 0.6597
+894: 877: first time this early | Sentiment: neutral | Score: 0.0
+895: 878: wheres evangelion bro 😭 | Sentiment: negative | Score: -0.4767
+896: 879: thank you!! nick! | Sentiment: positive | Score: 0.5229
+897: 880: | Sentiment: neutral | Score: 0.0
+898: 881: so early | Sentiment: neutral | Score: 0.0
+899: 882: nice | Sentiment: positive | Score: 0.4215
+900: 883: i can’t believe you’ve never heard of ppap 😭 back in the days it was all over like gangnam style was. | Sentiment: negative | Score: -0.1531
+901: 884: that&#39;s fire | Sentiment: negative | Score: -0.34
+902: 885: how the hell did i get here so early? | Sentiment: negative | Score: -0.6808
+903: 886: we have been blessed with another 100 japan songs🙏🙏 | Sentiment: positive | Score: 0.5994
+904: 887: second | Sentiment: neutral | Score: 0.0
+905: 888: pen pineapple apple pen | Sentiment: neutral | Score: 0.0
+906: 889: wow i’m so early | Sentiment: positive | Score: 0.5859
+907: 890: first | Sentiment: neutral | Score: 0.0
