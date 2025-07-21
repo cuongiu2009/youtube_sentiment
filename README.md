@@ -21,6 +21,7 @@ Phân tích cảm xúc bình luận Youtube bằng các mô hình tự động (
 - Mô hình VADER phù hợp cho tiếng Anh, transformers đa ngôn ngữ, underthesea cho tiếng Việt.
 - Kết quả phụ thuộc vào chất lượng dữ liệu đầu vào và đặc thù ngôn ngữ.
 - Trực quan hóa giúp kiểm tra nhanh độ hợp lý của nhãn.
+- Nếu muốn chính xác hơn thì phải tự gắn nhãn cho các bình luận đặc biệt. Ví dụ như các bình luận mỉa mai, nói lóng,...
 
 ## 5. Hướng dẫn sử dụng
 1. Cài đặt các thư viện cần thiết bằng lệnh:
