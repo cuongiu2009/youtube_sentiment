@@ -38,7 +38,3 @@ Phân tích cảm xúc bình luận Youtube bằng các mô hình tự động (
 ## 6. Đề xuất phát triển
 - Kết hợp nhiều mô hình, bổ sung dữ liệu gán nhãn thủ công để đánh giá chính xác hơn.
 - Tích hợp dashboard hoặc webapp để trình bày kết quả trực quan.
-
-## 7. Liên hệ & bản quyền
-- Tác giả: Data Analyst Fresher
-- Dự án phục vụ mục đích học tập, không dùng cho thương mại.
